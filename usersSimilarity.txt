@@ -1,0 +1,32 @@
+User Similarity
+
+User 1   1.0
+User 2   1.0
+User 3   0.0
+User 4   1.0
+User 5   -1.0
+User 6   1.0
+User 7   0.0
+User 8   -1.0
+User 9   1.0
+User 10   1.0
+User 11   1.0
+User 12   1.0
+User 13   0.0
+User 14   1.0
+User 15   -1.0
+User 16   1.0
+User 17   1.0
+User 18   -1.0
+User 19   0.0
+User 20   1.0
+User 21   -1.0
+User 22   -1.0
+User 23   -1.0
+User 24   -1.0
+User 25   0.0
+User 26   0.0
+User 27   -1.0
+User 28   1.0
+User 29   0.0
+User 30   -1.0

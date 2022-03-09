@@ -1,0 +1,7650 @@
+User 1
+
+The Shawshank Redemption: 2
+The Godfather: 3
+The Godfather: Part II: 1
+The Dark Knight	: 3
+12 Angry Men: 4
+Schindler's List: 4
+The Lord of the Rings: The Return of the King: 4
+Pulp Fiction: 0
+The Good, the Bad and the Ugly: 0
+The Lord of the Rings: The Fellowship of the Ring: 2
+Fight Club: 0
+Forrest Gump: 0
+Inception: 5
+The Lord of the Rings: The Two Towers: 4
+Star Wars: Episode V - The Empire Strikes Back: 1
+The Matrix: 5
+Goodfellas: 0
+One Flew Over the Cuckoo's Nest: 4
+Seven Samurai: 4
+Seven: 1
+The Silence of the Lambs: 0
+City of God: 1
+Life Is Beautiful: 0
+It's a Wonderful Life: 3
+Saving Private Ryan: 5
+Star Wars: 5
+Interstellar: 3
+Spirited Away: 3
+The Green Mile: 5
+Parasite: 1
+Léon: The Professional: 1
+Seppuku: 2
+The Pianist: 5
+Terminator 2: Judgment Day: 3
+Back to the Future: 2
+The Usual Suspects: 1
+Psycho: 2
+The Lion King: 3
+Modern Times: 3
+American History X: 3
+Grave of the Fireflies: 2
+City Lights: 2
+Whiplash: 3
+Gladiator: 0
+The Departed: 0
+The Intouchables: 1
+The Prestige: 3
+Casablanca: 2
+Once Upon a Time in the West: 2
+Rear Window: 5
+Cinema Paradiso: 0
+Alien: 5
+Apocalypse Now: 5
+Memento: 5
+Raiders of the Lost Ark: 0
+The Great Dictator: 4
+Django Unchained: 0
+The Lives of Others: 1
+Paths of Glory: 1
+Sunset Boulevard: 3
+WALL·E: 4
+Avengers: Infinity War: 1
+Witness for the Prosecution: 0
+The Shining: 5
+Spider-Man: Into the Spider-Verse: 4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 1
+Princess Mononoke: 5
+Oldeuboi: 4
+Joker: 0
+Your Name.: 2
+Coco: 1
+The Dark Knight Rises: 4
+Aliens: 4
+Once Upon a Time in America: 0
+Avengers: Endgame: 5
+Capernaum: 3
+Das Boot: 5
+High and Low: 2
+3 Idiots: 2
+Toy Story: 1
+American Beauty: 2
+Amadeus: 2
+Braveheart: 3
+Inglourious Basterds: 2
+Hamilton: 3
+Good Will Hunting: 4
+Star Wars: Episode VI - Return of the Jedi: 2
+2001: A Space Odyssey: 1
+Reservoir Dogs: 3
+M: 3
+Like Stars on Earth: 3
+Come and See: 5
+Vertigo: 0
+Citizen Kane: 0
+The Hunt: 0
+Requiem for a Dream: 1
+Singin' in the Rain: 3
+North by Northwest: 0
+Eternal Sunshine of the Spotless Mind: 4
+Ikiru: 2
+Bicycle Thieves: 0
+Lawrence of Arabia: 4
+The Kid: 2
+Full Metal Jacket: 2
+Dangal: 5
+The Apartment: 3
+Incendies: 2
+The Father: 5
+Metropolis: 4
+Double Indemnity: 4
+A Clockwork Orange: 5
+Taxi Driver: 2
+Jodaeiye Nader Az Simin: 2
+The Sting: 5
+Pather Panchali: 2
+Scarface: 0
+Snatch: 0
+1917: 2
+Amélie: 4
+To Kill a Mockingbird: 5
+Toy Story 3: 5
+For a Few Dollars More: 2
+Up: 0
+Indiana Jones and the Last Crusade: 0
+Heat: 5
+L.A. Confidential: 5
+Jai Bhim: 4
+Yojimbo: 0
+Die Hard: 0
+Ran: 1
+Rashomon: 1
+Green Book: 5
+Downfall: 1
+Monty Python and the Holy Grail: 4
+All About Eve: 2
+Some Like It Hot: 3
+Batman Begins: 5
+Unforgiven: 3
+Bacheha-Ye Aseman: 2
+Howl's Moving Castle: 5
+The Wolf of Wall Street: 2
+Judgment at Nuremberg: 2
+The Great Escape: 5
+There Will Be Blood: 2
+Casino: 3
+The Treasure of the Sierra Madre: 5
+Pan's Labyrinth: 2
+A Beautiful Mind: 0
+The Secret in Their Eyes: 3
+Raging Bull: 5
+Dersu Uzala: 2
+Chinatown: 0
+My Neighbor Totoro: 3
+Lock, Stock and Two Smoking Barrels: 3
+Shutter Island: 1
+No Country for Old Men: 1
+The Gold Rush: 5
+Dial M for Murder: 2
+The Thing: 1
+The Seventh Seal: 4
+Three Billboards Outside Ebbing, Missouri: 5
+The Elephant Man: 1
+Klaus: 4
+The Sixth Sense: 3
+Dune: 1
+Wild Strawberries: 0
+The Third Man: 5
+The Truman Show: 5
+Jurassic Park: 5
+Memories of Murder: 3
+V for Vendetta: 4
+Blade Runner: 3
+Trainspotting: 5
+Inside Out: 4
+The Bridge on the River Kwai: 3
+Fargo: 0
+Warrior: 0
+Finding Nemo: 4
+Kill Bill: Vol. 1: 3
+Gone with the Wind: 1
+Tôkyô monogatari: 0
+On the Waterfront: 2
+My Father and My Son: 3
+Relatos Salvajes: 4
+Stalker: 3
+The Deer Hunter: 5
+Z: 0
+Prisoners: 0
+The Grand Budapest Hotel: 5
+Sherlock Jr.: 3
+The General: 4
+Gran Torino: 3
+Persona: 5
+Before Sunrise: 0
+Mary and Max: 3
+Catch Me If You Can: 2
+Mr. Smith Goes to Washington: 3
+In the Name of the Father: 2
+Barry Lyndon: 5
+Room: 1
+Gone Girl: 0
+Hacksaw Ridge: 1
+The Passion of Joan of Arc: 2
+Andhadhun: 5
+Ford v Ferrari: 1
+12 Years a Slave: 0
+To Be or Not to Be: 3
+The Big Lebowski: 1
+Autumn Sonata: 2
+Dead Poets Society: 2
+How to Train Your Dragon: 2
+Mad Max: Fury Road: 3
+Ben-Hur: 5
+Harry Potter and the Deathly Hallows: Part 2: 3
+Million Dollar Baby: 0
+The Wages of Fear: 1
+The Handmaiden: 2
+Stand by Me: 0
+Network: 0
+Logan: 0
+Gangs of Wasseypur: 3
+Cool Hand Luke: 2
+Hachi: A Dog's Tale: 0
+La Haine: 3
+The 400 Blows: 1
+The Shape of Voice: 4
+Platoon: 3
+Spotlight: 4
+Monsters, Inc.: 3
+Rebecca: 1
+Life of Brian: 4
+Hotel Rwanda: 4
+The Bandit: 3
+In the Mood for Love: 5
+Rush: 2
+Into the Wild: 2
+Rocky: 2
+Amores perros: 2
+Nausicaä of the Valley of the Wind: 2
+Andrei Rublev: 2
+It Happened One Night: 4
+Before Sunset: 2
+Fanny and Alexander: 5
+Neon Genesis Evangelion: The End of Evangelion: 4
+The Battle of Algiers: 2
+96: 1
+Nights of Cabiria: 4
+The Princess Bride: 5
+Paris, Texas: 3
+Three Colours: Red: 4
+
+
+
+User 2
+
+The Shawshank Redemption: 4
+The Godfather: 4
+The Godfather: Part II: 0
+The Dark Knight	: 4
+12 Angry Men: 4
+Schindler's List: 2
+The Lord of the Rings: The Return of the King: 5
+Pulp Fiction: 0
+The Good, the Bad and the Ugly: 1
+The Lord of the Rings: The Fellowship of the Ring: 0
+Fight Club: 4
+Forrest Gump: 4
+Inception: 5
+The Lord of the Rings: The Two Towers: 4
+Star Wars: Episode V - The Empire Strikes Back: 1
+The Matrix: 4
+Goodfellas: 3
+One Flew Over the Cuckoo's Nest: 5
+Seven Samurai: 0
+Seven: 4
+The Silence of the Lambs: 1
+City of God: 0
+Life Is Beautiful: 1
+It's a Wonderful Life: 2
+Saving Private Ryan: 3
+Star Wars: 4
+Interstellar: 0
+Spirited Away: 4
+The Green Mile: 1
+Parasite: 2
+Léon: The Professional: 4
+Seppuku: 0
+The Pianist: 2
+Terminator 2: Judgment Day: 3
+Back to the Future: 3
+The Usual Suspects: 1
+Psycho: 0
+The Lion King: 0
+Modern Times: 5
+American History X: 4
+Grave of the Fireflies: 1
+City Lights: 0
+Whiplash: 1
+Gladiator: 1
+The Departed: 1
+The Intouchables: 3
+The Prestige: 2
+Casablanca: 3
+Once Upon a Time in the West: 2
+Rear Window: 3
+Cinema Paradiso: 0
+Alien: 3
+Apocalypse Now: 5
+Memento: 2
+Raiders of the Lost Ark: 4
+The Great Dictator: 0
+Django Unchained: 3
+The Lives of Others: 0
+Paths of Glory: 0
+Sunset Boulevard: 3
+WALL·E: 0
+Avengers: Infinity War: 5
+Witness for the Prosecution: 2
+The Shining: 0
+Spider-Man: Into the Spider-Verse: 5
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 0
+Princess Mononoke: 3
+Oldeuboi: 1
+Joker: 2
+Your Name.: 0
+Coco: 2
+The Dark Knight Rises: 0
+Aliens: 3
+Once Upon a Time in America: 4
+Avengers: Endgame: 5
+Capernaum: 2
+Das Boot: 5
+High and Low: 0
+3 Idiots: 3
+Toy Story: 1
+American Beauty: 2
+Amadeus: 0
+Braveheart: 5
+Inglourious Basterds: 2
+Hamilton: 1
+Good Will Hunting: 1
+Star Wars: Episode VI - Return of the Jedi: 0
+2001: A Space Odyssey: 0
+Reservoir Dogs: 0
+M: 5
+Like Stars on Earth: 2
+Come and See: 2
+Vertigo: 0
+Citizen Kane: 1
+The Hunt: 5
+Requiem for a Dream: 3
+Singin' in the Rain: 4
+North by Northwest: 1
+Eternal Sunshine of the Spotless Mind: 1
+Ikiru: 0
+Bicycle Thieves: 3
+Lawrence of Arabia: 0
+The Kid: 0
+Full Metal Jacket: 2
+Dangal: 3
+The Apartment: 4
+Incendies: 4
+The Father: 5
+Metropolis: 5
+Double Indemnity: 1
+A Clockwork Orange: 5
+Taxi Driver: 5
+Jodaeiye Nader Az Simin: 1
+The Sting: 2
+Pather Panchali: 3
+Scarface: 0
+Snatch: 0
+1917: 0
+Amélie: 0
+To Kill a Mockingbird: 5
+Toy Story 3: 0
+For a Few Dollars More: 5
+Up: 0
+Indiana Jones and the Last Crusade: 3
+Heat: 3
+L.A. Confidential: 5
+Jai Bhim: 1
+Yojimbo: 4
+Die Hard: 5
+Ran: 2
+Rashomon: 0
+Green Book: 3
+Downfall: 0
+Monty Python and the Holy Grail: 4
+All About Eve: 1
+Some Like It Hot: 2
+Batman Begins: 4
+Unforgiven: 4
+Bacheha-Ye Aseman: 3
+Howl's Moving Castle: 3
+The Wolf of Wall Street: 0
+Judgment at Nuremberg: 2
+The Great Escape: 3
+There Will Be Blood: 2
+Casino: 3
+The Treasure of the Sierra Madre: 3
+Pan's Labyrinth: 5
+A Beautiful Mind: 5
+The Secret in Their Eyes: 2
+Raging Bull: 1
+Dersu Uzala: 0
+Chinatown: 2
+My Neighbor Totoro: 3
+Lock, Stock and Two Smoking Barrels: 1
+Shutter Island: 4
+No Country for Old Men: 3
+The Gold Rush: 0
+Dial M for Murder: 2
+The Thing: 0
+The Seventh Seal: 1
+Three Billboards Outside Ebbing, Missouri: 4
+The Elephant Man: 5
+Klaus: 1
+The Sixth Sense: 1
+Dune: 5
+Wild Strawberries: 0
+The Third Man: 4
+The Truman Show: 0
+Jurassic Park: 4
+Memories of Murder: 3
+V for Vendetta: 5
+Blade Runner: 2
+Trainspotting: 5
+Inside Out: 5
+The Bridge on the River Kwai: 3
+Fargo: 3
+Warrior: 1
+Finding Nemo: 4
+Kill Bill: Vol. 1: 2
+Gone with the Wind: 0
+Tôkyô monogatari: 2
+On the Waterfront: 2
+My Father and My Son: 1
+Relatos Salvajes: 1
+Stalker: 5
+The Deer Hunter: 2
+Z: 2
+Prisoners: 1
+The Grand Budapest Hotel: 4
+Sherlock Jr.: 5
+The General: 3
+Gran Torino: 0
+Persona: 3
+Before Sunrise: 0
+Mary and Max: 2
+Catch Me If You Can: 5
+Mr. Smith Goes to Washington: 0
+In the Name of the Father: 0
+Barry Lyndon: 4
+Room: 5
+Gone Girl: 5
+Hacksaw Ridge: 1
+The Passion of Joan of Arc: 2
+Andhadhun: 1
+Ford v Ferrari: 3
+12 Years a Slave: 4
+To Be or Not to Be: 1
+The Big Lebowski: 3
+Autumn Sonata: 4
+Dead Poets Society: 5
+How to Train Your Dragon: 4
+Mad Max: Fury Road: 2
+Ben-Hur: 2
+Harry Potter and the Deathly Hallows: Part 2: 2
+Million Dollar Baby: 3
+The Wages of Fear: 2
+The Handmaiden: 5
+Stand by Me: 1
+Network: 1
+Logan: 1
+Gangs of Wasseypur: 1
+Cool Hand Luke: 0
+Hachi: A Dog's Tale: 1
+La Haine: 4
+The 400 Blows: 0
+The Shape of Voice: 3
+Platoon: 5
+Spotlight: 1
+Monsters, Inc.: 5
+Rebecca: 3
+Life of Brian: 4
+Hotel Rwanda: 3
+The Bandit: 5
+In the Mood for Love: 3
+Rush: 5
+Into the Wild: 2
+Rocky: 4
+Amores perros: 1
+Nausicaä of the Valley of the Wind: 2
+Andrei Rublev: 5
+It Happened One Night: 4
+Before Sunset: 3
+Fanny and Alexander: 5
+Neon Genesis Evangelion: The End of Evangelion: 0
+The Battle of Algiers: 4
+96: 5
+Nights of Cabiria: 4
+The Princess Bride: 4
+Paris, Texas: 5
+Three Colours: Red: 4
+
+
+
+User 3
+
+The Shawshank Redemption: 0
+The Godfather: 3
+The Godfather: Part II: 0
+The Dark Knight	: 3
+12 Angry Men: 5
+Schindler's List: 5
+The Lord of the Rings: The Return of the King: 2
+Pulp Fiction: 2
+The Good, the Bad and the Ugly: 3
+The Lord of the Rings: The Fellowship of the Ring: 2
+Fight Club: 2
+Forrest Gump: 0
+Inception: 0
+The Lord of the Rings: The Two Towers: 2
+Star Wars: Episode V - The Empire Strikes Back: 5
+The Matrix: 4
+Goodfellas: 0
+One Flew Over the Cuckoo's Nest: 3
+Seven Samurai: 3
+Seven: 4
+The Silence of the Lambs: 4
+City of God: 4
+Life Is Beautiful: 1
+It's a Wonderful Life: 3
+Saving Private Ryan: 3
+Star Wars: 5
+Interstellar: 4
+Spirited Away: 0
+The Green Mile: 0
+Parasite: 1
+Léon: The Professional: 3
+Seppuku: 5
+The Pianist: 2
+Terminator 2: Judgment Day: 4
+Back to the Future: 0
+The Usual Suspects: 5
+Psycho: 1
+The Lion King: 3
+Modern Times: 3
+American History X: 5
+Grave of the Fireflies: 5
+City Lights: 2
+Whiplash: 0
+Gladiator: 1
+The Departed: 2
+The Intouchables: 0
+The Prestige: 4
+Casablanca: 0
+Once Upon a Time in the West: 4
+Rear Window: 0
+Cinema Paradiso: 3
+Alien: 3
+Apocalypse Now: 5
+Memento: 1
+Raiders of the Lost Ark: 0
+The Great Dictator: 1
+Django Unchained: 0
+The Lives of Others: 2
+Paths of Glory: 3
+Sunset Boulevard: 3
+WALL·E: 5
+Avengers: Infinity War: 1
+Witness for the Prosecution: 2
+The Shining: 1
+Spider-Man: Into the Spider-Verse: 3
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 0
+Princess Mononoke: 5
+Oldeuboi: 3
+Joker: 5
+Your Name.: 4
+Coco: 0
+The Dark Knight Rises: 3
+Aliens: 3
+Once Upon a Time in America: 0
+Avengers: Endgame: 0
+Capernaum: 1
+Das Boot: 2
+High and Low: 3
+3 Idiots: 1
+Toy Story: 0
+American Beauty: 5
+Amadeus: 3
+Braveheart: 5
+Inglourious Basterds: 3
+Hamilton: 2
+Good Will Hunting: 5
+Star Wars: Episode VI - Return of the Jedi: 0
+2001: A Space Odyssey: 1
+Reservoir Dogs: 3
+M: 3
+Like Stars on Earth: 4
+Come and See: 3
+Vertigo: 1
+Citizen Kane: 2
+The Hunt: 5
+Requiem for a Dream: 5
+Singin' in the Rain: 5
+North by Northwest: 1
+Eternal Sunshine of the Spotless Mind: 0
+Ikiru: 1
+Bicycle Thieves: 2
+Lawrence of Arabia: 5
+The Kid: 0
+Full Metal Jacket: 0
+Dangal: 2
+The Apartment: 0
+Incendies: 3
+The Father: 1
+Metropolis: 2
+Double Indemnity: 1
+A Clockwork Orange: 3
+Taxi Driver: 3
+Jodaeiye Nader Az Simin: 4
+The Sting: 2
+Pather Panchali: 0
+Scarface: 5
+Snatch: 4
+1917: 3
+Amélie: 3
+To Kill a Mockingbird: 2
+Toy Story 3: 0
+For a Few Dollars More: 2
+Up: 5
+Indiana Jones and the Last Crusade: 2
+Heat: 3
+L.A. Confidential: 5
+Jai Bhim: 3
+Yojimbo: 1
+Die Hard: 3
+Ran: 1
+Rashomon: 3
+Green Book: 0
+Downfall: 4
+Monty Python and the Holy Grail: 5
+All About Eve: 2
+Some Like It Hot: 2
+Batman Begins: 2
+Unforgiven: 1
+Bacheha-Ye Aseman: 3
+Howl's Moving Castle: 0
+The Wolf of Wall Street: 5
+Judgment at Nuremberg: 0
+The Great Escape: 1
+There Will Be Blood: 3
+Casino: 2
+The Treasure of the Sierra Madre: 5
+Pan's Labyrinth: 2
+A Beautiful Mind: 3
+The Secret in Their Eyes: 3
+Raging Bull: 2
+Dersu Uzala: 5
+Chinatown: 3
+My Neighbor Totoro: 4
+Lock, Stock and Two Smoking Barrels: 4
+Shutter Island: 0
+No Country for Old Men: 1
+The Gold Rush: 1
+Dial M for Murder: 5
+The Thing: 5
+The Seventh Seal: 3
+Three Billboards Outside Ebbing, Missouri: 1
+The Elephant Man: 0
+Klaus: 3
+The Sixth Sense: 0
+Dune: 1
+Wild Strawberries: 2
+The Third Man: 4
+The Truman Show: 2
+Jurassic Park: 0
+Memories of Murder: 2
+V for Vendetta: 0
+Blade Runner: 1
+Trainspotting: 3
+Inside Out: 3
+The Bridge on the River Kwai: 0
+Fargo: 3
+Warrior: 0
+Finding Nemo: 1
+Kill Bill: Vol. 1: 4
+Gone with the Wind: 4
+Tôkyô monogatari: 2
+On the Waterfront: 2
+My Father and My Son: 0
+Relatos Salvajes: 5
+Stalker: 1
+The Deer Hunter: 5
+Z: 1
+Prisoners: 5
+The Grand Budapest Hotel: 2
+Sherlock Jr.: 1
+The General: 1
+Gran Torino: 1
+Persona: 1
+Before Sunrise: 5
+Mary and Max: 0
+Catch Me If You Can: 1
+Mr. Smith Goes to Washington: 2
+In the Name of the Father: 1
+Barry Lyndon: 0
+Room: 1
+Gone Girl: 5
+Hacksaw Ridge: 2
+The Passion of Joan of Arc: 5
+Andhadhun: 2
+Ford v Ferrari: 3
+12 Years a Slave: 0
+To Be or Not to Be: 2
+The Big Lebowski: 2
+Autumn Sonata: 3
+Dead Poets Society: 5
+How to Train Your Dragon: 5
+Mad Max: Fury Road: 3
+Ben-Hur: 4
+Harry Potter and the Deathly Hallows: Part 2: 2
+Million Dollar Baby: 3
+The Wages of Fear: 4
+The Handmaiden: 1
+Stand by Me: 4
+Network: 4
+Logan: 5
+Gangs of Wasseypur: 5
+Cool Hand Luke: 4
+Hachi: A Dog's Tale: 2
+La Haine: 0
+The 400 Blows: 1
+The Shape of Voice: 5
+Platoon: 3
+Spotlight: 0
+Monsters, Inc.: 5
+Rebecca: 3
+Life of Brian: 4
+Hotel Rwanda: 3
+The Bandit: 5
+In the Mood for Love: 0
+Rush: 1
+Into the Wild: 4
+Rocky: 5
+Amores perros: 2
+Nausicaä of the Valley of the Wind: 3
+Andrei Rublev: 0
+It Happened One Night: 1
+Before Sunset: 1
+Fanny and Alexander: 3
+Neon Genesis Evangelion: The End of Evangelion: 5
+The Battle of Algiers: 1
+96: 5
+Nights of Cabiria: 4
+The Princess Bride: 3
+Paris, Texas: 3
+Three Colours: Red: 5
+
+
+
+User 4
+
+The Shawshank Redemption: 1
+The Godfather: 4
+The Godfather: Part II: 4
+The Dark Knight	: 4
+12 Angry Men: 1
+Schindler's List: 5
+The Lord of the Rings: The Return of the King: 5
+Pulp Fiction: 3
+The Good, the Bad and the Ugly: 4
+The Lord of the Rings: The Fellowship of the Ring: 0
+Fight Club: 0
+Forrest Gump: 0
+Inception: 2
+The Lord of the Rings: The Two Towers: 4
+Star Wars: Episode V - The Empire Strikes Back: 5
+The Matrix: 3
+Goodfellas: 3
+One Flew Over the Cuckoo's Nest: 3
+Seven Samurai: 3
+Seven: 1
+The Silence of the Lambs: 3
+City of God: 0
+Life Is Beautiful: 4
+It's a Wonderful Life: 4
+Saving Private Ryan: 3
+Star Wars: 4
+Interstellar: 5
+Spirited Away: 2
+The Green Mile: 0
+Parasite: 2
+Léon: The Professional: 4
+Seppuku: 1
+The Pianist: 0
+Terminator 2: Judgment Day: 3
+Back to the Future: 1
+The Usual Suspects: 0
+Psycho: 0
+The Lion King: 5
+Modern Times: 3
+American History X: 2
+Grave of the Fireflies: 3
+City Lights: 0
+Whiplash: 1
+Gladiator: 1
+The Departed: 1
+The Intouchables: 0
+The Prestige: 2
+Casablanca: 2
+Once Upon a Time in the West: 1
+Rear Window: 0
+Cinema Paradiso: 4
+Alien: 3
+Apocalypse Now: 3
+Memento: 4
+Raiders of the Lost Ark: 3
+The Great Dictator: 1
+Django Unchained: 5
+The Lives of Others: 2
+Paths of Glory: 3
+Sunset Boulevard: 5
+WALL·E: 4
+Avengers: Infinity War: 3
+Witness for the Prosecution: 5
+The Shining: 2
+Spider-Man: Into the Spider-Verse: 2
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 0
+Princess Mononoke: 5
+Oldeuboi: 4
+Joker: 0
+Your Name.: 5
+Coco: 4
+The Dark Knight Rises: 0
+Aliens: 2
+Once Upon a Time in America: 5
+Avengers: Endgame: 2
+Capernaum: 1
+Das Boot: 4
+High and Low: 4
+3 Idiots: 3
+Toy Story: 2
+American Beauty: 2
+Amadeus: 2
+Braveheart: 2
+Inglourious Basterds: 3
+Hamilton: 0
+Good Will Hunting: 0
+Star Wars: Episode VI - Return of the Jedi: 2
+2001: A Space Odyssey: 5
+Reservoir Dogs: 3
+M: 5
+Like Stars on Earth: 5
+Come and See: 4
+Vertigo: 0
+Citizen Kane: 3
+The Hunt: 2
+Requiem for a Dream: 0
+Singin' in the Rain: 1
+North by Northwest: 1
+Eternal Sunshine of the Spotless Mind: 5
+Ikiru: 2
+Bicycle Thieves: 4
+Lawrence of Arabia: 0
+The Kid: 4
+Full Metal Jacket: 4
+Dangal: 5
+The Apartment: 1
+Incendies: 0
+The Father: 0
+Metropolis: 4
+Double Indemnity: 0
+A Clockwork Orange: 3
+Taxi Driver: 5
+Jodaeiye Nader Az Simin: 1
+The Sting: 3
+Pather Panchali: 1
+Scarface: 4
+Snatch: 0
+1917: 5
+Amélie: 0
+To Kill a Mockingbird: 2
+Toy Story 3: 1
+For a Few Dollars More: 3
+Up: 2
+Indiana Jones and the Last Crusade: 3
+Heat: 3
+L.A. Confidential: 1
+Jai Bhim: 3
+Yojimbo: 0
+Die Hard: 5
+Ran: 5
+Rashomon: 4
+Green Book: 3
+Downfall: 2
+Monty Python and the Holy Grail: 1
+All About Eve: 5
+Some Like It Hot: 4
+Batman Begins: 2
+Unforgiven: 2
+Bacheha-Ye Aseman: 1
+Howl's Moving Castle: 4
+The Wolf of Wall Street: 4
+Judgment at Nuremberg: 0
+The Great Escape: 1
+There Will Be Blood: 0
+Casino: 5
+The Treasure of the Sierra Madre: 2
+Pan's Labyrinth: 3
+A Beautiful Mind: 1
+The Secret in Their Eyes: 3
+Raging Bull: 1
+Dersu Uzala: 4
+Chinatown: 5
+My Neighbor Totoro: 0
+Lock, Stock and Two Smoking Barrels: 1
+Shutter Island: 5
+No Country for Old Men: 0
+The Gold Rush: 1
+Dial M for Murder: 4
+The Thing: 0
+The Seventh Seal: 1
+Three Billboards Outside Ebbing, Missouri: 2
+The Elephant Man: 2
+Klaus: 4
+The Sixth Sense: 3
+Dune: 0
+Wild Strawberries: 5
+The Third Man: 5
+The Truman Show: 4
+Jurassic Park: 0
+Memories of Murder: 3
+V for Vendetta: 4
+Blade Runner: 0
+Trainspotting: 4
+Inside Out: 1
+The Bridge on the River Kwai: 5
+Fargo: 1
+Warrior: 2
+Finding Nemo: 4
+Kill Bill: Vol. 1: 4
+Gone with the Wind: 2
+Tôkyô monogatari: 4
+On the Waterfront: 4
+My Father and My Son: 2
+Relatos Salvajes: 4
+Stalker: 3
+The Deer Hunter: 1
+Z: 4
+Prisoners: 5
+The Grand Budapest Hotel: 1
+Sherlock Jr.: 0
+The General: 0
+Gran Torino: 1
+Persona: 5
+Before Sunrise: 2
+Mary and Max: 0
+Catch Me If You Can: 4
+Mr. Smith Goes to Washington: 1
+In the Name of the Father: 3
+Barry Lyndon: 0
+Room: 2
+Gone Girl: 2
+Hacksaw Ridge: 0
+The Passion of Joan of Arc: 4
+Andhadhun: 4
+Ford v Ferrari: 1
+12 Years a Slave: 0
+To Be or Not to Be: 5
+The Big Lebowski: 4
+Autumn Sonata: 0
+Dead Poets Society: 2
+How to Train Your Dragon: 0
+Mad Max: Fury Road: 0
+Ben-Hur: 5
+Harry Potter and the Deathly Hallows: Part 2: 4
+Million Dollar Baby: 1
+The Wages of Fear: 0
+The Handmaiden: 2
+Stand by Me: 3
+Network: 2
+Logan: 5
+Gangs of Wasseypur: 5
+Cool Hand Luke: 4
+Hachi: A Dog's Tale: 0
+La Haine: 1
+The 400 Blows: 4
+The Shape of Voice: 3
+Platoon: 0
+Spotlight: 4
+Monsters, Inc.: 0
+Rebecca: 3
+Life of Brian: 4
+Hotel Rwanda: 5
+The Bandit: 5
+In the Mood for Love: 2
+Rush: 4
+Into the Wild: 1
+Rocky: 1
+Amores perros: 2
+Nausicaä of the Valley of the Wind: 3
+Andrei Rublev: 5
+It Happened One Night: 4
+Before Sunset: 1
+Fanny and Alexander: 1
+Neon Genesis Evangelion: The End of Evangelion: 1
+The Battle of Algiers: 2
+96: 2
+Nights of Cabiria: 5
+The Princess Bride: 5
+Paris, Texas: 5
+Three Colours: Red: 3
+
+
+
+User 5
+
+The Shawshank Redemption: 2
+The Godfather: 1
+The Godfather: Part II: 1
+The Dark Knight	: 4
+12 Angry Men: 4
+Schindler's List: 5
+The Lord of the Rings: The Return of the King: 1
+Pulp Fiction: 3
+The Good, the Bad and the Ugly: 3
+The Lord of the Rings: The Fellowship of the Ring: 1
+Fight Club: 4
+Forrest Gump: 3
+Inception: 5
+The Lord of the Rings: The Two Towers: 5
+Star Wars: Episode V - The Empire Strikes Back: 0
+The Matrix: 5
+Goodfellas: 0
+One Flew Over the Cuckoo's Nest: 4
+Seven Samurai: 4
+Seven: 1
+The Silence of the Lambs: 2
+City of God: 5
+Life Is Beautiful: 5
+It's a Wonderful Life: 3
+Saving Private Ryan: 0
+Star Wars: 3
+Interstellar: 0
+Spirited Away: 5
+The Green Mile: 0
+Parasite: 3
+Léon: The Professional: 5
+Seppuku: 5
+The Pianist: 1
+Terminator 2: Judgment Day: 1
+Back to the Future: 0
+The Usual Suspects: 3
+Psycho: 0
+The Lion King: 0
+Modern Times: 4
+American History X: 0
+Grave of the Fireflies: 4
+City Lights: 3
+Whiplash: 1
+Gladiator: 2
+The Departed: 4
+The Intouchables: 4
+The Prestige: 3
+Casablanca: 3
+Once Upon a Time in the West: 0
+Rear Window: 0
+Cinema Paradiso: 2
+Alien: 4
+Apocalypse Now: 0
+Memento: 1
+Raiders of the Lost Ark: 4
+The Great Dictator: 1
+Django Unchained: 5
+The Lives of Others: 4
+Paths of Glory: 3
+Sunset Boulevard: 4
+WALL·E: 1
+Avengers: Infinity War: 2
+Witness for the Prosecution: 4
+The Shining: 3
+Spider-Man: Into the Spider-Verse: 0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 0
+Princess Mononoke: 0
+Oldeuboi: 3
+Joker: 4
+Your Name.: 5
+Coco: 4
+The Dark Knight Rises: 5
+Aliens: 4
+Once Upon a Time in America: 2
+Avengers: Endgame: 3
+Capernaum: 2
+Das Boot: 2
+High and Low: 1
+3 Idiots: 3
+Toy Story: 4
+American Beauty: 3
+Amadeus: 3
+Braveheart: 1
+Inglourious Basterds: 0
+Hamilton: 4
+Good Will Hunting: 5
+Star Wars: Episode VI - Return of the Jedi: 5
+2001: A Space Odyssey: 3
+Reservoir Dogs: 1
+M: 4
+Like Stars on Earth: 0
+Come and See: 0
+Vertigo: 1
+Citizen Kane: 5
+The Hunt: 1
+Requiem for a Dream: 5
+Singin' in the Rain: 0
+North by Northwest: 5
+Eternal Sunshine of the Spotless Mind: 1
+Ikiru: 5
+Bicycle Thieves: 4
+Lawrence of Arabia: 4
+The Kid: 5
+Full Metal Jacket: 0
+Dangal: 3
+The Apartment: 1
+Incendies: 2
+The Father: 2
+Metropolis: 4
+Double Indemnity: 1
+A Clockwork Orange: 1
+Taxi Driver: 4
+Jodaeiye Nader Az Simin: 5
+The Sting: 4
+Pather Panchali: 2
+Scarface: 5
+Snatch: 2
+1917: 1
+Amélie: 3
+To Kill a Mockingbird: 2
+Toy Story 3: 2
+For a Few Dollars More: 1
+Up: 1
+Indiana Jones and the Last Crusade: 0
+Heat: 1
+L.A. Confidential: 1
+Jai Bhim: 1
+Yojimbo: 1
+Die Hard: 5
+Ran: 3
+Rashomon: 0
+Green Book: 3
+Downfall: 5
+Monty Python and the Holy Grail: 4
+All About Eve: 3
+Some Like It Hot: 4
+Batman Begins: 5
+Unforgiven: 1
+Bacheha-Ye Aseman: 2
+Howl's Moving Castle: 2
+The Wolf of Wall Street: 1
+Judgment at Nuremberg: 4
+The Great Escape: 3
+There Will Be Blood: 1
+Casino: 4
+The Treasure of the Sierra Madre: 4
+Pan's Labyrinth: 4
+A Beautiful Mind: 5
+The Secret in Their Eyes: 0
+Raging Bull: 5
+Dersu Uzala: 1
+Chinatown: 2
+My Neighbor Totoro: 5
+Lock, Stock and Two Smoking Barrels: 1
+Shutter Island: 3
+No Country for Old Men: 0
+The Gold Rush: 4
+Dial M for Murder: 0
+The Thing: 3
+The Seventh Seal: 0
+Three Billboards Outside Ebbing, Missouri: 5
+The Elephant Man: 4
+Klaus: 4
+The Sixth Sense: 5
+Dune: 2
+Wild Strawberries: 2
+The Third Man: 2
+The Truman Show: 5
+Jurassic Park: 2
+Memories of Murder: 1
+V for Vendetta: 5
+Blade Runner: 2
+Trainspotting: 5
+Inside Out: 0
+The Bridge on the River Kwai: 0
+Fargo: 2
+Warrior: 4
+Finding Nemo: 3
+Kill Bill: Vol. 1: 4
+Gone with the Wind: 5
+Tôkyô monogatari: 2
+On the Waterfront: 3
+My Father and My Son: 4
+Relatos Salvajes: 1
+Stalker: 4
+The Deer Hunter: 4
+Z: 3
+Prisoners: 4
+The Grand Budapest Hotel: 5
+Sherlock Jr.: 3
+The General: 4
+Gran Torino: 5
+Persona: 0
+Before Sunrise: 1
+Mary and Max: 2
+Catch Me If You Can: 5
+Mr. Smith Goes to Washington: 2
+In the Name of the Father: 2
+Barry Lyndon: 5
+Room: 5
+Gone Girl: 2
+Hacksaw Ridge: 4
+The Passion of Joan of Arc: 1
+Andhadhun: 0
+Ford v Ferrari: 1
+12 Years a Slave: 1
+To Be or Not to Be: 0
+The Big Lebowski: 1
+Autumn Sonata: 4
+Dead Poets Society: 3
+How to Train Your Dragon: 2
+Mad Max: Fury Road: 5
+Ben-Hur: 0
+Harry Potter and the Deathly Hallows: Part 2: 3
+Million Dollar Baby: 5
+The Wages of Fear: 2
+The Handmaiden: 1
+Stand by Me: 1
+Network: 1
+Logan: 5
+Gangs of Wasseypur: 5
+Cool Hand Luke: 1
+Hachi: A Dog's Tale: 5
+La Haine: 2
+The 400 Blows: 2
+The Shape of Voice: 0
+Platoon: 4
+Spotlight: 4
+Monsters, Inc.: 2
+Rebecca: 5
+Life of Brian: 3
+Hotel Rwanda: 3
+The Bandit: 5
+In the Mood for Love: 3
+Rush: 1
+Into the Wild: 4
+Rocky: 1
+Amores perros: 2
+Nausicaä of the Valley of the Wind: 1
+Andrei Rublev: 5
+It Happened One Night: 3
+Before Sunset: 4
+Fanny and Alexander: 4
+Neon Genesis Evangelion: The End of Evangelion: 1
+The Battle of Algiers: 4
+96: 2
+Nights of Cabiria: 4
+The Princess Bride: 0
+Paris, Texas: 0
+Three Colours: Red: 4
+
+
+
+User 6
+
+The Shawshank Redemption: 2
+The Godfather: 0
+The Godfather: Part II: 2
+The Dark Knight	: 0
+12 Angry Men: 4
+Schindler's List: 1
+The Lord of the Rings: The Return of the King: 3
+Pulp Fiction: 1
+The Good, the Bad and the Ugly: 5
+The Lord of the Rings: The Fellowship of the Ring: 5
+Fight Club: 1
+Forrest Gump: 3
+Inception: 1
+The Lord of the Rings: The Two Towers: 3
+Star Wars: Episode V - The Empire Strikes Back: 2
+The Matrix: 0
+Goodfellas: 5
+One Flew Over the Cuckoo's Nest: 1
+Seven Samurai: 5
+Seven: 1
+The Silence of the Lambs: 5
+City of God: 0
+Life Is Beautiful: 0
+It's a Wonderful Life: 0
+Saving Private Ryan: 3
+Star Wars: 0
+Interstellar: 3
+Spirited Away: 3
+The Green Mile: 5
+Parasite: 2
+Léon: The Professional: 5
+Seppuku: 2
+The Pianist: 2
+Terminator 2: Judgment Day: 3
+Back to the Future: 1
+The Usual Suspects: 2
+Psycho: 4
+The Lion King: 0
+Modern Times: 3
+American History X: 5
+Grave of the Fireflies: 5
+City Lights: 0
+Whiplash: 2
+Gladiator: 5
+The Departed: 5
+The Intouchables: 2
+The Prestige: 2
+Casablanca: 3
+Once Upon a Time in the West: 2
+Rear Window: 3
+Cinema Paradiso: 1
+Alien: 1
+Apocalypse Now: 0
+Memento: 1
+Raiders of the Lost Ark: 1
+The Great Dictator: 1
+Django Unchained: 1
+The Lives of Others: 0
+Paths of Glory: 5
+Sunset Boulevard: 5
+WALL·E: 3
+Avengers: Infinity War: 2
+Witness for the Prosecution: 1
+The Shining: 4
+Spider-Man: Into the Spider-Verse: 1
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 2
+Princess Mononoke: 3
+Oldeuboi: 2
+Joker: 1
+Your Name.: 3
+Coco: 5
+The Dark Knight Rises: 3
+Aliens: 3
+Once Upon a Time in America: 2
+Avengers: Endgame: 3
+Capernaum: 0
+Das Boot: 0
+High and Low: 3
+3 Idiots: 4
+Toy Story: 4
+American Beauty: 4
+Amadeus: 5
+Braveheart: 2
+Inglourious Basterds: 0
+Hamilton: 4
+Good Will Hunting: 1
+Star Wars: Episode VI - Return of the Jedi: 2
+2001: A Space Odyssey: 2
+Reservoir Dogs: 3
+M: 1
+Like Stars on Earth: 5
+Come and See: 3
+Vertigo: 4
+Citizen Kane: 3
+The Hunt: 1
+Requiem for a Dream: 5
+Singin' in the Rain: 5
+North by Northwest: 4
+Eternal Sunshine of the Spotless Mind: 4
+Ikiru: 1
+Bicycle Thieves: 3
+Lawrence of Arabia: 2
+The Kid: 4
+Full Metal Jacket: 1
+Dangal: 1
+The Apartment: 2
+Incendies: 1
+The Father: 1
+Metropolis: 5
+Double Indemnity: 2
+A Clockwork Orange: 5
+Taxi Driver: 0
+Jodaeiye Nader Az Simin: 1
+The Sting: 2
+Pather Panchali: 0
+Scarface: 3
+Snatch: 2
+1917: 5
+Amélie: 3
+To Kill a Mockingbird: 5
+Toy Story 3: 3
+For a Few Dollars More: 4
+Up: 5
+Indiana Jones and the Last Crusade: 5
+Heat: 3
+L.A. Confidential: 2
+Jai Bhim: 2
+Yojimbo: 1
+Die Hard: 0
+Ran: 5
+Rashomon: 3
+Green Book: 4
+Downfall: 2
+Monty Python and the Holy Grail: 3
+All About Eve: 5
+Some Like It Hot: 1
+Batman Begins: 3
+Unforgiven: 0
+Bacheha-Ye Aseman: 2
+Howl's Moving Castle: 0
+The Wolf of Wall Street: 1
+Judgment at Nuremberg: 1
+The Great Escape: 4
+There Will Be Blood: 5
+Casino: 5
+The Treasure of the Sierra Madre: 4
+Pan's Labyrinth: 0
+A Beautiful Mind: 1
+The Secret in Their Eyes: 2
+Raging Bull: 3
+Dersu Uzala: 2
+Chinatown: 2
+My Neighbor Totoro: 3
+Lock, Stock and Two Smoking Barrels: 3
+Shutter Island: 0
+No Country for Old Men: 0
+The Gold Rush: 2
+Dial M for Murder: 1
+The Thing: 4
+The Seventh Seal: 2
+Three Billboards Outside Ebbing, Missouri: 3
+The Elephant Man: 5
+Klaus: 3
+The Sixth Sense: 5
+Dune: 0
+Wild Strawberries: 1
+The Third Man: 1
+The Truman Show: 3
+Jurassic Park: 0
+Memories of Murder: 4
+V for Vendetta: 4
+Blade Runner: 2
+Trainspotting: 5
+Inside Out: 0
+The Bridge on the River Kwai: 1
+Fargo: 1
+Warrior: 5
+Finding Nemo: 1
+Kill Bill: Vol. 1: 2
+Gone with the Wind: 0
+Tôkyô monogatari: 2
+On the Waterfront: 1
+My Father and My Son: 4
+Relatos Salvajes: 4
+Stalker: 1
+The Deer Hunter: 5
+Z: 2
+Prisoners: 4
+The Grand Budapest Hotel: 5
+Sherlock Jr.: 1
+The General: 2
+Gran Torino: 1
+Persona: 1
+Before Sunrise: 0
+Mary and Max: 1
+Catch Me If You Can: 0
+Mr. Smith Goes to Washington: 1
+In the Name of the Father: 4
+Barry Lyndon: 1
+Room: 4
+Gone Girl: 5
+Hacksaw Ridge: 4
+The Passion of Joan of Arc: 5
+Andhadhun: 0
+Ford v Ferrari: 5
+12 Years a Slave: 1
+To Be or Not to Be: 1
+The Big Lebowski: 3
+Autumn Sonata: 5
+Dead Poets Society: 3
+How to Train Your Dragon: 5
+Mad Max: Fury Road: 1
+Ben-Hur: 1
+Harry Potter and the Deathly Hallows: Part 2: 3
+Million Dollar Baby: 2
+The Wages of Fear: 3
+The Handmaiden: 1
+Stand by Me: 2
+Network: 3
+Logan: 0
+Gangs of Wasseypur: 1
+Cool Hand Luke: 5
+Hachi: A Dog's Tale: 1
+La Haine: 2
+The 400 Blows: 1
+The Shape of Voice: 2
+Platoon: 3
+Spotlight: 1
+Monsters, Inc.: 4
+Rebecca: 4
+Life of Brian: 3
+Hotel Rwanda: 5
+The Bandit: 5
+In the Mood for Love: 4
+Rush: 1
+Into the Wild: 1
+Rocky: 3
+Amores perros: 5
+Nausicaä of the Valley of the Wind: 0
+Andrei Rublev: 2
+It Happened One Night: 5
+Before Sunset: 2
+Fanny and Alexander: 5
+Neon Genesis Evangelion: The End of Evangelion: 5
+The Battle of Algiers: 3
+96: 4
+Nights of Cabiria: 3
+The Princess Bride: 1
+Paris, Texas: 2
+Three Colours: Red: 1
+
+
+
+User 7
+
+The Shawshank Redemption: 2
+The Godfather: 4
+The Godfather: Part II: 2
+The Dark Knight	: 5
+12 Angry Men: 5
+Schindler's List: 1
+The Lord of the Rings: The Return of the King: 2
+Pulp Fiction: 4
+The Good, the Bad and the Ugly: 1
+The Lord of the Rings: The Fellowship of the Ring: 4
+Fight Club: 2
+Forrest Gump: 0
+Inception: 4
+The Lord of the Rings: The Two Towers: 4
+Star Wars: Episode V - The Empire Strikes Back: 3
+The Matrix: 3
+Goodfellas: 1
+One Flew Over the Cuckoo's Nest: 1
+Seven Samurai: 5
+Seven: 4
+The Silence of the Lambs: 2
+City of God: 0
+Life Is Beautiful: 5
+It's a Wonderful Life: 1
+Saving Private Ryan: 5
+Star Wars: 1
+Interstellar: 5
+Spirited Away: 5
+The Green Mile: 2
+Parasite: 1
+Léon: The Professional: 4
+Seppuku: 2
+The Pianist: 1
+Terminator 2: Judgment Day: 4
+Back to the Future: 5
+The Usual Suspects: 1
+Psycho: 2
+The Lion King: 0
+Modern Times: 2
+American History X: 3
+Grave of the Fireflies: 3
+City Lights: 3
+Whiplash: 4
+Gladiator: 3
+The Departed: 4
+The Intouchables: 3
+The Prestige: 1
+Casablanca: 5
+Once Upon a Time in the West: 4
+Rear Window: 2
+Cinema Paradiso: 4
+Alien: 0
+Apocalypse Now: 2
+Memento: 0
+Raiders of the Lost Ark: 4
+The Great Dictator: 0
+Django Unchained: 0
+The Lives of Others: 5
+Paths of Glory: 5
+Sunset Boulevard: 1
+WALL·E: 5
+Avengers: Infinity War: 5
+Witness for the Prosecution: 4
+The Shining: 2
+Spider-Man: Into the Spider-Verse: 3
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 4
+Princess Mononoke: 1
+Oldeuboi: 3
+Joker: 0
+Your Name.: 5
+Coco: 4
+The Dark Knight Rises: 4
+Aliens: 4
+Once Upon a Time in America: 5
+Avengers: Endgame: 3
+Capernaum: 4
+Das Boot: 1
+High and Low: 3
+3 Idiots: 0
+Toy Story: 2
+American Beauty: 4
+Amadeus: 1
+Braveheart: 5
+Inglourious Basterds: 3
+Hamilton: 2
+Good Will Hunting: 5
+Star Wars: Episode VI - Return of the Jedi: 2
+2001: A Space Odyssey: 1
+Reservoir Dogs: 0
+M: 0
+Like Stars on Earth: 4
+Come and See: 0
+Vertigo: 4
+Citizen Kane: 4
+The Hunt: 5
+Requiem for a Dream: 3
+Singin' in the Rain: 0
+North by Northwest: 0
+Eternal Sunshine of the Spotless Mind: 1
+Ikiru: 3
+Bicycle Thieves: 2
+Lawrence of Arabia: 1
+The Kid: 3
+Full Metal Jacket: 4
+Dangal: 2
+The Apartment: 3
+Incendies: 3
+The Father: 2
+Metropolis: 5
+Double Indemnity: 3
+A Clockwork Orange: 4
+Taxi Driver: 3
+Jodaeiye Nader Az Simin: 4
+The Sting: 4
+Pather Panchali: 0
+Scarface: 0
+Snatch: 5
+1917: 3
+Amélie: 4
+To Kill a Mockingbird: 0
+Toy Story 3: 3
+For a Few Dollars More: 1
+Up: 3
+Indiana Jones and the Last Crusade: 5
+Heat: 5
+L.A. Confidential: 0
+Jai Bhim: 2
+Yojimbo: 1
+Die Hard: 0
+Ran: 1
+Rashomon: 0
+Green Book: 0
+Downfall: 1
+Monty Python and the Holy Grail: 4
+All About Eve: 1
+Some Like It Hot: 5
+Batman Begins: 0
+Unforgiven: 5
+Bacheha-Ye Aseman: 0
+Howl's Moving Castle: 0
+The Wolf of Wall Street: 4
+Judgment at Nuremberg: 2
+The Great Escape: 5
+There Will Be Blood: 5
+Casino: 3
+The Treasure of the Sierra Madre: 1
+Pan's Labyrinth: 5
+A Beautiful Mind: 2
+The Secret in Their Eyes: 0
+Raging Bull: 5
+Dersu Uzala: 2
+Chinatown: 4
+My Neighbor Totoro: 4
+Lock, Stock and Two Smoking Barrels: 4
+Shutter Island: 3
+No Country for Old Men: 5
+The Gold Rush: 5
+Dial M for Murder: 3
+The Thing: 3
+The Seventh Seal: 1
+Three Billboards Outside Ebbing, Missouri: 1
+The Elephant Man: 5
+Klaus: 1
+The Sixth Sense: 0
+Dune: 3
+Wild Strawberries: 1
+The Third Man: 1
+The Truman Show: 1
+Jurassic Park: 2
+Memories of Murder: 4
+V for Vendetta: 5
+Blade Runner: 4
+Trainspotting: 5
+Inside Out: 0
+The Bridge on the River Kwai: 3
+Fargo: 3
+Warrior: 3
+Finding Nemo: 2
+Kill Bill: Vol. 1: 1
+Gone with the Wind: 5
+Tôkyô monogatari: 2
+On the Waterfront: 0
+My Father and My Son: 0
+Relatos Salvajes: 2
+Stalker: 1
+The Deer Hunter: 0
+Z: 2
+Prisoners: 5
+The Grand Budapest Hotel: 2
+Sherlock Jr.: 4
+The General: 4
+Gran Torino: 0
+Persona: 1
+Before Sunrise: 2
+Mary and Max: 5
+Catch Me If You Can: 5
+Mr. Smith Goes to Washington: 1
+In the Name of the Father: 5
+Barry Lyndon: 3
+Room: 0
+Gone Girl: 0
+Hacksaw Ridge: 0
+The Passion of Joan of Arc: 5
+Andhadhun: 3
+Ford v Ferrari: 3
+12 Years a Slave: 2
+To Be or Not to Be: 5
+The Big Lebowski: 2
+Autumn Sonata: 0
+Dead Poets Society: 1
+How to Train Your Dragon: 0
+Mad Max: Fury Road: 2
+Ben-Hur: 3
+Harry Potter and the Deathly Hallows: Part 2: 3
+Million Dollar Baby: 3
+The Wages of Fear: 4
+The Handmaiden: 3
+Stand by Me: 4
+Network: 1
+Logan: 0
+Gangs of Wasseypur: 4
+Cool Hand Luke: 3
+Hachi: A Dog's Tale: 2
+La Haine: 1
+The 400 Blows: 3
+The Shape of Voice: 4
+Platoon: 3
+Spotlight: 4
+Monsters, Inc.: 1
+Rebecca: 1
+Life of Brian: 5
+Hotel Rwanda: 4
+The Bandit: 3
+In the Mood for Love: 5
+Rush: 1
+Into the Wild: 5
+Rocky: 1
+Amores perros: 3
+Nausicaä of the Valley of the Wind: 2
+Andrei Rublev: 3
+It Happened One Night: 0
+Before Sunset: 5
+Fanny and Alexander: 3
+Neon Genesis Evangelion: The End of Evangelion: 1
+The Battle of Algiers: 5
+96: 5
+Nights of Cabiria: 5
+The Princess Bride: 1
+Paris, Texas: 0
+Three Colours: Red: 0
+
+
+
+User 8
+
+The Shawshank Redemption: 0
+The Godfather: 4
+The Godfather: Part II: 0
+The Dark Knight	: 0
+12 Angry Men: 2
+Schindler's List: 1
+The Lord of the Rings: The Return of the King: 2
+Pulp Fiction: 0
+The Good, the Bad and the Ugly: 0
+The Lord of the Rings: The Fellowship of the Ring: 3
+Fight Club: 4
+Forrest Gump: 2
+Inception: 5
+The Lord of the Rings: The Two Towers: 3
+Star Wars: Episode V - The Empire Strikes Back: 4
+The Matrix: 1
+Goodfellas: 2
+One Flew Over the Cuckoo's Nest: 1
+Seven Samurai: 4
+Seven: 3
+The Silence of the Lambs: 1
+City of God: 4
+Life Is Beautiful: 3
+It's a Wonderful Life: 4
+Saving Private Ryan: 4
+Star Wars: 1
+Interstellar: 1
+Spirited Away: 4
+The Green Mile: 5
+Parasite: 4
+Léon: The Professional: 2
+Seppuku: 5
+The Pianist: 5
+Terminator 2: Judgment Day: 0
+Back to the Future: 0
+The Usual Suspects: 3
+Psycho: 0
+The Lion King: 1
+Modern Times: 0
+American History X: 5
+Grave of the Fireflies: 5
+City Lights: 5
+Whiplash: 4
+Gladiator: 1
+The Departed: 1
+The Intouchables: 3
+The Prestige: 2
+Casablanca: 2
+Once Upon a Time in the West: 3
+Rear Window: 4
+Cinema Paradiso: 4
+Alien: 1
+Apocalypse Now: 2
+Memento: 1
+Raiders of the Lost Ark: 2
+The Great Dictator: 0
+Django Unchained: 2
+The Lives of Others: 5
+Paths of Glory: 4
+Sunset Boulevard: 1
+WALL·E: 5
+Avengers: Infinity War: 2
+Witness for the Prosecution: 3
+The Shining: 3
+Spider-Man: Into the Spider-Verse: 1
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 5
+Princess Mononoke: 2
+Oldeuboi: 2
+Joker: 4
+Your Name.: 2
+Coco: 3
+The Dark Knight Rises: 3
+Aliens: 0
+Once Upon a Time in America: 5
+Avengers: Endgame: 3
+Capernaum: 0
+Das Boot: 2
+High and Low: 2
+3 Idiots: 3
+Toy Story: 1
+American Beauty: 0
+Amadeus: 2
+Braveheart: 5
+Inglourious Basterds: 0
+Hamilton: 2
+Good Will Hunting: 4
+Star Wars: Episode VI - Return of the Jedi: 5
+2001: A Space Odyssey: 5
+Reservoir Dogs: 1
+M: 0
+Like Stars on Earth: 3
+Come and See: 4
+Vertigo: 1
+Citizen Kane: 1
+The Hunt: 2
+Requiem for a Dream: 2
+Singin' in the Rain: 3
+North by Northwest: 4
+Eternal Sunshine of the Spotless Mind: 1
+Ikiru: 0
+Bicycle Thieves: 0
+Lawrence of Arabia: 4
+The Kid: 3
+Full Metal Jacket: 3
+Dangal: 1
+The Apartment: 0
+Incendies: 2
+The Father: 3
+Metropolis: 2
+Double Indemnity: 0
+A Clockwork Orange: 3
+Taxi Driver: 1
+Jodaeiye Nader Az Simin: 3
+The Sting: 3
+Pather Panchali: 3
+Scarface: 5
+Snatch: 4
+1917: 4
+Amélie: 0
+To Kill a Mockingbird: 3
+Toy Story 3: 4
+For a Few Dollars More: 3
+Up: 5
+Indiana Jones and the Last Crusade: 4
+Heat: 3
+L.A. Confidential: 5
+Jai Bhim: 5
+Yojimbo: 4
+Die Hard: 0
+Ran: 1
+Rashomon: 3
+Green Book: 4
+Downfall: 0
+Monty Python and the Holy Grail: 4
+All About Eve: 1
+Some Like It Hot: 1
+Batman Begins: 5
+Unforgiven: 0
+Bacheha-Ye Aseman: 4
+Howl's Moving Castle: 0
+The Wolf of Wall Street: 4
+Judgment at Nuremberg: 4
+The Great Escape: 1
+There Will Be Blood: 1
+Casino: 0
+The Treasure of the Sierra Madre: 4
+Pan's Labyrinth: 1
+A Beautiful Mind: 2
+The Secret in Their Eyes: 3
+Raging Bull: 0
+Dersu Uzala: 5
+Chinatown: 4
+My Neighbor Totoro: 2
+Lock, Stock and Two Smoking Barrels: 2
+Shutter Island: 4
+No Country for Old Men: 1
+The Gold Rush: 5
+Dial M for Murder: 0
+The Thing: 4
+The Seventh Seal: 3
+Three Billboards Outside Ebbing, Missouri: 2
+The Elephant Man: 0
+Klaus: 3
+The Sixth Sense: 2
+Dune: 0
+Wild Strawberries: 0
+The Third Man: 1
+The Truman Show: 3
+Jurassic Park: 3
+Memories of Murder: 3
+V for Vendetta: 1
+Blade Runner: 3
+Trainspotting: 1
+Inside Out: 2
+The Bridge on the River Kwai: 2
+Fargo: 2
+Warrior: 4
+Finding Nemo: 2
+Kill Bill: Vol. 1: 4
+Gone with the Wind: 5
+Tôkyô monogatari: 1
+On the Waterfront: 4
+My Father and My Son: 2
+Relatos Salvajes: 3
+Stalker: 3
+The Deer Hunter: 1
+Z: 4
+Prisoners: 3
+The Grand Budapest Hotel: 3
+Sherlock Jr.: 0
+The General: 4
+Gran Torino: 0
+Persona: 3
+Before Sunrise: 5
+Mary and Max: 3
+Catch Me If You Can: 3
+Mr. Smith Goes to Washington: 4
+In the Name of the Father: 1
+Barry Lyndon: 1
+Room: 3
+Gone Girl: 0
+Hacksaw Ridge: 5
+The Passion of Joan of Arc: 0
+Andhadhun: 0
+Ford v Ferrari: 1
+12 Years a Slave: 3
+To Be or Not to Be: 5
+The Big Lebowski: 2
+Autumn Sonata: 5
+Dead Poets Society: 3
+How to Train Your Dragon: 5
+Mad Max: Fury Road: 4
+Ben-Hur: 0
+Harry Potter and the Deathly Hallows: Part 2: 4
+Million Dollar Baby: 4
+The Wages of Fear: 1
+The Handmaiden: 5
+Stand by Me: 0
+Network: 3
+Logan: 0
+Gangs of Wasseypur: 2
+Cool Hand Luke: 1
+Hachi: A Dog's Tale: 1
+La Haine: 0
+The 400 Blows: 1
+The Shape of Voice: 3
+Platoon: 3
+Spotlight: 5
+Monsters, Inc.: 3
+Rebecca: 3
+Life of Brian: 1
+Hotel Rwanda: 0
+The Bandit: 5
+In the Mood for Love: 2
+Rush: 1
+Into the Wild: 1
+Rocky: 3
+Amores perros: 0
+Nausicaä of the Valley of the Wind: 1
+Andrei Rublev: 0
+It Happened One Night: 1
+Before Sunset: 3
+Fanny and Alexander: 0
+Neon Genesis Evangelion: The End of Evangelion: 4
+The Battle of Algiers: 1
+96: 5
+Nights of Cabiria: 3
+The Princess Bride: 5
+Paris, Texas: 5
+Three Colours: Red: 1
+
+
+
+User 9
+
+The Shawshank Redemption: 5
+The Godfather: 4
+The Godfather: Part II: 4
+The Dark Knight	: 0
+12 Angry Men: 1
+Schindler's List: 4
+The Lord of the Rings: The Return of the King: 2
+Pulp Fiction: 0
+The Good, the Bad and the Ugly: 0
+The Lord of the Rings: The Fellowship of the Ring: 2
+Fight Club: 0
+Forrest Gump: 0
+Inception: 5
+The Lord of the Rings: The Two Towers: 4
+Star Wars: Episode V - The Empire Strikes Back: 0
+The Matrix: 2
+Goodfellas: 0
+One Flew Over the Cuckoo's Nest: 3
+Seven Samurai: 5
+Seven: 5
+The Silence of the Lambs: 4
+City of God: 4
+Life Is Beautiful: 0
+It's a Wonderful Life: 2
+Saving Private Ryan: 3
+Star Wars: 4
+Interstellar: 2
+Spirited Away: 4
+The Green Mile: 3
+Parasite: 5
+Léon: The Professional: 4
+Seppuku: 3
+The Pianist: 1
+Terminator 2: Judgment Day: 1
+Back to the Future: 3
+The Usual Suspects: 4
+Psycho: 0
+The Lion King: 3
+Modern Times: 3
+American History X: 0
+Grave of the Fireflies: 4
+City Lights: 1
+Whiplash: 1
+Gladiator: 5
+The Departed: 4
+The Intouchables: 3
+The Prestige: 3
+Casablanca: 3
+Once Upon a Time in the West: 5
+Rear Window: 4
+Cinema Paradiso: 5
+Alien: 5
+Apocalypse Now: 2
+Memento: 1
+Raiders of the Lost Ark: 4
+The Great Dictator: 1
+Django Unchained: 3
+The Lives of Others: 3
+Paths of Glory: 2
+Sunset Boulevard: 2
+WALL·E: 5
+Avengers: Infinity War: 1
+Witness for the Prosecution: 1
+The Shining: 4
+Spider-Man: Into the Spider-Verse: 3
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 4
+Princess Mononoke: 2
+Oldeuboi: 4
+Joker: 2
+Your Name.: 4
+Coco: 0
+The Dark Knight Rises: 5
+Aliens: 0
+Once Upon a Time in America: 1
+Avengers: Endgame: 4
+Capernaum: 3
+Das Boot: 1
+High and Low: 3
+3 Idiots: 5
+Toy Story: 0
+American Beauty: 5
+Amadeus: 4
+Braveheart: 3
+Inglourious Basterds: 3
+Hamilton: 0
+Good Will Hunting: 4
+Star Wars: Episode VI - Return of the Jedi: 2
+2001: A Space Odyssey: 2
+Reservoir Dogs: 5
+M: 1
+Like Stars on Earth: 0
+Come and See: 2
+Vertigo: 5
+Citizen Kane: 5
+The Hunt: 0
+Requiem for a Dream: 1
+Singin' in the Rain: 0
+North by Northwest: 0
+Eternal Sunshine of the Spotless Mind: 2
+Ikiru: 3
+Bicycle Thieves: 1
+Lawrence of Arabia: 0
+The Kid: 0
+Full Metal Jacket: 4
+Dangal: 1
+The Apartment: 0
+Incendies: 5
+The Father: 1
+Metropolis: 0
+Double Indemnity: 5
+A Clockwork Orange: 1
+Taxi Driver: 2
+Jodaeiye Nader Az Simin: 3
+The Sting: 3
+Pather Panchali: 0
+Scarface: 3
+Snatch: 3
+1917: 2
+Amélie: 4
+To Kill a Mockingbird: 1
+Toy Story 3: 1
+For a Few Dollars More: 2
+Up: 3
+Indiana Jones and the Last Crusade: 1
+Heat: 1
+L.A. Confidential: 5
+Jai Bhim: 3
+Yojimbo: 3
+Die Hard: 0
+Ran: 0
+Rashomon: 2
+Green Book: 2
+Downfall: 0
+Monty Python and the Holy Grail: 1
+All About Eve: 4
+Some Like It Hot: 1
+Batman Begins: 0
+Unforgiven: 1
+Bacheha-Ye Aseman: 0
+Howl's Moving Castle: 0
+The Wolf of Wall Street: 3
+Judgment at Nuremberg: 0
+The Great Escape: 5
+There Will Be Blood: 2
+Casino: 2
+The Treasure of the Sierra Madre: 4
+Pan's Labyrinth: 0
+A Beautiful Mind: 1
+The Secret in Their Eyes: 2
+Raging Bull: 1
+Dersu Uzala: 4
+Chinatown: 2
+My Neighbor Totoro: 1
+Lock, Stock and Two Smoking Barrels: 3
+Shutter Island: 4
+No Country for Old Men: 4
+The Gold Rush: 3
+Dial M for Murder: 2
+The Thing: 3
+The Seventh Seal: 4
+Three Billboards Outside Ebbing, Missouri: 4
+The Elephant Man: 2
+Klaus: 4
+The Sixth Sense: 4
+Dune: 1
+Wild Strawberries: 4
+The Third Man: 1
+The Truman Show: 0
+Jurassic Park: 0
+Memories of Murder: 2
+V for Vendetta: 0
+Blade Runner: 2
+Trainspotting: 0
+Inside Out: 5
+The Bridge on the River Kwai: 3
+Fargo: 4
+Warrior: 4
+Finding Nemo: 0
+Kill Bill: Vol. 1: 3
+Gone with the Wind: 2
+Tôkyô monogatari: 0
+On the Waterfront: 1
+My Father and My Son: 4
+Relatos Salvajes: 3
+Stalker: 2
+The Deer Hunter: 1
+Z: 3
+Prisoners: 4
+The Grand Budapest Hotel: 2
+Sherlock Jr.: 2
+The General: 5
+Gran Torino: 3
+Persona: 3
+Before Sunrise: 2
+Mary and Max: 3
+Catch Me If You Can: 0
+Mr. Smith Goes to Washington: 0
+In the Name of the Father: 1
+Barry Lyndon: 3
+Room: 0
+Gone Girl: 5
+Hacksaw Ridge: 0
+The Passion of Joan of Arc: 4
+Andhadhun: 1
+Ford v Ferrari: 5
+12 Years a Slave: 2
+To Be or Not to Be: 2
+The Big Lebowski: 4
+Autumn Sonata: 0
+Dead Poets Society: 4
+How to Train Your Dragon: 3
+Mad Max: Fury Road: 0
+Ben-Hur: 1
+Harry Potter and the Deathly Hallows: Part 2: 1
+Million Dollar Baby: 4
+The Wages of Fear: 0
+The Handmaiden: 5
+Stand by Me: 1
+Network: 1
+Logan: 1
+Gangs of Wasseypur: 1
+Cool Hand Luke: 5
+Hachi: A Dog's Tale: 2
+La Haine: 5
+The 400 Blows: 1
+The Shape of Voice: 2
+Platoon: 5
+Spotlight: 1
+Monsters, Inc.: 5
+Rebecca: 0
+Life of Brian: 2
+Hotel Rwanda: 3
+The Bandit: 1
+In the Mood for Love: 3
+Rush: 2
+Into the Wild: 2
+Rocky: 4
+Amores perros: 0
+Nausicaä of the Valley of the Wind: 4
+Andrei Rublev: 4
+It Happened One Night: 1
+Before Sunset: 4
+Fanny and Alexander: 5
+Neon Genesis Evangelion: The End of Evangelion: 2
+The Battle of Algiers: 5
+96: 2
+Nights of Cabiria: 2
+The Princess Bride: 5
+Paris, Texas: 3
+Three Colours: Red: 2
+
+
+
+User 10
+
+The Shawshank Redemption: 3
+The Godfather: 3
+The Godfather: Part II: 5
+The Dark Knight	: 5
+12 Angry Men: 0
+Schindler's List: 4
+The Lord of the Rings: The Return of the King: 3
+Pulp Fiction: 1
+The Good, the Bad and the Ugly: 3
+The Lord of the Rings: The Fellowship of the Ring: 3
+Fight Club: 2
+Forrest Gump: 1
+Inception: 5
+The Lord of the Rings: The Two Towers: 0
+Star Wars: Episode V - The Empire Strikes Back: 1
+The Matrix: 1
+Goodfellas: 2
+One Flew Over the Cuckoo's Nest: 2
+Seven Samurai: 4
+Seven: 1
+The Silence of the Lambs: 3
+City of God: 1
+Life Is Beautiful: 0
+It's a Wonderful Life: 0
+Saving Private Ryan: 2
+Star Wars: 4
+Interstellar: 0
+Spirited Away: 0
+The Green Mile: 3
+Parasite: 5
+Léon: The Professional: 0
+Seppuku: 5
+The Pianist: 0
+Terminator 2: Judgment Day: 0
+Back to the Future: 2
+The Usual Suspects: 4
+Psycho: 1
+The Lion King: 0
+Modern Times: 3
+American History X: 1
+Grave of the Fireflies: 2
+City Lights: 4
+Whiplash: 3
+Gladiator: 3
+The Departed: 1
+The Intouchables: 3
+The Prestige: 0
+Casablanca: 3
+Once Upon a Time in the West: 1
+Rear Window: 2
+Cinema Paradiso: 4
+Alien: 1
+Apocalypse Now: 5
+Memento: 5
+Raiders of the Lost Ark: 5
+The Great Dictator: 5
+Django Unchained: 1
+The Lives of Others: 5
+Paths of Glory: 1
+Sunset Boulevard: 0
+WALL·E: 4
+Avengers: Infinity War: 5
+Witness for the Prosecution: 3
+The Shining: 0
+Spider-Man: Into the Spider-Verse: 4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 1
+Princess Mononoke: 2
+Oldeuboi: 3
+Joker: 1
+Your Name.: 2
+Coco: 2
+The Dark Knight Rises: 4
+Aliens: 0
+Once Upon a Time in America: 4
+Avengers: Endgame: 0
+Capernaum: 0
+Das Boot: 3
+High and Low: 1
+3 Idiots: 2
+Toy Story: 4
+American Beauty: 4
+Amadeus: 0
+Braveheart: 5
+Inglourious Basterds: 3
+Hamilton: 5
+Good Will Hunting: 0
+Star Wars: Episode VI - Return of the Jedi: 5
+2001: A Space Odyssey: 1
+Reservoir Dogs: 1
+M: 5
+Like Stars on Earth: 5
+Come and See: 2
+Vertigo: 3
+Citizen Kane: 4
+The Hunt: 4
+Requiem for a Dream: 1
+Singin' in the Rain: 5
+North by Northwest: 0
+Eternal Sunshine of the Spotless Mind: 2
+Ikiru: 2
+Bicycle Thieves: 2
+Lawrence of Arabia: 0
+The Kid: 1
+Full Metal Jacket: 2
+Dangal: 5
+The Apartment: 1
+Incendies: 5
+The Father: 5
+Metropolis: 4
+Double Indemnity: 5
+A Clockwork Orange: 3
+Taxi Driver: 2
+Jodaeiye Nader Az Simin: 4
+The Sting: 0
+Pather Panchali: 1
+Scarface: 2
+Snatch: 4
+1917: 3
+Amélie: 3
+To Kill a Mockingbird: 5
+Toy Story 3: 5
+For a Few Dollars More: 4
+Up: 5
+Indiana Jones and the Last Crusade: 5
+Heat: 2
+L.A. Confidential: 0
+Jai Bhim: 3
+Yojimbo: 5
+Die Hard: 1
+Ran: 3
+Rashomon: 5
+Green Book: 4
+Downfall: 0
+Monty Python and the Holy Grail: 3
+All About Eve: 1
+Some Like It Hot: 4
+Batman Begins: 5
+Unforgiven: 4
+Bacheha-Ye Aseman: 5
+Howl's Moving Castle: 2
+The Wolf of Wall Street: 5
+Judgment at Nuremberg: 5
+The Great Escape: 4
+There Will Be Blood: 1
+Casino: 3
+The Treasure of the Sierra Madre: 5
+Pan's Labyrinth: 3
+A Beautiful Mind: 5
+The Secret in Their Eyes: 4
+Raging Bull: 4
+Dersu Uzala: 5
+Chinatown: 2
+My Neighbor Totoro: 5
+Lock, Stock and Two Smoking Barrels: 2
+Shutter Island: 3
+No Country for Old Men: 2
+The Gold Rush: 4
+Dial M for Murder: 3
+The Thing: 0
+The Seventh Seal: 5
+Three Billboards Outside Ebbing, Missouri: 5
+The Elephant Man: 1
+Klaus: 0
+The Sixth Sense: 3
+Dune: 3
+Wild Strawberries: 1
+The Third Man: 3
+The Truman Show: 3
+Jurassic Park: 2
+Memories of Murder: 5
+V for Vendetta: 1
+Blade Runner: 2
+Trainspotting: 5
+Inside Out: 2
+The Bridge on the River Kwai: 1
+Fargo: 1
+Warrior: 1
+Finding Nemo: 5
+Kill Bill: Vol. 1: 1
+Gone with the Wind: 1
+Tôkyô monogatari: 0
+On the Waterfront: 3
+My Father and My Son: 2
+Relatos Salvajes: 4
+Stalker: 1
+The Deer Hunter: 5
+Z: 0
+Prisoners: 3
+The Grand Budapest Hotel: 2
+Sherlock Jr.: 2
+The General: 5
+Gran Torino: 4
+Persona: 2
+Before Sunrise: 0
+Mary and Max: 4
+Catch Me If You Can: 4
+Mr. Smith Goes to Washington: 4
+In the Name of the Father: 5
+Barry Lyndon: 3
+Room: 2
+Gone Girl: 1
+Hacksaw Ridge: 0
+The Passion of Joan of Arc: 4
+Andhadhun: 4
+Ford v Ferrari: 1
+12 Years a Slave: 1
+To Be or Not to Be: 5
+The Big Lebowski: 2
+Autumn Sonata: 0
+Dead Poets Society: 4
+How to Train Your Dragon: 2
+Mad Max: Fury Road: 2
+Ben-Hur: 0
+Harry Potter and the Deathly Hallows: Part 2: 1
+Million Dollar Baby: 3
+The Wages of Fear: 4
+The Handmaiden: 0
+Stand by Me: 2
+Network: 0
+Logan: 5
+Gangs of Wasseypur: 0
+Cool Hand Luke: 4
+Hachi: A Dog's Tale: 0
+La Haine: 2
+The 400 Blows: 3
+The Shape of Voice: 2
+Platoon: 5
+Spotlight: 1
+Monsters, Inc.: 4
+Rebecca: 4
+Life of Brian: 2
+Hotel Rwanda: 2
+The Bandit: 3
+In the Mood for Love: 1
+Rush: 3
+Into the Wild: 3
+Rocky: 3
+Amores perros: 1
+Nausicaä of the Valley of the Wind: 5
+Andrei Rublev: 0
+It Happened One Night: 3
+Before Sunset: 3
+Fanny and Alexander: 2
+Neon Genesis Evangelion: The End of Evangelion: 0
+The Battle of Algiers: 5
+96: 3
+Nights of Cabiria: 3
+The Princess Bride: 5
+Paris, Texas: 1
+Three Colours: Red: 2
+
+
+
+User 11
+
+The Shawshank Redemption: 0
+The Godfather: 3
+The Godfather: Part II: 2
+The Dark Knight	: 1
+12 Angry Men: 2
+Schindler's List: 0
+The Lord of the Rings: The Return of the King: 5
+Pulp Fiction: 3
+The Good, the Bad and the Ugly: 1
+The Lord of the Rings: The Fellowship of the Ring: 2
+Fight Club: 4
+Forrest Gump: 0
+Inception: 5
+The Lord of the Rings: The Two Towers: 4
+Star Wars: Episode V - The Empire Strikes Back: 3
+The Matrix: 2
+Goodfellas: 4
+One Flew Over the Cuckoo's Nest: 4
+Seven Samurai: 4
+Seven: 0
+The Silence of the Lambs: 2
+City of God: 2
+Life Is Beautiful: 5
+It's a Wonderful Life: 3
+Saving Private Ryan: 3
+Star Wars: 5
+Interstellar: 3
+Spirited Away: 4
+The Green Mile: 3
+Parasite: 5
+Léon: The Professional: 4
+Seppuku: 5
+The Pianist: 1
+Terminator 2: Judgment Day: 2
+Back to the Future: 4
+The Usual Suspects: 4
+Psycho: 0
+The Lion King: 2
+Modern Times: 5
+American History X: 2
+Grave of the Fireflies: 1
+City Lights: 1
+Whiplash: 5
+Gladiator: 5
+The Departed: 1
+The Intouchables: 3
+The Prestige: 0
+Casablanca: 2
+Once Upon a Time in the West: 1
+Rear Window: 5
+Cinema Paradiso: 3
+Alien: 1
+Apocalypse Now: 3
+Memento: 0
+Raiders of the Lost Ark: 2
+The Great Dictator: 2
+Django Unchained: 4
+The Lives of Others: 1
+Paths of Glory: 0
+Sunset Boulevard: 5
+WALL·E: 3
+Avengers: Infinity War: 2
+Witness for the Prosecution: 5
+The Shining: 1
+Spider-Man: Into the Spider-Verse: 4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 5
+Princess Mononoke: 5
+Oldeuboi: 3
+Joker: 1
+Your Name.: 5
+Coco: 5
+The Dark Knight Rises: 3
+Aliens: 1
+Once Upon a Time in America: 5
+Avengers: Endgame: 1
+Capernaum: 4
+Das Boot: 1
+High and Low: 0
+3 Idiots: 2
+Toy Story: 1
+American Beauty: 0
+Amadeus: 3
+Braveheart: 0
+Inglourious Basterds: 4
+Hamilton: 2
+Good Will Hunting: 4
+Star Wars: Episode VI - Return of the Jedi: 0
+2001: A Space Odyssey: 5
+Reservoir Dogs: 4
+M: 5
+Like Stars on Earth: 1
+Come and See: 5
+Vertigo: 2
+Citizen Kane: 3
+The Hunt: 5
+Requiem for a Dream: 1
+Singin' in the Rain: 0
+North by Northwest: 4
+Eternal Sunshine of the Spotless Mind: 3
+Ikiru: 0
+Bicycle Thieves: 5
+Lawrence of Arabia: 5
+The Kid: 0
+Full Metal Jacket: 5
+Dangal: 4
+The Apartment: 0
+Incendies: 0
+The Father: 2
+Metropolis: 1
+Double Indemnity: 0
+A Clockwork Orange: 5
+Taxi Driver: 0
+Jodaeiye Nader Az Simin: 2
+The Sting: 1
+Pather Panchali: 3
+Scarface: 0
+Snatch: 5
+1917: 4
+Amélie: 2
+To Kill a Mockingbird: 3
+Toy Story 3: 1
+For a Few Dollars More: 2
+Up: 0
+Indiana Jones and the Last Crusade: 0
+Heat: 3
+L.A. Confidential: 4
+Jai Bhim: 0
+Yojimbo: 2
+Die Hard: 3
+Ran: 2
+Rashomon: 0
+Green Book: 0
+Downfall: 0
+Monty Python and the Holy Grail: 3
+All About Eve: 0
+Some Like It Hot: 3
+Batman Begins: 3
+Unforgiven: 0
+Bacheha-Ye Aseman: 0
+Howl's Moving Castle: 3
+The Wolf of Wall Street: 4
+Judgment at Nuremberg: 4
+The Great Escape: 3
+There Will Be Blood: 5
+Casino: 0
+The Treasure of the Sierra Madre: 2
+Pan's Labyrinth: 1
+A Beautiful Mind: 1
+The Secret in Their Eyes: 1
+Raging Bull: 5
+Dersu Uzala: 4
+Chinatown: 2
+My Neighbor Totoro: 3
+Lock, Stock and Two Smoking Barrels: 0
+Shutter Island: 4
+No Country for Old Men: 2
+The Gold Rush: 3
+Dial M for Murder: 5
+The Thing: 0
+The Seventh Seal: 1
+Three Billboards Outside Ebbing, Missouri: 3
+The Elephant Man: 0
+Klaus: 0
+The Sixth Sense: 5
+Dune: 1
+Wild Strawberries: 4
+The Third Man: 3
+The Truman Show: 1
+Jurassic Park: 1
+Memories of Murder: 0
+V for Vendetta: 5
+Blade Runner: 4
+Trainspotting: 2
+Inside Out: 1
+The Bridge on the River Kwai: 2
+Fargo: 0
+Warrior: 3
+Finding Nemo: 3
+Kill Bill: Vol. 1: 4
+Gone with the Wind: 2
+Tôkyô monogatari: 4
+On the Waterfront: 1
+My Father and My Son: 3
+Relatos Salvajes: 3
+Stalker: 0
+The Deer Hunter: 0
+Z: 2
+Prisoners: 1
+The Grand Budapest Hotel: 3
+Sherlock Jr.: 1
+The General: 2
+Gran Torino: 2
+Persona: 0
+Before Sunrise: 5
+Mary and Max: 3
+Catch Me If You Can: 3
+Mr. Smith Goes to Washington: 5
+In the Name of the Father: 3
+Barry Lyndon: 4
+Room: 5
+Gone Girl: 0
+Hacksaw Ridge: 5
+The Passion of Joan of Arc: 4
+Andhadhun: 2
+Ford v Ferrari: 5
+12 Years a Slave: 3
+To Be or Not to Be: 1
+The Big Lebowski: 3
+Autumn Sonata: 3
+Dead Poets Society: 2
+How to Train Your Dragon: 3
+Mad Max: Fury Road: 3
+Ben-Hur: 3
+Harry Potter and the Deathly Hallows: Part 2: 5
+Million Dollar Baby: 5
+The Wages of Fear: 2
+The Handmaiden: 2
+Stand by Me: 0
+Network: 4
+Logan: 3
+Gangs of Wasseypur: 2
+Cool Hand Luke: 3
+Hachi: A Dog's Tale: 4
+La Haine: 2
+The 400 Blows: 1
+The Shape of Voice: 3
+Platoon: 4
+Spotlight: 0
+Monsters, Inc.: 5
+Rebecca: 0
+Life of Brian: 4
+Hotel Rwanda: 4
+The Bandit: 3
+In the Mood for Love: 3
+Rush: 5
+Into the Wild: 5
+Rocky: 0
+Amores perros: 1
+Nausicaä of the Valley of the Wind: 1
+Andrei Rublev: 4
+It Happened One Night: 3
+Before Sunset: 5
+Fanny and Alexander: 5
+Neon Genesis Evangelion: The End of Evangelion: 1
+The Battle of Algiers: 4
+96: 3
+Nights of Cabiria: 4
+The Princess Bride: 3
+Paris, Texas: 5
+Three Colours: Red: 3
+
+
+
+User 12
+
+The Shawshank Redemption: 1
+The Godfather: 4
+The Godfather: Part II: 3
+The Dark Knight	: 4
+12 Angry Men: 3
+Schindler's List: 3
+The Lord of the Rings: The Return of the King: 2
+Pulp Fiction: 5
+The Good, the Bad and the Ugly: 3
+The Lord of the Rings: The Fellowship of the Ring: 2
+Fight Club: 0
+Forrest Gump: 3
+Inception: 3
+The Lord of the Rings: The Two Towers: 1
+Star Wars: Episode V - The Empire Strikes Back: 0
+The Matrix: 0
+Goodfellas: 0
+One Flew Over the Cuckoo's Nest: 1
+Seven Samurai: 3
+Seven: 1
+The Silence of the Lambs: 2
+City of God: 1
+Life Is Beautiful: 3
+It's a Wonderful Life: 3
+Saving Private Ryan: 5
+Star Wars: 3
+Interstellar: 3
+Spirited Away: 4
+The Green Mile: 1
+Parasite: 2
+Léon: The Professional: 4
+Seppuku: 1
+The Pianist: 4
+Terminator 2: Judgment Day: 3
+Back to the Future: 4
+The Usual Suspects: 1
+Psycho: 2
+The Lion King: 5
+Modern Times: 0
+American History X: 1
+Grave of the Fireflies: 1
+City Lights: 2
+Whiplash: 2
+Gladiator: 2
+The Departed: 3
+The Intouchables: 3
+The Prestige: 1
+Casablanca: 0
+Once Upon a Time in the West: 1
+Rear Window: 1
+Cinema Paradiso: 1
+Alien: 2
+Apocalypse Now: 1
+Memento: 3
+Raiders of the Lost Ark: 1
+The Great Dictator: 3
+Django Unchained: 4
+The Lives of Others: 0
+Paths of Glory: 3
+Sunset Boulevard: 2
+WALL·E: 3
+Avengers: Infinity War: 0
+Witness for the Prosecution: 3
+The Shining: 4
+Spider-Man: Into the Spider-Verse: 5
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 4
+Princess Mononoke: 1
+Oldeuboi: 2
+Joker: 0
+Your Name.: 0
+Coco: 1
+The Dark Knight Rises: 4
+Aliens: 1
+Once Upon a Time in America: 5
+Avengers: Endgame: 2
+Capernaum: 5
+Das Boot: 1
+High and Low: 3
+3 Idiots: 3
+Toy Story: 2
+American Beauty: 1
+Amadeus: 0
+Braveheart: 0
+Inglourious Basterds: 3
+Hamilton: 0
+Good Will Hunting: 0
+Star Wars: Episode VI - Return of the Jedi: 3
+2001: A Space Odyssey: 1
+Reservoir Dogs: 3
+M: 5
+Like Stars on Earth: 0
+Come and See: 4
+Vertigo: 1
+Citizen Kane: 4
+The Hunt: 1
+Requiem for a Dream: 4
+Singin' in the Rain: 4
+North by Northwest: 3
+Eternal Sunshine of the Spotless Mind: 2
+Ikiru: 2
+Bicycle Thieves: 5
+Lawrence of Arabia: 3
+The Kid: 0
+Full Metal Jacket: 2
+Dangal: 4
+The Apartment: 5
+Incendies: 2
+The Father: 3
+Metropolis: 4
+Double Indemnity: 1
+A Clockwork Orange: 4
+Taxi Driver: 5
+Jodaeiye Nader Az Simin: 5
+The Sting: 0
+Pather Panchali: 0
+Scarface: 0
+Snatch: 0
+1917: 3
+Amélie: 5
+To Kill a Mockingbird: 4
+Toy Story 3: 5
+For a Few Dollars More: 3
+Up: 2
+Indiana Jones and the Last Crusade: 2
+Heat: 1
+L.A. Confidential: 4
+Jai Bhim: 5
+Yojimbo: 0
+Die Hard: 1
+Ran: 1
+Rashomon: 2
+Green Book: 0
+Downfall: 0
+Monty Python and the Holy Grail: 0
+All About Eve: 3
+Some Like It Hot: 0
+Batman Begins: 0
+Unforgiven: 5
+Bacheha-Ye Aseman: 4
+Howl's Moving Castle: 4
+The Wolf of Wall Street: 1
+Judgment at Nuremberg: 5
+The Great Escape: 0
+There Will Be Blood: 1
+Casino: 2
+The Treasure of the Sierra Madre: 4
+Pan's Labyrinth: 2
+A Beautiful Mind: 5
+The Secret in Their Eyes: 2
+Raging Bull: 4
+Dersu Uzala: 2
+Chinatown: 1
+My Neighbor Totoro: 1
+Lock, Stock and Two Smoking Barrels: 5
+Shutter Island: 0
+No Country for Old Men: 1
+The Gold Rush: 0
+Dial M for Murder: 1
+The Thing: 1
+The Seventh Seal: 5
+Three Billboards Outside Ebbing, Missouri: 4
+The Elephant Man: 4
+Klaus: 2
+The Sixth Sense: 3
+Dune: 4
+Wild Strawberries: 3
+The Third Man: 2
+The Truman Show: 2
+Jurassic Park: 5
+Memories of Murder: 2
+V for Vendetta: 3
+Blade Runner: 3
+Trainspotting: 1
+Inside Out: 3
+The Bridge on the River Kwai: 1
+Fargo: 0
+Warrior: 0
+Finding Nemo: 3
+Kill Bill: Vol. 1: 5
+Gone with the Wind: 5
+Tôkyô monogatari: 1
+On the Waterfront: 0
+My Father and My Son: 5
+Relatos Salvajes: 0
+Stalker: 0
+The Deer Hunter: 3
+Z: 3
+Prisoners: 2
+The Grand Budapest Hotel: 2
+Sherlock Jr.: 3
+The General: 4
+Gran Torino: 2
+Persona: 3
+Before Sunrise: 5
+Mary and Max: 0
+Catch Me If You Can: 5
+Mr. Smith Goes to Washington: 2
+In the Name of the Father: 1
+Barry Lyndon: 1
+Room: 1
+Gone Girl: 5
+Hacksaw Ridge: 4
+The Passion of Joan of Arc: 0
+Andhadhun: 1
+Ford v Ferrari: 5
+12 Years a Slave: 4
+To Be or Not to Be: 0
+The Big Lebowski: 5
+Autumn Sonata: 4
+Dead Poets Society: 1
+How to Train Your Dragon: 3
+Mad Max: Fury Road: 4
+Ben-Hur: 1
+Harry Potter and the Deathly Hallows: Part 2: 5
+Million Dollar Baby: 0
+The Wages of Fear: 0
+The Handmaiden: 1
+Stand by Me: 0
+Network: 1
+Logan: 4
+Gangs of Wasseypur: 1
+Cool Hand Luke: 0
+Hachi: A Dog's Tale: 2
+La Haine: 2
+The 400 Blows: 4
+The Shape of Voice: 1
+Platoon: 4
+Spotlight: 1
+Monsters, Inc.: 1
+Rebecca: 0
+Life of Brian: 2
+Hotel Rwanda: 4
+The Bandit: 5
+In the Mood for Love: 3
+Rush: 4
+Into the Wild: 4
+Rocky: 0
+Amores perros: 3
+Nausicaä of the Valley of the Wind: 1
+Andrei Rublev: 4
+It Happened One Night: 0
+Before Sunset: 0
+Fanny and Alexander: 0
+Neon Genesis Evangelion: The End of Evangelion: 5
+The Battle of Algiers: 1
+96: 5
+Nights of Cabiria: 2
+The Princess Bride: 3
+Paris, Texas: 2
+Three Colours: Red: 4
+
+
+
+User 13
+
+The Shawshank Redemption: 3
+The Godfather: 2
+The Godfather: Part II: 3
+The Dark Knight	: 3
+12 Angry Men: 5
+Schindler's List: 0
+The Lord of the Rings: The Return of the King: 4
+Pulp Fiction: 4
+The Good, the Bad and the Ugly: 1
+The Lord of the Rings: The Fellowship of the Ring: 1
+Fight Club: 4
+Forrest Gump: 4
+Inception: 3
+The Lord of the Rings: The Two Towers: 4
+Star Wars: Episode V - The Empire Strikes Back: 5
+The Matrix: 2
+Goodfellas: 3
+One Flew Over the Cuckoo's Nest: 3
+Seven Samurai: 4
+Seven: 5
+The Silence of the Lambs: 5
+City of God: 1
+Life Is Beautiful: 2
+It's a Wonderful Life: 3
+Saving Private Ryan: 3
+Star Wars: 2
+Interstellar: 3
+Spirited Away: 5
+The Green Mile: 2
+Parasite: 2
+Léon: The Professional: 5
+Seppuku: 1
+The Pianist: 1
+Terminator 2: Judgment Day: 2
+Back to the Future: 1
+The Usual Suspects: 2
+Psycho: 2
+The Lion King: 2
+Modern Times: 1
+American History X: 2
+Grave of the Fireflies: 1
+City Lights: 2
+Whiplash: 4
+Gladiator: 2
+The Departed: 3
+The Intouchables: 2
+The Prestige: 0
+Casablanca: 3
+Once Upon a Time in the West: 5
+Rear Window: 4
+Cinema Paradiso: 2
+Alien: 2
+Apocalypse Now: 2
+Memento: 2
+Raiders of the Lost Ark: 3
+The Great Dictator: 2
+Django Unchained: 1
+The Lives of Others: 4
+Paths of Glory: 2
+Sunset Boulevard: 5
+WALL·E: 5
+Avengers: Infinity War: 1
+Witness for the Prosecution: 0
+The Shining: 4
+Spider-Man: Into the Spider-Verse: 2
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 3
+Princess Mononoke: 1
+Oldeuboi: 3
+Joker: 4
+Your Name.: 1
+Coco: 1
+The Dark Knight Rises: 3
+Aliens: 0
+Once Upon a Time in America: 3
+Avengers: Endgame: 1
+Capernaum: 5
+Das Boot: 0
+High and Low: 3
+3 Idiots: 4
+Toy Story: 5
+American Beauty: 5
+Amadeus: 2
+Braveheart: 4
+Inglourious Basterds: 5
+Hamilton: 1
+Good Will Hunting: 5
+Star Wars: Episode VI - Return of the Jedi: 5
+2001: A Space Odyssey: 4
+Reservoir Dogs: 5
+M: 2
+Like Stars on Earth: 0
+Come and See: 3
+Vertigo: 3
+Citizen Kane: 2
+The Hunt: 4
+Requiem for a Dream: 1
+Singin' in the Rain: 2
+North by Northwest: 2
+Eternal Sunshine of the Spotless Mind: 3
+Ikiru: 3
+Bicycle Thieves: 4
+Lawrence of Arabia: 1
+The Kid: 4
+Full Metal Jacket: 5
+Dangal: 2
+The Apartment: 5
+Incendies: 4
+The Father: 0
+Metropolis: 4
+Double Indemnity: 4
+A Clockwork Orange: 2
+Taxi Driver: 1
+Jodaeiye Nader Az Simin: 4
+The Sting: 2
+Pather Panchali: 5
+Scarface: 3
+Snatch: 1
+1917: 3
+Amélie: 1
+To Kill a Mockingbird: 4
+Toy Story 3: 4
+For a Few Dollars More: 3
+Up: 3
+Indiana Jones and the Last Crusade: 2
+Heat: 0
+L.A. Confidential: 4
+Jai Bhim: 4
+Yojimbo: 3
+Die Hard: 2
+Ran: 5
+Rashomon: 3
+Green Book: 5
+Downfall: 5
+Monty Python and the Holy Grail: 3
+All About Eve: 4
+Some Like It Hot: 0
+Batman Begins: 5
+Unforgiven: 4
+Bacheha-Ye Aseman: 4
+Howl's Moving Castle: 4
+The Wolf of Wall Street: 2
+Judgment at Nuremberg: 1
+The Great Escape: 5
+There Will Be Blood: 4
+Casino: 0
+The Treasure of the Sierra Madre: 2
+Pan's Labyrinth: 0
+A Beautiful Mind: 4
+The Secret in Their Eyes: 4
+Raging Bull: 0
+Dersu Uzala: 0
+Chinatown: 1
+My Neighbor Totoro: 1
+Lock, Stock and Two Smoking Barrels: 2
+Shutter Island: 2
+No Country for Old Men: 3
+The Gold Rush: 3
+Dial M for Murder: 5
+The Thing: 2
+The Seventh Seal: 5
+Three Billboards Outside Ebbing, Missouri: 5
+The Elephant Man: 4
+Klaus: 2
+The Sixth Sense: 1
+Dune: 3
+Wild Strawberries: 2
+The Third Man: 5
+The Truman Show: 0
+Jurassic Park: 5
+Memories of Murder: 4
+V for Vendetta: 2
+Blade Runner: 1
+Trainspotting: 5
+Inside Out: 2
+The Bridge on the River Kwai: 0
+Fargo: 5
+Warrior: 1
+Finding Nemo: 4
+Kill Bill: Vol. 1: 4
+Gone with the Wind: 4
+Tôkyô monogatari: 2
+On the Waterfront: 1
+My Father and My Son: 5
+Relatos Salvajes: 3
+Stalker: 0
+The Deer Hunter: 5
+Z: 5
+Prisoners: 5
+The Grand Budapest Hotel: 3
+Sherlock Jr.: 2
+The General: 4
+Gran Torino: 5
+Persona: 3
+Before Sunrise: 3
+Mary and Max: 1
+Catch Me If You Can: 0
+Mr. Smith Goes to Washington: 0
+In the Name of the Father: 2
+Barry Lyndon: 0
+Room: 2
+Gone Girl: 0
+Hacksaw Ridge: 2
+The Passion of Joan of Arc: 2
+Andhadhun: 2
+Ford v Ferrari: 0
+12 Years a Slave: 0
+To Be or Not to Be: 5
+The Big Lebowski: 0
+Autumn Sonata: 2
+Dead Poets Society: 2
+How to Train Your Dragon: 1
+Mad Max: Fury Road: 3
+Ben-Hur: 1
+Harry Potter and the Deathly Hallows: Part 2: 4
+Million Dollar Baby: 4
+The Wages of Fear: 0
+The Handmaiden: 0
+Stand by Me: 3
+Network: 3
+Logan: 5
+Gangs of Wasseypur: 0
+Cool Hand Luke: 5
+Hachi: A Dog's Tale: 4
+La Haine: 1
+The 400 Blows: 0
+The Shape of Voice: 5
+Platoon: 3
+Spotlight: 2
+Monsters, Inc.: 3
+Rebecca: 5
+Life of Brian: 3
+Hotel Rwanda: 3
+The Bandit: 1
+In the Mood for Love: 2
+Rush: 5
+Into the Wild: 0
+Rocky: 4
+Amores perros: 2
+Nausicaä of the Valley of the Wind: 3
+Andrei Rublev: 4
+It Happened One Night: 2
+Before Sunset: 5
+Fanny and Alexander: 4
+Neon Genesis Evangelion: The End of Evangelion: 0
+The Battle of Algiers: 2
+96: 1
+Nights of Cabiria: 1
+The Princess Bride: 3
+Paris, Texas: 3
+Three Colours: Red: 5
+
+
+
+User 14
+
+The Shawshank Redemption: 1
+The Godfather: 4
+The Godfather: Part II: 3
+The Dark Knight	: 4
+12 Angry Men: 1
+Schindler's List: 3
+The Lord of the Rings: The Return of the King: 5
+Pulp Fiction: 1
+The Good, the Bad and the Ugly: 4
+The Lord of the Rings: The Fellowship of the Ring: 5
+Fight Club: 3
+Forrest Gump: 2
+Inception: 3
+The Lord of the Rings: The Two Towers: 2
+Star Wars: Episode V - The Empire Strikes Back: 2
+The Matrix: 0
+Goodfellas: 0
+One Flew Over the Cuckoo's Nest: 1
+Seven Samurai: 0
+Seven: 0
+The Silence of the Lambs: 5
+City of God: 3
+Life Is Beautiful: 4
+It's a Wonderful Life: 0
+Saving Private Ryan: 2
+Star Wars: 3
+Interstellar: 3
+Spirited Away: 5
+The Green Mile: 3
+Parasite: 0
+Léon: The Professional: 5
+Seppuku: 4
+The Pianist: 0
+Terminator 2: Judgment Day: 4
+Back to the Future: 4
+The Usual Suspects: 3
+Psycho: 0
+The Lion King: 3
+Modern Times: 4
+American History X: 3
+Grave of the Fireflies: 0
+City Lights: 5
+Whiplash: 2
+Gladiator: 5
+The Departed: 1
+The Intouchables: 3
+The Prestige: 2
+Casablanca: 2
+Once Upon a Time in the West: 0
+Rear Window: 1
+Cinema Paradiso: 4
+Alien: 0
+Apocalypse Now: 1
+Memento: 2
+Raiders of the Lost Ark: 1
+The Great Dictator: 4
+Django Unchained: 1
+The Lives of Others: 3
+Paths of Glory: 1
+Sunset Boulevard: 2
+WALL·E: 2
+Avengers: Infinity War: 2
+Witness for the Prosecution: 5
+The Shining: 5
+Spider-Man: Into the Spider-Verse: 3
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 5
+Princess Mononoke: 5
+Oldeuboi: 4
+Joker: 0
+Your Name.: 0
+Coco: 3
+The Dark Knight Rises: 1
+Aliens: 0
+Once Upon a Time in America: 5
+Avengers: Endgame: 5
+Capernaum: 3
+Das Boot: 0
+High and Low: 0
+3 Idiots: 3
+Toy Story: 5
+American Beauty: 0
+Amadeus: 5
+Braveheart: 1
+Inglourious Basterds: 4
+Hamilton: 1
+Good Will Hunting: 1
+Star Wars: Episode VI - Return of the Jedi: 3
+2001: A Space Odyssey: 2
+Reservoir Dogs: 0
+M: 0
+Like Stars on Earth: 0
+Come and See: 0
+Vertigo: 0
+Citizen Kane: 0
+The Hunt: 2
+Requiem for a Dream: 2
+Singin' in the Rain: 2
+North by Northwest: 2
+Eternal Sunshine of the Spotless Mind: 1
+Ikiru: 1
+Bicycle Thieves: 0
+Lawrence of Arabia: 1
+The Kid: 4
+Full Metal Jacket: 1
+Dangal: 5
+The Apartment: 3
+Incendies: 1
+The Father: 3
+Metropolis: 3
+Double Indemnity: 4
+A Clockwork Orange: 2
+Taxi Driver: 2
+Jodaeiye Nader Az Simin: 2
+The Sting: 5
+Pather Panchali: 5
+Scarface: 3
+Snatch: 4
+1917: 2
+Amélie: 4
+To Kill a Mockingbird: 5
+Toy Story 3: 2
+For a Few Dollars More: 2
+Up: 1
+Indiana Jones and the Last Crusade: 4
+Heat: 0
+L.A. Confidential: 2
+Jai Bhim: 4
+Yojimbo: 3
+Die Hard: 2
+Ran: 0
+Rashomon: 2
+Green Book: 5
+Downfall: 0
+Monty Python and the Holy Grail: 4
+All About Eve: 1
+Some Like It Hot: 0
+Batman Begins: 5
+Unforgiven: 5
+Bacheha-Ye Aseman: 2
+Howl's Moving Castle: 5
+The Wolf of Wall Street: 0
+Judgment at Nuremberg: 5
+The Great Escape: 1
+There Will Be Blood: 0
+Casino: 0
+The Treasure of the Sierra Madre: 1
+Pan's Labyrinth: 3
+A Beautiful Mind: 3
+The Secret in Their Eyes: 5
+Raging Bull: 0
+Dersu Uzala: 4
+Chinatown: 4
+My Neighbor Totoro: 4
+Lock, Stock and Two Smoking Barrels: 1
+Shutter Island: 1
+No Country for Old Men: 1
+The Gold Rush: 3
+Dial M for Murder: 4
+The Thing: 5
+The Seventh Seal: 0
+Three Billboards Outside Ebbing, Missouri: 0
+The Elephant Man: 0
+Klaus: 5
+The Sixth Sense: 5
+Dune: 2
+Wild Strawberries: 2
+The Third Man: 1
+The Truman Show: 2
+Jurassic Park: 3
+Memories of Murder: 0
+V for Vendetta: 2
+Blade Runner: 3
+Trainspotting: 0
+Inside Out: 2
+The Bridge on the River Kwai: 4
+Fargo: 3
+Warrior: 3
+Finding Nemo: 2
+Kill Bill: Vol. 1: 2
+Gone with the Wind: 0
+Tôkyô monogatari: 0
+On the Waterfront: 2
+My Father and My Son: 5
+Relatos Salvajes: 3
+Stalker: 4
+The Deer Hunter: 1
+Z: 0
+Prisoners: 1
+The Grand Budapest Hotel: 4
+Sherlock Jr.: 0
+The General: 5
+Gran Torino: 4
+Persona: 3
+Before Sunrise: 2
+Mary and Max: 5
+Catch Me If You Can: 1
+Mr. Smith Goes to Washington: 4
+In the Name of the Father: 4
+Barry Lyndon: 3
+Room: 0
+Gone Girl: 1
+Hacksaw Ridge: 4
+The Passion of Joan of Arc: 0
+Andhadhun: 1
+Ford v Ferrari: 2
+12 Years a Slave: 3
+To Be or Not to Be: 2
+The Big Lebowski: 4
+Autumn Sonata: 5
+Dead Poets Society: 5
+How to Train Your Dragon: 5
+Mad Max: Fury Road: 5
+Ben-Hur: 2
+Harry Potter and the Deathly Hallows: Part 2: 4
+Million Dollar Baby: 1
+The Wages of Fear: 4
+The Handmaiden: 2
+Stand by Me: 3
+Network: 0
+Logan: 1
+Gangs of Wasseypur: 2
+Cool Hand Luke: 3
+Hachi: A Dog's Tale: 5
+La Haine: 5
+The 400 Blows: 2
+The Shape of Voice: 2
+Platoon: 2
+Spotlight: 1
+Monsters, Inc.: 1
+Rebecca: 4
+Life of Brian: 1
+Hotel Rwanda: 2
+The Bandit: 4
+In the Mood for Love: 2
+Rush: 5
+Into the Wild: 4
+Rocky: 4
+Amores perros: 2
+Nausicaä of the Valley of the Wind: 0
+Andrei Rublev: 0
+It Happened One Night: 3
+Before Sunset: 3
+Fanny and Alexander: 0
+Neon Genesis Evangelion: The End of Evangelion: 5
+The Battle of Algiers: 4
+96: 0
+Nights of Cabiria: 5
+The Princess Bride: 4
+Paris, Texas: 5
+Three Colours: Red: 0
+
+
+
+User 15
+
+The Shawshank Redemption: 4
+The Godfather: 4
+The Godfather: Part II: 3
+The Dark Knight	: 3
+12 Angry Men: 0
+Schindler's List: 1
+The Lord of the Rings: The Return of the King: 0
+Pulp Fiction: 3
+The Good, the Bad and the Ugly: 0
+The Lord of the Rings: The Fellowship of the Ring: 5
+Fight Club: 3
+Forrest Gump: 0
+Inception: 4
+The Lord of the Rings: The Two Towers: 4
+Star Wars: Episode V - The Empire Strikes Back: 2
+The Matrix: 5
+Goodfellas: 3
+One Flew Over the Cuckoo's Nest: 5
+Seven Samurai: 5
+Seven: 5
+The Silence of the Lambs: 5
+City of God: 1
+Life Is Beautiful: 5
+It's a Wonderful Life: 3
+Saving Private Ryan: 5
+Star Wars: 5
+Interstellar: 0
+Spirited Away: 1
+The Green Mile: 2
+Parasite: 0
+Léon: The Professional: 1
+Seppuku: 3
+The Pianist: 2
+Terminator 2: Judgment Day: 1
+Back to the Future: 5
+The Usual Suspects: 2
+Psycho: 5
+The Lion King: 0
+Modern Times: 4
+American History X: 4
+Grave of the Fireflies: 0
+City Lights: 2
+Whiplash: 4
+Gladiator: 2
+The Departed: 3
+The Intouchables: 0
+The Prestige: 4
+Casablanca: 2
+Once Upon a Time in the West: 2
+Rear Window: 1
+Cinema Paradiso: 1
+Alien: 2
+Apocalypse Now: 5
+Memento: 1
+Raiders of the Lost Ark: 2
+The Great Dictator: 5
+Django Unchained: 0
+The Lives of Others: 4
+Paths of Glory: 5
+Sunset Boulevard: 3
+WALL·E: 2
+Avengers: Infinity War: 0
+Witness for the Prosecution: 0
+The Shining: 3
+Spider-Man: Into the Spider-Verse: 2
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 2
+Princess Mononoke: 4
+Oldeuboi: 2
+Joker: 0
+Your Name.: 5
+Coco: 0
+The Dark Knight Rises: 4
+Aliens: 3
+Once Upon a Time in America: 3
+Avengers: Endgame: 4
+Capernaum: 2
+Das Boot: 2
+High and Low: 2
+3 Idiots: 4
+Toy Story: 2
+American Beauty: 2
+Amadeus: 2
+Braveheart: 1
+Inglourious Basterds: 4
+Hamilton: 0
+Good Will Hunting: 5
+Star Wars: Episode VI - Return of the Jedi: 3
+2001: A Space Odyssey: 5
+Reservoir Dogs: 0
+M: 2
+Like Stars on Earth: 1
+Come and See: 1
+Vertigo: 5
+Citizen Kane: 5
+The Hunt: 1
+Requiem for a Dream: 0
+Singin' in the Rain: 5
+North by Northwest: 4
+Eternal Sunshine of the Spotless Mind: 1
+Ikiru: 2
+Bicycle Thieves: 5
+Lawrence of Arabia: 2
+The Kid: 2
+Full Metal Jacket: 5
+Dangal: 2
+The Apartment: 2
+Incendies: 5
+The Father: 1
+Metropolis: 0
+Double Indemnity: 3
+A Clockwork Orange: 4
+Taxi Driver: 0
+Jodaeiye Nader Az Simin: 1
+The Sting: 1
+Pather Panchali: 0
+Scarface: 5
+Snatch: 0
+1917: 4
+Amélie: 2
+To Kill a Mockingbird: 1
+Toy Story 3: 4
+For a Few Dollars More: 5
+Up: 0
+Indiana Jones and the Last Crusade: 2
+Heat: 5
+L.A. Confidential: 2
+Jai Bhim: 4
+Yojimbo: 5
+Die Hard: 4
+Ran: 4
+Rashomon: 4
+Green Book: 5
+Downfall: 4
+Monty Python and the Holy Grail: 0
+All About Eve: 5
+Some Like It Hot: 3
+Batman Begins: 5
+Unforgiven: 1
+Bacheha-Ye Aseman: 0
+Howl's Moving Castle: 0
+The Wolf of Wall Street: 5
+Judgment at Nuremberg: 2
+The Great Escape: 5
+There Will Be Blood: 1
+Casino: 3
+The Treasure of the Sierra Madre: 3
+Pan's Labyrinth: 1
+A Beautiful Mind: 1
+The Secret in Their Eyes: 5
+Raging Bull: 3
+Dersu Uzala: 5
+Chinatown: 5
+My Neighbor Totoro: 0
+Lock, Stock and Two Smoking Barrels: 0
+Shutter Island: 1
+No Country for Old Men: 1
+The Gold Rush: 0
+Dial M for Murder: 2
+The Thing: 2
+The Seventh Seal: 5
+Three Billboards Outside Ebbing, Missouri: 0
+The Elephant Man: 5
+Klaus: 5
+The Sixth Sense: 3
+Dune: 3
+Wild Strawberries: 2
+The Third Man: 4
+The Truman Show: 4
+Jurassic Park: 2
+Memories of Murder: 4
+V for Vendetta: 0
+Blade Runner: 0
+Trainspotting: 2
+Inside Out: 5
+The Bridge on the River Kwai: 5
+Fargo: 5
+Warrior: 2
+Finding Nemo: 2
+Kill Bill: Vol. 1: 0
+Gone with the Wind: 5
+Tôkyô monogatari: 2
+On the Waterfront: 5
+My Father and My Son: 3
+Relatos Salvajes: 2
+Stalker: 1
+The Deer Hunter: 5
+Z: 3
+Prisoners: 2
+The Grand Budapest Hotel: 2
+Sherlock Jr.: 1
+The General: 4
+Gran Torino: 4
+Persona: 4
+Before Sunrise: 3
+Mary and Max: 0
+Catch Me If You Can: 0
+Mr. Smith Goes to Washington: 2
+In the Name of the Father: 5
+Barry Lyndon: 1
+Room: 0
+Gone Girl: 0
+Hacksaw Ridge: 4
+The Passion of Joan of Arc: 3
+Andhadhun: 3
+Ford v Ferrari: 0
+12 Years a Slave: 4
+To Be or Not to Be: 4
+The Big Lebowski: 1
+Autumn Sonata: 0
+Dead Poets Society: 0
+How to Train Your Dragon: 4
+Mad Max: Fury Road: 5
+Ben-Hur: 2
+Harry Potter and the Deathly Hallows: Part 2: 1
+Million Dollar Baby: 3
+The Wages of Fear: 5
+The Handmaiden: 4
+Stand by Me: 5
+Network: 0
+Logan: 5
+Gangs of Wasseypur: 5
+Cool Hand Luke: 2
+Hachi: A Dog's Tale: 1
+La Haine: 0
+The 400 Blows: 3
+The Shape of Voice: 1
+Platoon: 5
+Spotlight: 3
+Monsters, Inc.: 5
+Rebecca: 0
+Life of Brian: 5
+Hotel Rwanda: 1
+The Bandit: 1
+In the Mood for Love: 2
+Rush: 2
+Into the Wild: 4
+Rocky: 0
+Amores perros: 1
+Nausicaä of the Valley of the Wind: 1
+Andrei Rublev: 3
+It Happened One Night: 2
+Before Sunset: 2
+Fanny and Alexander: 3
+Neon Genesis Evangelion: The End of Evangelion: 1
+The Battle of Algiers: 3
+96: 3
+Nights of Cabiria: 4
+The Princess Bride: 3
+Paris, Texas: 5
+Three Colours: Red: 4
+
+
+
+User 16
+
+The Shawshank Redemption: 3
+The Godfather: 3
+The Godfather: Part II: 2
+The Dark Knight	: 0
+12 Angry Men: 3
+Schindler's List: 4
+The Lord of the Rings: The Return of the King: 5
+Pulp Fiction: 0
+The Good, the Bad and the Ugly: 1
+The Lord of the Rings: The Fellowship of the Ring: 3
+Fight Club: 1
+Forrest Gump: 0
+Inception: 3
+The Lord of the Rings: The Two Towers: 0
+Star Wars: Episode V - The Empire Strikes Back: 3
+The Matrix: 5
+Goodfellas: 1
+One Flew Over the Cuckoo's Nest: 1
+Seven Samurai: 0
+Seven: 0
+The Silence of the Lambs: 2
+City of God: 2
+Life Is Beautiful: 2
+It's a Wonderful Life: 4
+Saving Private Ryan: 5
+Star Wars: 2
+Interstellar: 5
+Spirited Away: 0
+The Green Mile: 0
+Parasite: 0
+Léon: The Professional: 3
+Seppuku: 2
+The Pianist: 3
+Terminator 2: Judgment Day: 1
+Back to the Future: 0
+The Usual Suspects: 4
+Psycho: 2
+The Lion King: 1
+Modern Times: 3
+American History X: 5
+Grave of the Fireflies: 3
+City Lights: 5
+Whiplash: 1
+Gladiator: 2
+The Departed: 1
+The Intouchables: 0
+The Prestige: 4
+Casablanca: 1
+Once Upon a Time in the West: 3
+Rear Window: 3
+Cinema Paradiso: 1
+Alien: 0
+Apocalypse Now: 3
+Memento: 1
+Raiders of the Lost Ark: 1
+The Great Dictator: 1
+Django Unchained: 5
+The Lives of Others: 3
+Paths of Glory: 0
+Sunset Boulevard: 0
+WALL·E: 3
+Avengers: Infinity War: 2
+Witness for the Prosecution: 3
+The Shining: 2
+Spider-Man: Into the Spider-Verse: 3
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 4
+Princess Mononoke: 2
+Oldeuboi: 4
+Joker: 5
+Your Name.: 2
+Coco: 2
+The Dark Knight Rises: 4
+Aliens: 3
+Once Upon a Time in America: 0
+Avengers: Endgame: 5
+Capernaum: 5
+Das Boot: 3
+High and Low: 4
+3 Idiots: 5
+Toy Story: 1
+American Beauty: 1
+Amadeus: 4
+Braveheart: 0
+Inglourious Basterds: 3
+Hamilton: 4
+Good Will Hunting: 3
+Star Wars: Episode VI - Return of the Jedi: 2
+2001: A Space Odyssey: 2
+Reservoir Dogs: 2
+M: 3
+Like Stars on Earth: 3
+Come and See: 2
+Vertigo: 3
+Citizen Kane: 4
+The Hunt: 0
+Requiem for a Dream: 1
+Singin' in the Rain: 4
+North by Northwest: 0
+Eternal Sunshine of the Spotless Mind: 5
+Ikiru: 5
+Bicycle Thieves: 1
+Lawrence of Arabia: 0
+The Kid: 0
+Full Metal Jacket: 2
+Dangal: 4
+The Apartment: 4
+Incendies: 5
+The Father: 1
+Metropolis: 4
+Double Indemnity: 5
+A Clockwork Orange: 5
+Taxi Driver: 4
+Jodaeiye Nader Az Simin: 3
+The Sting: 1
+Pather Panchali: 3
+Scarface: 4
+Snatch: 0
+1917: 4
+Amélie: 5
+To Kill a Mockingbird: 2
+Toy Story 3: 5
+For a Few Dollars More: 2
+Up: 5
+Indiana Jones and the Last Crusade: 1
+Heat: 4
+L.A. Confidential: 5
+Jai Bhim: 5
+Yojimbo: 0
+Die Hard: 3
+Ran: 2
+Rashomon: 5
+Green Book: 4
+Downfall: 3
+Monty Python and the Holy Grail: 4
+All About Eve: 0
+Some Like It Hot: 3
+Batman Begins: 3
+Unforgiven: 4
+Bacheha-Ye Aseman: 0
+Howl's Moving Castle: 3
+The Wolf of Wall Street: 4
+Judgment at Nuremberg: 2
+The Great Escape: 3
+There Will Be Blood: 1
+Casino: 1
+The Treasure of the Sierra Madre: 4
+Pan's Labyrinth: 4
+A Beautiful Mind: 2
+The Secret in Their Eyes: 1
+Raging Bull: 4
+Dersu Uzala: 0
+Chinatown: 2
+My Neighbor Totoro: 1
+Lock, Stock and Two Smoking Barrels: 1
+Shutter Island: 5
+No Country for Old Men: 2
+The Gold Rush: 4
+Dial M for Murder: 5
+The Thing: 5
+The Seventh Seal: 1
+Three Billboards Outside Ebbing, Missouri: 0
+The Elephant Man: 5
+Klaus: 0
+The Sixth Sense: 1
+Dune: 1
+Wild Strawberries: 4
+The Third Man: 1
+The Truman Show: 0
+Jurassic Park: 1
+Memories of Murder: 0
+V for Vendetta: 1
+Blade Runner: 1
+Trainspotting: 0
+Inside Out: 3
+The Bridge on the River Kwai: 5
+Fargo: 1
+Warrior: 2
+Finding Nemo: 2
+Kill Bill: Vol. 1: 4
+Gone with the Wind: 2
+Tôkyô monogatari: 5
+On the Waterfront: 4
+My Father and My Son: 3
+Relatos Salvajes: 0
+Stalker: 1
+The Deer Hunter: 5
+Z: 3
+Prisoners: 1
+The Grand Budapest Hotel: 0
+Sherlock Jr.: 5
+The General: 1
+Gran Torino: 5
+Persona: 0
+Before Sunrise: 3
+Mary and Max: 1
+Catch Me If You Can: 0
+Mr. Smith Goes to Washington: 2
+In the Name of the Father: 3
+Barry Lyndon: 0
+Room: 3
+Gone Girl: 2
+Hacksaw Ridge: 3
+The Passion of Joan of Arc: 3
+Andhadhun: 2
+Ford v Ferrari: 1
+12 Years a Slave: 3
+To Be or Not to Be: 0
+The Big Lebowski: 2
+Autumn Sonata: 4
+Dead Poets Society: 0
+How to Train Your Dragon: 5
+Mad Max: Fury Road: 2
+Ben-Hur: 5
+Harry Potter and the Deathly Hallows: Part 2: 2
+Million Dollar Baby: 1
+The Wages of Fear: 3
+The Handmaiden: 3
+Stand by Me: 3
+Network: 3
+Logan: 3
+Gangs of Wasseypur: 0
+Cool Hand Luke: 4
+Hachi: A Dog's Tale: 2
+La Haine: 2
+The 400 Blows: 4
+The Shape of Voice: 5
+Platoon: 3
+Spotlight: 1
+Monsters, Inc.: 3
+Rebecca: 3
+Life of Brian: 3
+Hotel Rwanda: 0
+The Bandit: 1
+In the Mood for Love: 1
+Rush: 3
+Into the Wild: 1
+Rocky: 3
+Amores perros: 2
+Nausicaä of the Valley of the Wind: 5
+Andrei Rublev: 3
+It Happened One Night: 2
+Before Sunset: 0
+Fanny and Alexander: 1
+Neon Genesis Evangelion: The End of Evangelion: 1
+The Battle of Algiers: 3
+96: 2
+Nights of Cabiria: 3
+The Princess Bride: 0
+Paris, Texas: 3
+Three Colours: Red: 5
+
+
+
+User 17
+
+The Shawshank Redemption: 4
+The Godfather: 1
+The Godfather: Part II: 4
+The Dark Knight	: 3
+12 Angry Men: 1
+Schindler's List: 2
+The Lord of the Rings: The Return of the King: 5
+Pulp Fiction: 4
+The Good, the Bad and the Ugly: 5
+The Lord of the Rings: The Fellowship of the Ring: 0
+Fight Club: 3
+Forrest Gump: 0
+Inception: 1
+The Lord of the Rings: The Two Towers: 1
+Star Wars: Episode V - The Empire Strikes Back: 0
+The Matrix: 4
+Goodfellas: 5
+One Flew Over the Cuckoo's Nest: 4
+Seven Samurai: 0
+Seven: 5
+The Silence of the Lambs: 0
+City of God: 4
+Life Is Beautiful: 5
+It's a Wonderful Life: 0
+Saving Private Ryan: 0
+Star Wars: 2
+Interstellar: 1
+Spirited Away: 4
+The Green Mile: 3
+Parasite: 3
+Léon: The Professional: 5
+Seppuku: 2
+The Pianist: 3
+Terminator 2: Judgment Day: 1
+Back to the Future: 5
+The Usual Suspects: 4
+Psycho: 2
+The Lion King: 1
+Modern Times: 3
+American History X: 3
+Grave of the Fireflies: 5
+City Lights: 0
+Whiplash: 2
+Gladiator: 2
+The Departed: 0
+The Intouchables: 5
+The Prestige: 1
+Casablanca: 4
+Once Upon a Time in the West: 1
+Rear Window: 1
+Cinema Paradiso: 2
+Alien: 2
+Apocalypse Now: 2
+Memento: 5
+Raiders of the Lost Ark: 1
+The Great Dictator: 3
+Django Unchained: 3
+The Lives of Others: 2
+Paths of Glory: 2
+Sunset Boulevard: 5
+WALL·E: 3
+Avengers: Infinity War: 1
+Witness for the Prosecution: 2
+The Shining: 3
+Spider-Man: Into the Spider-Verse: 0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 1
+Princess Mononoke: 2
+Oldeuboi: 3
+Joker: 5
+Your Name.: 0
+Coco: 2
+The Dark Knight Rises: 3
+Aliens: 1
+Once Upon a Time in America: 4
+Avengers: Endgame: 5
+Capernaum: 5
+Das Boot: 0
+High and Low: 0
+3 Idiots: 0
+Toy Story: 5
+American Beauty: 5
+Amadeus: 3
+Braveheart: 4
+Inglourious Basterds: 3
+Hamilton: 3
+Good Will Hunting: 2
+Star Wars: Episode VI - Return of the Jedi: 4
+2001: A Space Odyssey: 1
+Reservoir Dogs: 1
+M: 5
+Like Stars on Earth: 1
+Come and See: 2
+Vertigo: 0
+Citizen Kane: 0
+The Hunt: 4
+Requiem for a Dream: 0
+Singin' in the Rain: 5
+North by Northwest: 0
+Eternal Sunshine of the Spotless Mind: 2
+Ikiru: 2
+Bicycle Thieves: 2
+Lawrence of Arabia: 1
+The Kid: 3
+Full Metal Jacket: 1
+Dangal: 4
+The Apartment: 5
+Incendies: 0
+The Father: 0
+Metropolis: 5
+Double Indemnity: 4
+A Clockwork Orange: 1
+Taxi Driver: 4
+Jodaeiye Nader Az Simin: 5
+The Sting: 1
+Pather Panchali: 1
+Scarface: 5
+Snatch: 1
+1917: 0
+Amélie: 2
+To Kill a Mockingbird: 1
+Toy Story 3: 0
+For a Few Dollars More: 2
+Up: 3
+Indiana Jones and the Last Crusade: 2
+Heat: 3
+L.A. Confidential: 2
+Jai Bhim: 0
+Yojimbo: 4
+Die Hard: 1
+Ran: 0
+Rashomon: 5
+Green Book: 0
+Downfall: 5
+Monty Python and the Holy Grail: 2
+All About Eve: 2
+Some Like It Hot: 1
+Batman Begins: 2
+Unforgiven: 1
+Bacheha-Ye Aseman: 2
+Howl's Moving Castle: 2
+The Wolf of Wall Street: 4
+Judgment at Nuremberg: 0
+The Great Escape: 5
+There Will Be Blood: 3
+Casino: 5
+The Treasure of the Sierra Madre: 3
+Pan's Labyrinth: 4
+A Beautiful Mind: 3
+The Secret in Their Eyes: 3
+Raging Bull: 3
+Dersu Uzala: 4
+Chinatown: 0
+My Neighbor Totoro: 3
+Lock, Stock and Two Smoking Barrels: 1
+Shutter Island: 5
+No Country for Old Men: 0
+The Gold Rush: 5
+Dial M for Murder: 0
+The Thing: 4
+The Seventh Seal: 3
+Three Billboards Outside Ebbing, Missouri: 3
+The Elephant Man: 2
+Klaus: 2
+The Sixth Sense: 2
+Dune: 4
+Wild Strawberries: 3
+The Third Man: 3
+The Truman Show: 4
+Jurassic Park: 5
+Memories of Murder: 0
+V for Vendetta: 3
+Blade Runner: 3
+Trainspotting: 5
+Inside Out: 0
+The Bridge on the River Kwai: 3
+Fargo: 4
+Warrior: 5
+Finding Nemo: 3
+Kill Bill: Vol. 1: 2
+Gone with the Wind: 4
+Tôkyô monogatari: 4
+On the Waterfront: 2
+My Father and My Son: 1
+Relatos Salvajes: 3
+Stalker: 1
+The Deer Hunter: 1
+Z: 1
+Prisoners: 3
+The Grand Budapest Hotel: 0
+Sherlock Jr.: 3
+The General: 5
+Gran Torino: 1
+Persona: 0
+Before Sunrise: 2
+Mary and Max: 2
+Catch Me If You Can: 4
+Mr. Smith Goes to Washington: 2
+In the Name of the Father: 0
+Barry Lyndon: 5
+Room: 5
+Gone Girl: 1
+Hacksaw Ridge: 0
+The Passion of Joan of Arc: 2
+Andhadhun: 3
+Ford v Ferrari: 0
+12 Years a Slave: 4
+To Be or Not to Be: 5
+The Big Lebowski: 3
+Autumn Sonata: 2
+Dead Poets Society: 2
+How to Train Your Dragon: 0
+Mad Max: Fury Road: 2
+Ben-Hur: 2
+Harry Potter and the Deathly Hallows: Part 2: 2
+Million Dollar Baby: 2
+The Wages of Fear: 3
+The Handmaiden: 5
+Stand by Me: 2
+Network: 2
+Logan: 1
+Gangs of Wasseypur: 0
+Cool Hand Luke: 3
+Hachi: A Dog's Tale: 3
+La Haine: 4
+The 400 Blows: 4
+The Shape of Voice: 5
+Platoon: 1
+Spotlight: 4
+Monsters, Inc.: 2
+Rebecca: 0
+Life of Brian: 0
+Hotel Rwanda: 4
+The Bandit: 4
+In the Mood for Love: 2
+Rush: 4
+Into the Wild: 0
+Rocky: 0
+Amores perros: 5
+Nausicaä of the Valley of the Wind: 3
+Andrei Rublev: 1
+It Happened One Night: 4
+Before Sunset: 3
+Fanny and Alexander: 3
+Neon Genesis Evangelion: The End of Evangelion: 2
+The Battle of Algiers: 3
+96: 0
+Nights of Cabiria: 5
+The Princess Bride: 3
+Paris, Texas: 4
+Three Colours: Red: 2
+
+
+
+User 18
+
+The Shawshank Redemption: 1
+The Godfather: 5
+The Godfather: Part II: 0
+The Dark Knight	: 2
+12 Angry Men: 5
+Schindler's List: 4
+The Lord of the Rings: The Return of the King: 2
+Pulp Fiction: 1
+The Good, the Bad and the Ugly: 1
+The Lord of the Rings: The Fellowship of the Ring: 2
+Fight Club: 5
+Forrest Gump: 4
+Inception: 3
+The Lord of the Rings: The Two Towers: 2
+Star Wars: Episode V - The Empire Strikes Back: 5
+The Matrix: 5
+Goodfellas: 5
+One Flew Over the Cuckoo's Nest: 1
+Seven Samurai: 5
+Seven: 0
+The Silence of the Lambs: 4
+City of God: 0
+Life Is Beautiful: 5
+It's a Wonderful Life: 4
+Saving Private Ryan: 4
+Star Wars: 4
+Interstellar: 3
+Spirited Away: 2
+The Green Mile: 5
+Parasite: 1
+Léon: The Professional: 2
+Seppuku: 3
+The Pianist: 1
+Terminator 2: Judgment Day: 3
+Back to the Future: 1
+The Usual Suspects: 1
+Psycho: 0
+The Lion King: 5
+Modern Times: 5
+American History X: 1
+Grave of the Fireflies: 1
+City Lights: 1
+Whiplash: 1
+Gladiator: 1
+The Departed: 1
+The Intouchables: 5
+The Prestige: 2
+Casablanca: 1
+Once Upon a Time in the West: 0
+Rear Window: 5
+Cinema Paradiso: 0
+Alien: 1
+Apocalypse Now: 0
+Memento: 4
+Raiders of the Lost Ark: 5
+The Great Dictator: 2
+Django Unchained: 0
+The Lives of Others: 1
+Paths of Glory: 0
+Sunset Boulevard: 5
+WALL·E: 2
+Avengers: Infinity War: 3
+Witness for the Prosecution: 4
+The Shining: 2
+Spider-Man: Into the Spider-Verse: 2
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 0
+Princess Mononoke: 3
+Oldeuboi: 3
+Joker: 4
+Your Name.: 1
+Coco: 1
+The Dark Knight Rises: 3
+Aliens: 2
+Once Upon a Time in America: 2
+Avengers: Endgame: 3
+Capernaum: 3
+Das Boot: 3
+High and Low: 0
+3 Idiots: 0
+Toy Story: 3
+American Beauty: 5
+Amadeus: 4
+Braveheart: 2
+Inglourious Basterds: 2
+Hamilton: 0
+Good Will Hunting: 2
+Star Wars: Episode VI - Return of the Jedi: 2
+2001: A Space Odyssey: 3
+Reservoir Dogs: 0
+M: 3
+Like Stars on Earth: 0
+Come and See: 4
+Vertigo: 1
+Citizen Kane: 3
+The Hunt: 3
+Requiem for a Dream: 0
+Singin' in the Rain: 1
+North by Northwest: 0
+Eternal Sunshine of the Spotless Mind: 5
+Ikiru: 1
+Bicycle Thieves: 0
+Lawrence of Arabia: 1
+The Kid: 0
+Full Metal Jacket: 4
+Dangal: 5
+The Apartment: 0
+Incendies: 2
+The Father: 1
+Metropolis: 4
+Double Indemnity: 2
+A Clockwork Orange: 1
+Taxi Driver: 0
+Jodaeiye Nader Az Simin: 1
+The Sting: 2
+Pather Panchali: 4
+Scarface: 0
+Snatch: 1
+1917: 3
+Amélie: 4
+To Kill a Mockingbird: 0
+Toy Story 3: 3
+For a Few Dollars More: 2
+Up: 1
+Indiana Jones and the Last Crusade: 4
+Heat: 0
+L.A. Confidential: 5
+Jai Bhim: 0
+Yojimbo: 5
+Die Hard: 4
+Ran: 5
+Rashomon: 0
+Green Book: 2
+Downfall: 0
+Monty Python and the Holy Grail: 4
+All About Eve: 5
+Some Like It Hot: 3
+Batman Begins: 5
+Unforgiven: 5
+Bacheha-Ye Aseman: 4
+Howl's Moving Castle: 5
+The Wolf of Wall Street: 3
+Judgment at Nuremberg: 3
+The Great Escape: 4
+There Will Be Blood: 2
+Casino: 4
+The Treasure of the Sierra Madre: 0
+Pan's Labyrinth: 3
+A Beautiful Mind: 1
+The Secret in Their Eyes: 5
+Raging Bull: 0
+Dersu Uzala: 1
+Chinatown: 1
+My Neighbor Totoro: 3
+Lock, Stock and Two Smoking Barrels: 4
+Shutter Island: 1
+No Country for Old Men: 1
+The Gold Rush: 1
+Dial M for Murder: 3
+The Thing: 0
+The Seventh Seal: 1
+Three Billboards Outside Ebbing, Missouri: 4
+The Elephant Man: 2
+Klaus: 5
+The Sixth Sense: 0
+Dune: 4
+Wild Strawberries: 0
+The Third Man: 5
+The Truman Show: 2
+Jurassic Park: 5
+Memories of Murder: 4
+V for Vendetta: 1
+Blade Runner: 4
+Trainspotting: 1
+Inside Out: 5
+The Bridge on the River Kwai: 4
+Fargo: 2
+Warrior: 4
+Finding Nemo: 0
+Kill Bill: Vol. 1: 1
+Gone with the Wind: 5
+Tôkyô monogatari: 5
+On the Waterfront: 3
+My Father and My Son: 3
+Relatos Salvajes: 3
+Stalker: 0
+The Deer Hunter: 4
+Z: 5
+Prisoners: 0
+The Grand Budapest Hotel: 2
+Sherlock Jr.: 5
+The General: 2
+Gran Torino: 1
+Persona: 1
+Before Sunrise: 5
+Mary and Max: 2
+Catch Me If You Can: 4
+Mr. Smith Goes to Washington: 0
+In the Name of the Father: 2
+Barry Lyndon: 1
+Room: 4
+Gone Girl: 4
+Hacksaw Ridge: 1
+The Passion of Joan of Arc: 0
+Andhadhun: 1
+Ford v Ferrari: 0
+12 Years a Slave: 4
+To Be or Not to Be: 5
+The Big Lebowski: 0
+Autumn Sonata: 0
+Dead Poets Society: 1
+How to Train Your Dragon: 0
+Mad Max: Fury Road: 5
+Ben-Hur: 1
+Harry Potter and the Deathly Hallows: Part 2: 4
+Million Dollar Baby: 2
+The Wages of Fear: 0
+The Handmaiden: 1
+Stand by Me: 1
+Network: 0
+Logan: 0
+Gangs of Wasseypur: 3
+Cool Hand Luke: 5
+Hachi: A Dog's Tale: 0
+La Haine: 5
+The 400 Blows: 2
+The Shape of Voice: 1
+Platoon: 4
+Spotlight: 5
+Monsters, Inc.: 5
+Rebecca: 5
+Life of Brian: 3
+Hotel Rwanda: 0
+The Bandit: 1
+In the Mood for Love: 4
+Rush: 1
+Into the Wild: 5
+Rocky: 2
+Amores perros: 2
+Nausicaä of the Valley of the Wind: 0
+Andrei Rublev: 0
+It Happened One Night: 5
+Before Sunset: 1
+Fanny and Alexander: 4
+Neon Genesis Evangelion: The End of Evangelion: 0
+The Battle of Algiers: 4
+96: 5
+Nights of Cabiria: 0
+The Princess Bride: 0
+Paris, Texas: 3
+Three Colours: Red: 2
+
+
+
+User 19
+
+The Shawshank Redemption: 1
+The Godfather: 3
+The Godfather: Part II: 3
+The Dark Knight	: 5
+12 Angry Men: 5
+Schindler's List: 3
+The Lord of the Rings: The Return of the King: 2
+Pulp Fiction: 3
+The Good, the Bad and the Ugly: 0
+The Lord of the Rings: The Fellowship of the Ring: 1
+Fight Club: 2
+Forrest Gump: 2
+Inception: 1
+The Lord of the Rings: The Two Towers: 4
+Star Wars: Episode V - The Empire Strikes Back: 3
+The Matrix: 4
+Goodfellas: 2
+One Flew Over the Cuckoo's Nest: 0
+Seven Samurai: 5
+Seven: 2
+The Silence of the Lambs: 4
+City of God: 3
+Life Is Beautiful: 3
+It's a Wonderful Life: 2
+Saving Private Ryan: 1
+Star Wars: 1
+Interstellar: 2
+Spirited Away: 2
+The Green Mile: 1
+Parasite: 2
+Léon: The Professional: 2
+Seppuku: 3
+The Pianist: 3
+Terminator 2: Judgment Day: 0
+Back to the Future: 4
+The Usual Suspects: 0
+Psycho: 2
+The Lion King: 5
+Modern Times: 3
+American History X: 3
+Grave of the Fireflies: 0
+City Lights: 1
+Whiplash: 3
+Gladiator: 3
+The Departed: 4
+The Intouchables: 0
+The Prestige: 2
+Casablanca: 2
+Once Upon a Time in the West: 2
+Rear Window: 4
+Cinema Paradiso: 4
+Alien: 2
+Apocalypse Now: 5
+Memento: 5
+Raiders of the Lost Ark: 0
+The Great Dictator: 1
+Django Unchained: 0
+The Lives of Others: 2
+Paths of Glory: 3
+Sunset Boulevard: 2
+WALL·E: 2
+Avengers: Infinity War: 3
+Witness for the Prosecution: 3
+The Shining: 3
+Spider-Man: Into the Spider-Verse: 0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 1
+Princess Mononoke: 3
+Oldeuboi: 2
+Joker: 4
+Your Name.: 0
+Coco: 4
+The Dark Knight Rises: 2
+Aliens: 3
+Once Upon a Time in America: 3
+Avengers: Endgame: 3
+Capernaum: 1
+Das Boot: 3
+High and Low: 4
+3 Idiots: 4
+Toy Story: 5
+American Beauty: 3
+Amadeus: 4
+Braveheart: 4
+Inglourious Basterds: 3
+Hamilton: 3
+Good Will Hunting: 1
+Star Wars: Episode VI - Return of the Jedi: 4
+2001: A Space Odyssey: 3
+Reservoir Dogs: 2
+M: 4
+Like Stars on Earth: 2
+Come and See: 3
+Vertigo: 0
+Citizen Kane: 3
+The Hunt: 0
+Requiem for a Dream: 4
+Singin' in the Rain: 2
+North by Northwest: 3
+Eternal Sunshine of the Spotless Mind: 0
+Ikiru: 5
+Bicycle Thieves: 1
+Lawrence of Arabia: 5
+The Kid: 5
+Full Metal Jacket: 2
+Dangal: 0
+The Apartment: 3
+Incendies: 0
+The Father: 1
+Metropolis: 2
+Double Indemnity: 0
+A Clockwork Orange: 4
+Taxi Driver: 4
+Jodaeiye Nader Az Simin: 2
+The Sting: 2
+Pather Panchali: 1
+Scarface: 5
+Snatch: 4
+1917: 1
+Amélie: 2
+To Kill a Mockingbird: 4
+Toy Story 3: 1
+For a Few Dollars More: 0
+Up: 4
+Indiana Jones and the Last Crusade: 3
+Heat: 3
+L.A. Confidential: 5
+Jai Bhim: 0
+Yojimbo: 3
+Die Hard: 2
+Ran: 0
+Rashomon: 3
+Green Book: 3
+Downfall: 5
+Monty Python and the Holy Grail: 0
+All About Eve: 2
+Some Like It Hot: 5
+Batman Begins: 1
+Unforgiven: 2
+Bacheha-Ye Aseman: 1
+Howl's Moving Castle: 1
+The Wolf of Wall Street: 3
+Judgment at Nuremberg: 4
+The Great Escape: 1
+There Will Be Blood: 0
+Casino: 0
+The Treasure of the Sierra Madre: 3
+Pan's Labyrinth: 5
+A Beautiful Mind: 5
+The Secret in Their Eyes: 4
+Raging Bull: 1
+Dersu Uzala: 2
+Chinatown: 1
+My Neighbor Totoro: 5
+Lock, Stock and Two Smoking Barrels: 0
+Shutter Island: 4
+No Country for Old Men: 4
+The Gold Rush: 5
+Dial M for Murder: 5
+The Thing: 5
+The Seventh Seal: 5
+Three Billboards Outside Ebbing, Missouri: 1
+The Elephant Man: 1
+Klaus: 3
+The Sixth Sense: 5
+Dune: 5
+Wild Strawberries: 1
+The Third Man: 2
+The Truman Show: 5
+Jurassic Park: 4
+Memories of Murder: 0
+V for Vendetta: 1
+Blade Runner: 2
+Trainspotting: 1
+Inside Out: 2
+The Bridge on the River Kwai: 3
+Fargo: 2
+Warrior: 3
+Finding Nemo: 1
+Kill Bill: Vol. 1: 4
+Gone with the Wind: 0
+Tôkyô monogatari: 4
+On the Waterfront: 4
+My Father and My Son: 1
+Relatos Salvajes: 2
+Stalker: 1
+The Deer Hunter: 1
+Z: 4
+Prisoners: 0
+The Grand Budapest Hotel: 5
+Sherlock Jr.: 1
+The General: 0
+Gran Torino: 4
+Persona: 4
+Before Sunrise: 1
+Mary and Max: 5
+Catch Me If You Can: 5
+Mr. Smith Goes to Washington: 3
+In the Name of the Father: 5
+Barry Lyndon: 1
+Room: 0
+Gone Girl: 1
+Hacksaw Ridge: 1
+The Passion of Joan of Arc: 5
+Andhadhun: 4
+Ford v Ferrari: 2
+12 Years a Slave: 3
+To Be or Not to Be: 0
+The Big Lebowski: 5
+Autumn Sonata: 0
+Dead Poets Society: 1
+How to Train Your Dragon: 5
+Mad Max: Fury Road: 1
+Ben-Hur: 5
+Harry Potter and the Deathly Hallows: Part 2: 3
+Million Dollar Baby: 0
+The Wages of Fear: 4
+The Handmaiden: 0
+Stand by Me: 4
+Network: 2
+Logan: 1
+Gangs of Wasseypur: 5
+Cool Hand Luke: 2
+Hachi: A Dog's Tale: 4
+La Haine: 1
+The 400 Blows: 4
+The Shape of Voice: 2
+Platoon: 0
+Spotlight: 2
+Monsters, Inc.: 5
+Rebecca: 2
+Life of Brian: 2
+Hotel Rwanda: 2
+The Bandit: 3
+In the Mood for Love: 0
+Rush: 5
+Into the Wild: 5
+Rocky: 4
+Amores perros: 1
+Nausicaä of the Valley of the Wind: 4
+Andrei Rublev: 2
+It Happened One Night: 2
+Before Sunset: 0
+Fanny and Alexander: 0
+Neon Genesis Evangelion: The End of Evangelion: 0
+The Battle of Algiers: 1
+96: 2
+Nights of Cabiria: 1
+The Princess Bride: 0
+Paris, Texas: 1
+Three Colours: Red: 1
+
+
+
+User 20
+
+The Shawshank Redemption: 0
+The Godfather: 3
+The Godfather: Part II: 3
+The Dark Knight	: 5
+12 Angry Men: 4
+Schindler's List: 5
+The Lord of the Rings: The Return of the King: 4
+Pulp Fiction: 1
+The Good, the Bad and the Ugly: 3
+The Lord of the Rings: The Fellowship of the Ring: 1
+Fight Club: 1
+Forrest Gump: 1
+Inception: 1
+The Lord of the Rings: The Two Towers: 1
+Star Wars: Episode V - The Empire Strikes Back: 0
+The Matrix: 4
+Goodfellas: 1
+One Flew Over the Cuckoo's Nest: 0
+Seven Samurai: 1
+Seven: 2
+The Silence of the Lambs: 0
+City of God: 3
+Life Is Beautiful: 3
+It's a Wonderful Life: 4
+Saving Private Ryan: 0
+Star Wars: 4
+Interstellar: 1
+Spirited Away: 4
+The Green Mile: 1
+Parasite: 5
+Léon: The Professional: 4
+Seppuku: 3
+The Pianist: 3
+Terminator 2: Judgment Day: 1
+Back to the Future: 5
+The Usual Suspects: 1
+Psycho: 3
+The Lion King: 4
+Modern Times: 0
+American History X: 5
+Grave of the Fireflies: 2
+City Lights: 2
+Whiplash: 5
+Gladiator: 4
+The Departed: 2
+The Intouchables: 2
+The Prestige: 4
+Casablanca: 3
+Once Upon a Time in the West: 3
+Rear Window: 4
+Cinema Paradiso: 2
+Alien: 5
+Apocalypse Now: 0
+Memento: 0
+Raiders of the Lost Ark: 2
+The Great Dictator: 0
+Django Unchained: 3
+The Lives of Others: 4
+Paths of Glory: 5
+Sunset Boulevard: 1
+WALL·E: 1
+Avengers: Infinity War: 5
+Witness for the Prosecution: 4
+The Shining: 4
+Spider-Man: Into the Spider-Verse: 0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 0
+Princess Mononoke: 0
+Oldeuboi: 2
+Joker: 3
+Your Name.: 2
+Coco: 5
+The Dark Knight Rises: 4
+Aliens: 4
+Once Upon a Time in America: 1
+Avengers: Endgame: 2
+Capernaum: 3
+Das Boot: 3
+High and Low: 0
+3 Idiots: 3
+Toy Story: 5
+American Beauty: 0
+Amadeus: 5
+Braveheart: 4
+Inglourious Basterds: 4
+Hamilton: 1
+Good Will Hunting: 5
+Star Wars: Episode VI - Return of the Jedi: 0
+2001: A Space Odyssey: 0
+Reservoir Dogs: 1
+M: 2
+Like Stars on Earth: 0
+Come and See: 1
+Vertigo: 2
+Citizen Kane: 1
+The Hunt: 2
+Requiem for a Dream: 5
+Singin' in the Rain: 5
+North by Northwest: 1
+Eternal Sunshine of the Spotless Mind: 4
+Ikiru: 1
+Bicycle Thieves: 1
+Lawrence of Arabia: 3
+The Kid: 2
+Full Metal Jacket: 2
+Dangal: 5
+The Apartment: 3
+Incendies: 3
+The Father: 4
+Metropolis: 1
+Double Indemnity: 3
+A Clockwork Orange: 3
+Taxi Driver: 2
+Jodaeiye Nader Az Simin: 3
+The Sting: 1
+Pather Panchali: 1
+Scarface: 1
+Snatch: 0
+1917: 1
+Amélie: 4
+To Kill a Mockingbird: 2
+Toy Story 3: 1
+For a Few Dollars More: 2
+Up: 4
+Indiana Jones and the Last Crusade: 0
+Heat: 3
+L.A. Confidential: 0
+Jai Bhim: 5
+Yojimbo: 4
+Die Hard: 2
+Ran: 1
+Rashomon: 5
+Green Book: 0
+Downfall: 1
+Monty Python and the Holy Grail: 2
+All About Eve: 3
+Some Like It Hot: 0
+Batman Begins: 2
+Unforgiven: 1
+Bacheha-Ye Aseman: 4
+Howl's Moving Castle: 0
+The Wolf of Wall Street: 4
+Judgment at Nuremberg: 2
+The Great Escape: 4
+There Will Be Blood: 3
+Casino: 4
+The Treasure of the Sierra Madre: 0
+Pan's Labyrinth: 3
+A Beautiful Mind: 1
+The Secret in Their Eyes: 4
+Raging Bull: 4
+Dersu Uzala: 0
+Chinatown: 5
+My Neighbor Totoro: 4
+Lock, Stock and Two Smoking Barrels: 4
+Shutter Island: 4
+No Country for Old Men: 3
+The Gold Rush: 3
+Dial M for Murder: 3
+The Thing: 1
+The Seventh Seal: 4
+Three Billboards Outside Ebbing, Missouri: 5
+The Elephant Man: 0
+Klaus: 2
+The Sixth Sense: 5
+Dune: 4
+Wild Strawberries: 3
+The Third Man: 1
+The Truman Show: 0
+Jurassic Park: 0
+Memories of Murder: 4
+V for Vendetta: 3
+Blade Runner: 1
+Trainspotting: 0
+Inside Out: 4
+The Bridge on the River Kwai: 5
+Fargo: 5
+Warrior: 3
+Finding Nemo: 2
+Kill Bill: Vol. 1: 0
+Gone with the Wind: 5
+Tôkyô monogatari: 4
+On the Waterfront: 5
+My Father and My Son: 0
+Relatos Salvajes: 0
+Stalker: 4
+The Deer Hunter: 5
+Z: 2
+Prisoners: 1
+The Grand Budapest Hotel: 1
+Sherlock Jr.: 2
+The General: 3
+Gran Torino: 0
+Persona: 1
+Before Sunrise: 5
+Mary and Max: 3
+Catch Me If You Can: 4
+Mr. Smith Goes to Washington: 1
+In the Name of the Father: 3
+Barry Lyndon: 4
+Room: 0
+Gone Girl: 4
+Hacksaw Ridge: 3
+The Passion of Joan of Arc: 0
+Andhadhun: 4
+Ford v Ferrari: 5
+12 Years a Slave: 3
+To Be or Not to Be: 3
+The Big Lebowski: 2
+Autumn Sonata: 5
+Dead Poets Society: 1
+How to Train Your Dragon: 4
+Mad Max: Fury Road: 5
+Ben-Hur: 3
+Harry Potter and the Deathly Hallows: Part 2: 4
+Million Dollar Baby: 1
+The Wages of Fear: 3
+The Handmaiden: 3
+Stand by Me: 5
+Network: 1
+Logan: 0
+Gangs of Wasseypur: 5
+Cool Hand Luke: 3
+Hachi: A Dog's Tale: 5
+La Haine: 4
+The 400 Blows: 4
+The Shape of Voice: 4
+Platoon: 5
+Spotlight: 1
+Monsters, Inc.: 2
+Rebecca: 1
+Life of Brian: 0
+Hotel Rwanda: 3
+The Bandit: 3
+In the Mood for Love: 5
+Rush: 3
+Into the Wild: 4
+Rocky: 5
+Amores perros: 1
+Nausicaä of the Valley of the Wind: 3
+Andrei Rublev: 3
+It Happened One Night: 1
+Before Sunset: 0
+Fanny and Alexander: 5
+Neon Genesis Evangelion: The End of Evangelion: 5
+The Battle of Algiers: 4
+96: 1
+Nights of Cabiria: 4
+The Princess Bride: 4
+Paris, Texas: 3
+Three Colours: Red: 4
+
+
+
+User 21
+
+The Shawshank Redemption: 0
+The Godfather: 1
+The Godfather: Part II: 5
+The Dark Knight	: 5
+12 Angry Men: 3
+Schindler's List: 1
+The Lord of the Rings: The Return of the King: 2
+Pulp Fiction: 5
+The Good, the Bad and the Ugly: 5
+The Lord of the Rings: The Fellowship of the Ring: 1
+Fight Club: 5
+Forrest Gump: 2
+Inception: 0
+The Lord of the Rings: The Two Towers: 5
+Star Wars: Episode V - The Empire Strikes Back: 0
+The Matrix: 4
+Goodfellas: 1
+One Flew Over the Cuckoo's Nest: 5
+Seven Samurai: 0
+Seven: 5
+The Silence of the Lambs: 4
+City of God: 2
+Life Is Beautiful: 2
+It's a Wonderful Life: 4
+Saving Private Ryan: 5
+Star Wars: 3
+Interstellar: 3
+Spirited Away: 2
+The Green Mile: 1
+Parasite: 3
+Léon: The Professional: 0
+Seppuku: 5
+The Pianist: 0
+Terminator 2: Judgment Day: 2
+Back to the Future: 4
+The Usual Suspects: 0
+Psycho: 3
+The Lion King: 4
+Modern Times: 2
+American History X: 3
+Grave of the Fireflies: 5
+City Lights: 1
+Whiplash: 1
+Gladiator: 3
+The Departed: 3
+The Intouchables: 4
+The Prestige: 4
+Casablanca: 5
+Once Upon a Time in the West: 0
+Rear Window: 1
+Cinema Paradiso: 3
+Alien: 5
+Apocalypse Now: 5
+Memento: 0
+Raiders of the Lost Ark: 4
+The Great Dictator: 5
+Django Unchained: 4
+The Lives of Others: 2
+Paths of Glory: 1
+Sunset Boulevard: 4
+WALL·E: 4
+Avengers: Infinity War: 3
+Witness for the Prosecution: 2
+The Shining: 5
+Spider-Man: Into the Spider-Verse: 1
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 1
+Princess Mononoke: 5
+Oldeuboi: 3
+Joker: 0
+Your Name.: 1
+Coco: 0
+The Dark Knight Rises: 0
+Aliens: 1
+Once Upon a Time in America: 5
+Avengers: Endgame: 2
+Capernaum: 5
+Das Boot: 4
+High and Low: 0
+3 Idiots: 5
+Toy Story: 5
+American Beauty: 2
+Amadeus: 2
+Braveheart: 2
+Inglourious Basterds: 0
+Hamilton: 3
+Good Will Hunting: 3
+Star Wars: Episode VI - Return of the Jedi: 3
+2001: A Space Odyssey: 0
+Reservoir Dogs: 1
+M: 4
+Like Stars on Earth: 0
+Come and See: 2
+Vertigo: 4
+Citizen Kane: 1
+The Hunt: 0
+Requiem for a Dream: 1
+Singin' in the Rain: 3
+North by Northwest: 0
+Eternal Sunshine of the Spotless Mind: 4
+Ikiru: 1
+Bicycle Thieves: 3
+Lawrence of Arabia: 4
+The Kid: 4
+Full Metal Jacket: 1
+Dangal: 1
+The Apartment: 2
+Incendies: 0
+The Father: 3
+Metropolis: 5
+Double Indemnity: 4
+A Clockwork Orange: 1
+Taxi Driver: 3
+Jodaeiye Nader Az Simin: 0
+The Sting: 4
+Pather Panchali: 0
+Scarface: 0
+Snatch: 0
+1917: 5
+Amélie: 0
+To Kill a Mockingbird: 3
+Toy Story 3: 0
+For a Few Dollars More: 0
+Up: 4
+Indiana Jones and the Last Crusade: 0
+Heat: 1
+L.A. Confidential: 2
+Jai Bhim: 5
+Yojimbo: 5
+Die Hard: 2
+Ran: 1
+Rashomon: 2
+Green Book: 2
+Downfall: 3
+Monty Python and the Holy Grail: 4
+All About Eve: 2
+Some Like It Hot: 1
+Batman Begins: 2
+Unforgiven: 1
+Bacheha-Ye Aseman: 5
+Howl's Moving Castle: 3
+The Wolf of Wall Street: 1
+Judgment at Nuremberg: 3
+The Great Escape: 5
+There Will Be Blood: 4
+Casino: 3
+The Treasure of the Sierra Madre: 1
+Pan's Labyrinth: 0
+A Beautiful Mind: 1
+The Secret in Their Eyes: 2
+Raging Bull: 3
+Dersu Uzala: 4
+Chinatown: 0
+My Neighbor Totoro: 5
+Lock, Stock and Two Smoking Barrels: 3
+Shutter Island: 0
+No Country for Old Men: 0
+The Gold Rush: 0
+Dial M for Murder: 0
+The Thing: 0
+The Seventh Seal: 2
+Three Billboards Outside Ebbing, Missouri: 0
+The Elephant Man: 3
+Klaus: 0
+The Sixth Sense: 1
+Dune: 0
+Wild Strawberries: 4
+The Third Man: 5
+The Truman Show: 3
+Jurassic Park: 2
+Memories of Murder: 1
+V for Vendetta: 0
+Blade Runner: 1
+Trainspotting: 0
+Inside Out: 2
+The Bridge on the River Kwai: 5
+Fargo: 4
+Warrior: 5
+Finding Nemo: 1
+Kill Bill: Vol. 1: 3
+Gone with the Wind: 0
+Tôkyô monogatari: 1
+On the Waterfront: 2
+My Father and My Son: 3
+Relatos Salvajes: 5
+Stalker: 1
+The Deer Hunter: 0
+Z: 3
+Prisoners: 2
+The Grand Budapest Hotel: 3
+Sherlock Jr.: 4
+The General: 4
+Gran Torino: 0
+Persona: 2
+Before Sunrise: 5
+Mary and Max: 3
+Catch Me If You Can: 4
+Mr. Smith Goes to Washington: 0
+In the Name of the Father: 1
+Barry Lyndon: 3
+Room: 3
+Gone Girl: 2
+Hacksaw Ridge: 5
+The Passion of Joan of Arc: 4
+Andhadhun: 0
+Ford v Ferrari: 1
+12 Years a Slave: 2
+To Be or Not to Be: 3
+The Big Lebowski: 0
+Autumn Sonata: 0
+Dead Poets Society: 3
+How to Train Your Dragon: 4
+Mad Max: Fury Road: 1
+Ben-Hur: 2
+Harry Potter and the Deathly Hallows: Part 2: 1
+Million Dollar Baby: 2
+The Wages of Fear: 5
+The Handmaiden: 1
+Stand by Me: 4
+Network: 4
+Logan: 2
+Gangs of Wasseypur: 0
+Cool Hand Luke: 2
+Hachi: A Dog's Tale: 0
+La Haine: 5
+The 400 Blows: 1
+The Shape of Voice: 2
+Platoon: 0
+Spotlight: 5
+Monsters, Inc.: 5
+Rebecca: 2
+Life of Brian: 3
+Hotel Rwanda: 0
+The Bandit: 3
+In the Mood for Love: 0
+Rush: 2
+Into the Wild: 1
+Rocky: 1
+Amores perros: 0
+Nausicaä of the Valley of the Wind: 0
+Andrei Rublev: 0
+It Happened One Night: 3
+Before Sunset: 2
+Fanny and Alexander: 3
+Neon Genesis Evangelion: The End of Evangelion: 2
+The Battle of Algiers: 5
+96: 3
+Nights of Cabiria: 4
+The Princess Bride: 1
+Paris, Texas: 4
+Three Colours: Red: 1
+
+
+
+User 22
+
+The Shawshank Redemption: 1
+The Godfather: 1
+The Godfather: Part II: 2
+The Dark Knight	: 1
+12 Angry Men: 0
+Schindler's List: 5
+The Lord of the Rings: The Return of the King: 2
+Pulp Fiction: 4
+The Good, the Bad and the Ugly: 3
+The Lord of the Rings: The Fellowship of the Ring: 5
+Fight Club: 5
+Forrest Gump: 4
+Inception: 5
+The Lord of the Rings: The Two Towers: 3
+Star Wars: Episode V - The Empire Strikes Back: 4
+The Matrix: 1
+Goodfellas: 3
+One Flew Over the Cuckoo's Nest: 0
+Seven Samurai: 5
+Seven: 2
+The Silence of the Lambs: 5
+City of God: 0
+Life Is Beautiful: 3
+It's a Wonderful Life: 0
+Saving Private Ryan: 2
+Star Wars: 5
+Interstellar: 0
+Spirited Away: 1
+The Green Mile: 4
+Parasite: 4
+Léon: The Professional: 5
+Seppuku: 2
+The Pianist: 2
+Terminator 2: Judgment Day: 2
+Back to the Future: 0
+The Usual Suspects: 3
+Psycho: 2
+The Lion King: 5
+Modern Times: 3
+American History X: 5
+Grave of the Fireflies: 4
+City Lights: 2
+Whiplash: 0
+Gladiator: 1
+The Departed: 4
+The Intouchables: 2
+The Prestige: 4
+Casablanca: 0
+Once Upon a Time in the West: 4
+Rear Window: 4
+Cinema Paradiso: 5
+Alien: 2
+Apocalypse Now: 1
+Memento: 3
+Raiders of the Lost Ark: 0
+The Great Dictator: 4
+Django Unchained: 3
+The Lives of Others: 5
+Paths of Glory: 5
+Sunset Boulevard: 2
+WALL·E: 1
+Avengers: Infinity War: 3
+Witness for the Prosecution: 4
+The Shining: 4
+Spider-Man: Into the Spider-Verse: 2
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 2
+Princess Mononoke: 0
+Oldeuboi: 0
+Joker: 5
+Your Name.: 5
+Coco: 3
+The Dark Knight Rises: 2
+Aliens: 4
+Once Upon a Time in America: 0
+Avengers: Endgame: 1
+Capernaum: 1
+Das Boot: 0
+High and Low: 0
+3 Idiots: 5
+Toy Story: 0
+American Beauty: 1
+Amadeus: 1
+Braveheart: 2
+Inglourious Basterds: 5
+Hamilton: 4
+Good Will Hunting: 2
+Star Wars: Episode VI - Return of the Jedi: 5
+2001: A Space Odyssey: 2
+Reservoir Dogs: 2
+M: 1
+Like Stars on Earth: 4
+Come and See: 2
+Vertigo: 0
+Citizen Kane: 2
+The Hunt: 5
+Requiem for a Dream: 4
+Singin' in the Rain: 1
+North by Northwest: 2
+Eternal Sunshine of the Spotless Mind: 4
+Ikiru: 4
+Bicycle Thieves: 1
+Lawrence of Arabia: 5
+The Kid: 2
+Full Metal Jacket: 5
+Dangal: 0
+The Apartment: 4
+Incendies: 1
+The Father: 4
+Metropolis: 1
+Double Indemnity: 0
+A Clockwork Orange: 3
+Taxi Driver: 3
+Jodaeiye Nader Az Simin: 2
+The Sting: 4
+Pather Panchali: 2
+Scarface: 5
+Snatch: 0
+1917: 4
+Amélie: 3
+To Kill a Mockingbird: 5
+Toy Story 3: 4
+For a Few Dollars More: 0
+Up: 0
+Indiana Jones and the Last Crusade: 2
+Heat: 3
+L.A. Confidential: 0
+Jai Bhim: 2
+Yojimbo: 3
+Die Hard: 1
+Ran: 4
+Rashomon: 4
+Green Book: 3
+Downfall: 4
+Monty Python and the Holy Grail: 3
+All About Eve: 2
+Some Like It Hot: 4
+Batman Begins: 5
+Unforgiven: 5
+Bacheha-Ye Aseman: 3
+Howl's Moving Castle: 0
+The Wolf of Wall Street: 4
+Judgment at Nuremberg: 0
+The Great Escape: 4
+There Will Be Blood: 1
+Casino: 1
+The Treasure of the Sierra Madre: 5
+Pan's Labyrinth: 4
+A Beautiful Mind: 4
+The Secret in Their Eyes: 2
+Raging Bull: 5
+Dersu Uzala: 0
+Chinatown: 4
+My Neighbor Totoro: 4
+Lock, Stock and Two Smoking Barrels: 4
+Shutter Island: 5
+No Country for Old Men: 2
+The Gold Rush: 2
+Dial M for Murder: 1
+The Thing: 1
+The Seventh Seal: 4
+Three Billboards Outside Ebbing, Missouri: 2
+The Elephant Man: 2
+Klaus: 5
+The Sixth Sense: 4
+Dune: 1
+Wild Strawberries: 4
+The Third Man: 0
+The Truman Show: 4
+Jurassic Park: 4
+Memories of Murder: 3
+V for Vendetta: 2
+Blade Runner: 4
+Trainspotting: 0
+Inside Out: 0
+The Bridge on the River Kwai: 5
+Fargo: 5
+Warrior: 0
+Finding Nemo: 5
+Kill Bill: Vol. 1: 2
+Gone with the Wind: 5
+Tôkyô monogatari: 3
+On the Waterfront: 0
+My Father and My Son: 0
+Relatos Salvajes: 4
+Stalker: 0
+The Deer Hunter: 2
+Z: 5
+Prisoners: 0
+The Grand Budapest Hotel: 1
+Sherlock Jr.: 3
+The General: 3
+Gran Torino: 4
+Persona: 4
+Before Sunrise: 4
+Mary and Max: 5
+Catch Me If You Can: 3
+Mr. Smith Goes to Washington: 4
+In the Name of the Father: 4
+Barry Lyndon: 2
+Room: 1
+Gone Girl: 0
+Hacksaw Ridge: 1
+The Passion of Joan of Arc: 5
+Andhadhun: 5
+Ford v Ferrari: 2
+12 Years a Slave: 4
+To Be or Not to Be: 3
+The Big Lebowski: 4
+Autumn Sonata: 5
+Dead Poets Society: 1
+How to Train Your Dragon: 1
+Mad Max: Fury Road: 2
+Ben-Hur: 3
+Harry Potter and the Deathly Hallows: Part 2: 1
+Million Dollar Baby: 3
+The Wages of Fear: 2
+The Handmaiden: 4
+Stand by Me: 4
+Network: 1
+Logan: 4
+Gangs of Wasseypur: 4
+Cool Hand Luke: 3
+Hachi: A Dog's Tale: 0
+La Haine: 4
+The 400 Blows: 5
+The Shape of Voice: 2
+Platoon: 1
+Spotlight: 5
+Monsters, Inc.: 5
+Rebecca: 5
+Life of Brian: 3
+Hotel Rwanda: 4
+The Bandit: 3
+In the Mood for Love: 0
+Rush: 4
+Into the Wild: 4
+Rocky: 0
+Amores perros: 4
+Nausicaä of the Valley of the Wind: 2
+Andrei Rublev: 4
+It Happened One Night: 5
+Before Sunset: 5
+Fanny and Alexander: 4
+Neon Genesis Evangelion: The End of Evangelion: 3
+The Battle of Algiers: 4
+96: 1
+Nights of Cabiria: 1
+The Princess Bride: 3
+Paris, Texas: 5
+Three Colours: Red: 0
+
+
+
+User 23
+
+The Shawshank Redemption: 3
+The Godfather: 3
+The Godfather: Part II: 0
+The Dark Knight	: 1
+12 Angry Men: 4
+Schindler's List: 3
+The Lord of the Rings: The Return of the King: 4
+Pulp Fiction: 5
+The Good, the Bad and the Ugly: 0
+The Lord of the Rings: The Fellowship of the Ring: 4
+Fight Club: 5
+Forrest Gump: 3
+Inception: 1
+The Lord of the Rings: The Two Towers: 5
+Star Wars: Episode V - The Empire Strikes Back: 5
+The Matrix: 0
+Goodfellas: 0
+One Flew Over the Cuckoo's Nest: 4
+Seven Samurai: 3
+Seven: 5
+The Silence of the Lambs: 4
+City of God: 1
+Life Is Beautiful: 2
+It's a Wonderful Life: 5
+Saving Private Ryan: 0
+Star Wars: 5
+Interstellar: 4
+Spirited Away: 0
+The Green Mile: 0
+Parasite: 0
+Léon: The Professional: 1
+Seppuku: 5
+The Pianist: 2
+Terminator 2: Judgment Day: 3
+Back to the Future: 2
+The Usual Suspects: 4
+Psycho: 3
+The Lion King: 1
+Modern Times: 3
+American History X: 0
+Grave of the Fireflies: 3
+City Lights: 1
+Whiplash: 0
+Gladiator: 1
+The Departed: 5
+The Intouchables: 3
+The Prestige: 0
+Casablanca: 4
+Once Upon a Time in the West: 4
+Rear Window: 2
+Cinema Paradiso: 0
+Alien: 1
+Apocalypse Now: 1
+Memento: 2
+Raiders of the Lost Ark: 5
+The Great Dictator: 0
+Django Unchained: 5
+The Lives of Others: 2
+Paths of Glory: 4
+Sunset Boulevard: 4
+WALL·E: 1
+Avengers: Infinity War: 0
+Witness for the Prosecution: 0
+The Shining: 2
+Spider-Man: Into the Spider-Verse: 2
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 1
+Princess Mononoke: 0
+Oldeuboi: 3
+Joker: 1
+Your Name.: 4
+Coco: 0
+The Dark Knight Rises: 0
+Aliens: 1
+Once Upon a Time in America: 3
+Avengers: Endgame: 3
+Capernaum: 1
+Das Boot: 4
+High and Low: 4
+3 Idiots: 4
+Toy Story: 5
+American Beauty: 4
+Amadeus: 1
+Braveheart: 0
+Inglourious Basterds: 4
+Hamilton: 3
+Good Will Hunting: 1
+Star Wars: Episode VI - Return of the Jedi: 4
+2001: A Space Odyssey: 1
+Reservoir Dogs: 4
+M: 2
+Like Stars on Earth: 1
+Come and See: 5
+Vertigo: 2
+Citizen Kane: 0
+The Hunt: 2
+Requiem for a Dream: 1
+Singin' in the Rain: 2
+North by Northwest: 5
+Eternal Sunshine of the Spotless Mind: 2
+Ikiru: 2
+Bicycle Thieves: 0
+Lawrence of Arabia: 5
+The Kid: 5
+Full Metal Jacket: 3
+Dangal: 0
+The Apartment: 1
+Incendies: 5
+The Father: 2
+Metropolis: 3
+Double Indemnity: 4
+A Clockwork Orange: 0
+Taxi Driver: 2
+Jodaeiye Nader Az Simin: 5
+The Sting: 5
+Pather Panchali: 1
+Scarface: 0
+Snatch: 3
+1917: 2
+Amélie: 0
+To Kill a Mockingbird: 1
+Toy Story 3: 2
+For a Few Dollars More: 1
+Up: 0
+Indiana Jones and the Last Crusade: 1
+Heat: 5
+L.A. Confidential: 5
+Jai Bhim: 4
+Yojimbo: 2
+Die Hard: 1
+Ran: 3
+Rashomon: 4
+Green Book: 4
+Downfall: 1
+Monty Python and the Holy Grail: 3
+All About Eve: 2
+Some Like It Hot: 4
+Batman Begins: 0
+Unforgiven: 2
+Bacheha-Ye Aseman: 5
+Howl's Moving Castle: 1
+The Wolf of Wall Street: 2
+Judgment at Nuremberg: 1
+The Great Escape: 1
+There Will Be Blood: 0
+Casino: 1
+The Treasure of the Sierra Madre: 0
+Pan's Labyrinth: 4
+A Beautiful Mind: 1
+The Secret in Their Eyes: 2
+Raging Bull: 4
+Dersu Uzala: 4
+Chinatown: 2
+My Neighbor Totoro: 3
+Lock, Stock and Two Smoking Barrels: 3
+Shutter Island: 4
+No Country for Old Men: 4
+The Gold Rush: 0
+Dial M for Murder: 4
+The Thing: 3
+The Seventh Seal: 4
+Three Billboards Outside Ebbing, Missouri: 3
+The Elephant Man: 3
+Klaus: 5
+The Sixth Sense: 3
+Dune: 3
+Wild Strawberries: 4
+The Third Man: 5
+The Truman Show: 3
+Jurassic Park: 0
+Memories of Murder: 1
+V for Vendetta: 4
+Blade Runner: 4
+Trainspotting: 4
+Inside Out: 3
+The Bridge on the River Kwai: 4
+Fargo: 1
+Warrior: 4
+Finding Nemo: 4
+Kill Bill: Vol. 1: 5
+Gone with the Wind: 5
+Tôkyô monogatari: 2
+On the Waterfront: 2
+My Father and My Son: 4
+Relatos Salvajes: 2
+Stalker: 5
+The Deer Hunter: 4
+Z: 5
+Prisoners: 2
+The Grand Budapest Hotel: 5
+Sherlock Jr.: 1
+The General: 3
+Gran Torino: 1
+Persona: 5
+Before Sunrise: 3
+Mary and Max: 1
+Catch Me If You Can: 3
+Mr. Smith Goes to Washington: 0
+In the Name of the Father: 0
+Barry Lyndon: 5
+Room: 4
+Gone Girl: 3
+Hacksaw Ridge: 4
+The Passion of Joan of Arc: 5
+Andhadhun: 3
+Ford v Ferrari: 1
+12 Years a Slave: 1
+To Be or Not to Be: 1
+The Big Lebowski: 2
+Autumn Sonata: 0
+Dead Poets Society: 3
+How to Train Your Dragon: 5
+Mad Max: Fury Road: 5
+Ben-Hur: 5
+Harry Potter and the Deathly Hallows: Part 2: 2
+Million Dollar Baby: 1
+The Wages of Fear: 3
+The Handmaiden: 0
+Stand by Me: 3
+Network: 2
+Logan: 4
+Gangs of Wasseypur: 0
+Cool Hand Luke: 1
+Hachi: A Dog's Tale: 3
+La Haine: 5
+The 400 Blows: 1
+The Shape of Voice: 3
+Platoon: 5
+Spotlight: 4
+Monsters, Inc.: 2
+Rebecca: 3
+Life of Brian: 3
+Hotel Rwanda: 4
+The Bandit: 1
+In the Mood for Love: 2
+Rush: 3
+Into the Wild: 4
+Rocky: 4
+Amores perros: 1
+Nausicaä of the Valley of the Wind: 4
+Andrei Rublev: 0
+It Happened One Night: 2
+Before Sunset: 3
+Fanny and Alexander: 5
+Neon Genesis Evangelion: The End of Evangelion: 4
+The Battle of Algiers: 0
+96: 5
+Nights of Cabiria: 5
+The Princess Bride: 1
+Paris, Texas: 4
+Three Colours: Red: 3
+
+
+
+User 24
+
+The Shawshank Redemption: 3
+The Godfather: 2
+The Godfather: Part II: 4
+The Dark Knight	: 1
+12 Angry Men: 4
+Schindler's List: 4
+The Lord of the Rings: The Return of the King: 4
+Pulp Fiction: 2
+The Good, the Bad and the Ugly: 4
+The Lord of the Rings: The Fellowship of the Ring: 4
+Fight Club: 5
+Forrest Gump: 1
+Inception: 2
+The Lord of the Rings: The Two Towers: 0
+Star Wars: Episode V - The Empire Strikes Back: 3
+The Matrix: 5
+Goodfellas: 5
+One Flew Over the Cuckoo's Nest: 1
+Seven Samurai: 4
+Seven: 4
+The Silence of the Lambs: 2
+City of God: 5
+Life Is Beautiful: 3
+It's a Wonderful Life: 2
+Saving Private Ryan: 5
+Star Wars: 2
+Interstellar: 4
+Spirited Away: 5
+The Green Mile: 0
+Parasite: 3
+Léon: The Professional: 1
+Seppuku: 4
+The Pianist: 4
+Terminator 2: Judgment Day: 0
+Back to the Future: 2
+The Usual Suspects: 2
+Psycho: 3
+The Lion King: 1
+Modern Times: 2
+American History X: 1
+Grave of the Fireflies: 1
+City Lights: 1
+Whiplash: 3
+Gladiator: 1
+The Departed: 0
+The Intouchables: 4
+The Prestige: 1
+Casablanca: 0
+Once Upon a Time in the West: 4
+Rear Window: 4
+Cinema Paradiso: 1
+Alien: 2
+Apocalypse Now: 4
+Memento: 3
+Raiders of the Lost Ark: 0
+The Great Dictator: 4
+Django Unchained: 0
+The Lives of Others: 1
+Paths of Glory: 0
+Sunset Boulevard: 1
+WALL·E: 2
+Avengers: Infinity War: 2
+Witness for the Prosecution: 5
+The Shining: 4
+Spider-Man: Into the Spider-Verse: 1
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 1
+Princess Mononoke: 0
+Oldeuboi: 3
+Joker: 4
+Your Name.: 4
+Coco: 5
+The Dark Knight Rises: 2
+Aliens: 3
+Once Upon a Time in America: 3
+Avengers: Endgame: 4
+Capernaum: 2
+Das Boot: 2
+High and Low: 5
+3 Idiots: 1
+Toy Story: 2
+American Beauty: 5
+Amadeus: 3
+Braveheart: 4
+Inglourious Basterds: 3
+Hamilton: 0
+Good Will Hunting: 5
+Star Wars: Episode VI - Return of the Jedi: 5
+2001: A Space Odyssey: 1
+Reservoir Dogs: 1
+M: 2
+Like Stars on Earth: 4
+Come and See: 1
+Vertigo: 3
+Citizen Kane: 5
+The Hunt: 2
+Requiem for a Dream: 3
+Singin' in the Rain: 2
+North by Northwest: 4
+Eternal Sunshine of the Spotless Mind: 4
+Ikiru: 0
+Bicycle Thieves: 1
+Lawrence of Arabia: 0
+The Kid: 4
+Full Metal Jacket: 0
+Dangal: 0
+The Apartment: 4
+Incendies: 5
+The Father: 0
+Metropolis: 3
+Double Indemnity: 1
+A Clockwork Orange: 2
+Taxi Driver: 1
+Jodaeiye Nader Az Simin: 2
+The Sting: 4
+Pather Panchali: 1
+Scarface: 2
+Snatch: 1
+1917: 0
+Amélie: 1
+To Kill a Mockingbird: 3
+Toy Story 3: 5
+For a Few Dollars More: 4
+Up: 3
+Indiana Jones and the Last Crusade: 3
+Heat: 1
+L.A. Confidential: 5
+Jai Bhim: 5
+Yojimbo: 2
+Die Hard: 0
+Ran: 1
+Rashomon: 0
+Green Book: 2
+Downfall: 5
+Monty Python and the Holy Grail: 0
+All About Eve: 2
+Some Like It Hot: 2
+Batman Begins: 4
+Unforgiven: 2
+Bacheha-Ye Aseman: 5
+Howl's Moving Castle: 1
+The Wolf of Wall Street: 3
+Judgment at Nuremberg: 0
+The Great Escape: 4
+There Will Be Blood: 1
+Casino: 1
+The Treasure of the Sierra Madre: 4
+Pan's Labyrinth: 2
+A Beautiful Mind: 1
+The Secret in Their Eyes: 5
+Raging Bull: 3
+Dersu Uzala: 2
+Chinatown: 4
+My Neighbor Totoro: 5
+Lock, Stock and Two Smoking Barrels: 0
+Shutter Island: 0
+No Country for Old Men: 5
+The Gold Rush: 4
+Dial M for Murder: 1
+The Thing: 1
+The Seventh Seal: 0
+Three Billboards Outside Ebbing, Missouri: 1
+The Elephant Man: 3
+Klaus: 1
+The Sixth Sense: 5
+Dune: 5
+Wild Strawberries: 1
+The Third Man: 3
+The Truman Show: 0
+Jurassic Park: 0
+Memories of Murder: 4
+V for Vendetta: 5
+Blade Runner: 5
+Trainspotting: 0
+Inside Out: 2
+The Bridge on the River Kwai: 5
+Fargo: 5
+Warrior: 2
+Finding Nemo: 3
+Kill Bill: Vol. 1: 0
+Gone with the Wind: 5
+Tôkyô monogatari: 4
+On the Waterfront: 3
+My Father and My Son: 5
+Relatos Salvajes: 4
+Stalker: 5
+The Deer Hunter: 0
+Z: 2
+Prisoners: 1
+The Grand Budapest Hotel: 2
+Sherlock Jr.: 5
+The General: 4
+Gran Torino: 0
+Persona: 4
+Before Sunrise: 4
+Mary and Max: 3
+Catch Me If You Can: 0
+Mr. Smith Goes to Washington: 3
+In the Name of the Father: 3
+Barry Lyndon: 0
+Room: 5
+Gone Girl: 0
+Hacksaw Ridge: 5
+The Passion of Joan of Arc: 4
+Andhadhun: 0
+Ford v Ferrari: 5
+12 Years a Slave: 2
+To Be or Not to Be: 3
+The Big Lebowski: 2
+Autumn Sonata: 4
+Dead Poets Society: 3
+How to Train Your Dragon: 1
+Mad Max: Fury Road: 2
+Ben-Hur: 4
+Harry Potter and the Deathly Hallows: Part 2: 3
+Million Dollar Baby: 0
+The Wages of Fear: 1
+The Handmaiden: 0
+Stand by Me: 0
+Network: 5
+Logan: 4
+Gangs of Wasseypur: 5
+Cool Hand Luke: 2
+Hachi: A Dog's Tale: 3
+La Haine: 3
+The 400 Blows: 0
+The Shape of Voice: 4
+Platoon: 5
+Spotlight: 0
+Monsters, Inc.: 3
+Rebecca: 5
+Life of Brian: 4
+Hotel Rwanda: 0
+The Bandit: 1
+In the Mood for Love: 3
+Rush: 3
+Into the Wild: 1
+Rocky: 3
+Amores perros: 5
+Nausicaä of the Valley of the Wind: 5
+Andrei Rublev: 4
+It Happened One Night: 0
+Before Sunset: 2
+Fanny and Alexander: 0
+Neon Genesis Evangelion: The End of Evangelion: 2
+The Battle of Algiers: 5
+96: 5
+Nights of Cabiria: 2
+The Princess Bride: 0
+Paris, Texas: 4
+Three Colours: Red: 0
+
+
+
+User 25
+
+The Shawshank Redemption: 5
+The Godfather: 1
+The Godfather: Part II: 5
+The Dark Knight	: 1
+12 Angry Men: 2
+Schindler's List: 3
+The Lord of the Rings: The Return of the King: 5
+Pulp Fiction: 0
+The Good, the Bad and the Ugly: 1
+The Lord of the Rings: The Fellowship of the Ring: 4
+Fight Club: 5
+Forrest Gump: 1
+Inception: 0
+The Lord of the Rings: The Two Towers: 5
+Star Wars: Episode V - The Empire Strikes Back: 0
+The Matrix: 4
+Goodfellas: 3
+One Flew Over the Cuckoo's Nest: 5
+Seven Samurai: 4
+Seven: 0
+The Silence of the Lambs: 2
+City of God: 2
+Life Is Beautiful: 5
+It's a Wonderful Life: 2
+Saving Private Ryan: 3
+Star Wars: 3
+Interstellar: 1
+Spirited Away: 3
+The Green Mile: 4
+Parasite: 3
+Léon: The Professional: 2
+Seppuku: 2
+The Pianist: 1
+Terminator 2: Judgment Day: 4
+Back to the Future: 5
+The Usual Suspects: 3
+Psycho: 5
+The Lion King: 5
+Modern Times: 1
+American History X: 2
+Grave of the Fireflies: 4
+City Lights: 4
+Whiplash: 2
+Gladiator: 2
+The Departed: 2
+The Intouchables: 5
+The Prestige: 1
+Casablanca: 4
+Once Upon a Time in the West: 4
+Rear Window: 1
+Cinema Paradiso: 2
+Alien: 0
+Apocalypse Now: 0
+Memento: 4
+Raiders of the Lost Ark: 2
+The Great Dictator: 4
+Django Unchained: 2
+The Lives of Others: 2
+Paths of Glory: 5
+Sunset Boulevard: 3
+WALL·E: 5
+Avengers: Infinity War: 2
+Witness for the Prosecution: 4
+The Shining: 5
+Spider-Man: Into the Spider-Verse: 5
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 0
+Princess Mononoke: 0
+Oldeuboi: 2
+Joker: 2
+Your Name.: 0
+Coco: 0
+The Dark Knight Rises: 1
+Aliens: 2
+Once Upon a Time in America: 2
+Avengers: Endgame: 1
+Capernaum: 5
+Das Boot: 2
+High and Low: 1
+3 Idiots: 1
+Toy Story: 2
+American Beauty: 1
+Amadeus: 5
+Braveheart: 2
+Inglourious Basterds: 3
+Hamilton: 0
+Good Will Hunting: 3
+Star Wars: Episode VI - Return of the Jedi: 2
+2001: A Space Odyssey: 5
+Reservoir Dogs: 0
+M: 1
+Like Stars on Earth: 2
+Come and See: 1
+Vertigo: 1
+Citizen Kane: 0
+The Hunt: 1
+Requiem for a Dream: 1
+Singin' in the Rain: 2
+North by Northwest: 1
+Eternal Sunshine of the Spotless Mind: 3
+Ikiru: 3
+Bicycle Thieves: 3
+Lawrence of Arabia: 3
+The Kid: 1
+Full Metal Jacket: 3
+Dangal: 0
+The Apartment: 3
+Incendies: 1
+The Father: 0
+Metropolis: 4
+Double Indemnity: 5
+A Clockwork Orange: 5
+Taxi Driver: 1
+Jodaeiye Nader Az Simin: 2
+The Sting: 2
+Pather Panchali: 2
+Scarface: 0
+Snatch: 5
+1917: 2
+Amélie: 0
+To Kill a Mockingbird: 3
+Toy Story 3: 3
+For a Few Dollars More: 2
+Up: 4
+Indiana Jones and the Last Crusade: 4
+Heat: 0
+L.A. Confidential: 4
+Jai Bhim: 3
+Yojimbo: 5
+Die Hard: 3
+Ran: 3
+Rashomon: 3
+Green Book: 2
+Downfall: 4
+Monty Python and the Holy Grail: 5
+All About Eve: 0
+Some Like It Hot: 1
+Batman Begins: 4
+Unforgiven: 3
+Bacheha-Ye Aseman: 2
+Howl's Moving Castle: 5
+The Wolf of Wall Street: 3
+Judgment at Nuremberg: 0
+The Great Escape: 4
+There Will Be Blood: 5
+Casino: 0
+The Treasure of the Sierra Madre: 5
+Pan's Labyrinth: 5
+A Beautiful Mind: 2
+The Secret in Their Eyes: 3
+Raging Bull: 3
+Dersu Uzala: 2
+Chinatown: 1
+My Neighbor Totoro: 3
+Lock, Stock and Two Smoking Barrels: 2
+Shutter Island: 4
+No Country for Old Men: 5
+The Gold Rush: 0
+Dial M for Murder: 5
+The Thing: 4
+The Seventh Seal: 3
+Three Billboards Outside Ebbing, Missouri: 0
+The Elephant Man: 3
+Klaus: 0
+The Sixth Sense: 3
+Dune: 3
+Wild Strawberries: 1
+The Third Man: 4
+The Truman Show: 3
+Jurassic Park: 1
+Memories of Murder: 5
+V for Vendetta: 2
+Blade Runner: 1
+Trainspotting: 1
+Inside Out: 3
+The Bridge on the River Kwai: 0
+Fargo: 2
+Warrior: 0
+Finding Nemo: 5
+Kill Bill: Vol. 1: 1
+Gone with the Wind: 2
+Tôkyô monogatari: 1
+On the Waterfront: 4
+My Father and My Son: 4
+Relatos Salvajes: 1
+Stalker: 3
+The Deer Hunter: 5
+Z: 2
+Prisoners: 3
+The Grand Budapest Hotel: 3
+Sherlock Jr.: 1
+The General: 2
+Gran Torino: 3
+Persona: 5
+Before Sunrise: 5
+Mary and Max: 4
+Catch Me If You Can: 4
+Mr. Smith Goes to Washington: 0
+In the Name of the Father: 3
+Barry Lyndon: 0
+Room: 4
+Gone Girl: 3
+Hacksaw Ridge: 1
+The Passion of Joan of Arc: 2
+Andhadhun: 3
+Ford v Ferrari: 3
+12 Years a Slave: 5
+To Be or Not to Be: 0
+The Big Lebowski: 0
+Autumn Sonata: 5
+Dead Poets Society: 0
+How to Train Your Dragon: 4
+Mad Max: Fury Road: 2
+Ben-Hur: 1
+Harry Potter and the Deathly Hallows: Part 2: 4
+Million Dollar Baby: 1
+The Wages of Fear: 4
+The Handmaiden: 2
+Stand by Me: 4
+Network: 3
+Logan: 3
+Gangs of Wasseypur: 0
+Cool Hand Luke: 3
+Hachi: A Dog's Tale: 0
+La Haine: 4
+The 400 Blows: 1
+The Shape of Voice: 1
+Platoon: 5
+Spotlight: 1
+Monsters, Inc.: 5
+Rebecca: 2
+Life of Brian: 0
+Hotel Rwanda: 4
+The Bandit: 0
+In the Mood for Love: 0
+Rush: 1
+Into the Wild: 1
+Rocky: 1
+Amores perros: 4
+Nausicaä of the Valley of the Wind: 0
+Andrei Rublev: 5
+It Happened One Night: 5
+Before Sunset: 1
+Fanny and Alexander: 1
+Neon Genesis Evangelion: The End of Evangelion: 5
+The Battle of Algiers: 2
+96: 2
+Nights of Cabiria: 1
+The Princess Bride: 1
+Paris, Texas: 4
+Three Colours: Red: 0
+
+
+
+User 26
+
+The Shawshank Redemption: 2
+The Godfather: 5
+The Godfather: Part II: 5
+The Dark Knight	: 5
+12 Angry Men: 2
+Schindler's List: 2
+The Lord of the Rings: The Return of the King: 1
+Pulp Fiction: 2
+The Good, the Bad and the Ugly: 3
+The Lord of the Rings: The Fellowship of the Ring: 3
+Fight Club: 1
+Forrest Gump: 5
+Inception: 4
+The Lord of the Rings: The Two Towers: 4
+Star Wars: Episode V - The Empire Strikes Back: 3
+The Matrix: 4
+Goodfellas: 2
+One Flew Over the Cuckoo's Nest: 1
+Seven Samurai: 5
+Seven: 3
+The Silence of the Lambs: 4
+City of God: 5
+Life Is Beautiful: 5
+It's a Wonderful Life: 0
+Saving Private Ryan: 5
+Star Wars: 4
+Interstellar: 5
+Spirited Away: 3
+The Green Mile: 3
+Parasite: 0
+Léon: The Professional: 0
+Seppuku: 4
+The Pianist: 4
+Terminator 2: Judgment Day: 1
+Back to the Future: 2
+The Usual Suspects: 4
+Psycho: 3
+The Lion King: 5
+Modern Times: 5
+American History X: 5
+Grave of the Fireflies: 5
+City Lights: 2
+Whiplash: 3
+Gladiator: 2
+The Departed: 3
+The Intouchables: 4
+The Prestige: 4
+Casablanca: 3
+Once Upon a Time in the West: 5
+Rear Window: 2
+Cinema Paradiso: 1
+Alien: 4
+Apocalypse Now: 0
+Memento: 4
+Raiders of the Lost Ark: 4
+The Great Dictator: 0
+Django Unchained: 3
+The Lives of Others: 1
+Paths of Glory: 5
+Sunset Boulevard: 3
+WALL·E: 4
+Avengers: Infinity War: 2
+Witness for the Prosecution: 0
+The Shining: 3
+Spider-Man: Into the Spider-Verse: 3
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 4
+Princess Mononoke: 4
+Oldeuboi: 2
+Joker: 0
+Your Name.: 3
+Coco: 5
+The Dark Knight Rises: 3
+Aliens: 4
+Once Upon a Time in America: 5
+Avengers: Endgame: 4
+Capernaum: 5
+Das Boot: 3
+High and Low: 5
+3 Idiots: 5
+Toy Story: 5
+American Beauty: 4
+Amadeus: 1
+Braveheart: 3
+Inglourious Basterds: 1
+Hamilton: 1
+Good Will Hunting: 2
+Star Wars: Episode VI - Return of the Jedi: 5
+2001: A Space Odyssey: 0
+Reservoir Dogs: 5
+M: 3
+Like Stars on Earth: 1
+Come and See: 1
+Vertigo: 5
+Citizen Kane: 5
+The Hunt: 1
+Requiem for a Dream: 0
+Singin' in the Rain: 4
+North by Northwest: 0
+Eternal Sunshine of the Spotless Mind: 5
+Ikiru: 5
+Bicycle Thieves: 5
+Lawrence of Arabia: 5
+The Kid: 0
+Full Metal Jacket: 5
+Dangal: 5
+The Apartment: 4
+Incendies: 4
+The Father: 1
+Metropolis: 0
+Double Indemnity: 5
+A Clockwork Orange: 5
+Taxi Driver: 1
+Jodaeiye Nader Az Simin: 5
+The Sting: 1
+Pather Panchali: 1
+Scarface: 5
+Snatch: 1
+1917: 2
+Amélie: 4
+To Kill a Mockingbird: 5
+Toy Story 3: 2
+For a Few Dollars More: 0
+Up: 5
+Indiana Jones and the Last Crusade: 0
+Heat: 4
+L.A. Confidential: 4
+Jai Bhim: 2
+Yojimbo: 2
+Die Hard: 0
+Ran: 3
+Rashomon: 4
+Green Book: 1
+Downfall: 4
+Monty Python and the Holy Grail: 0
+All About Eve: 2
+Some Like It Hot: 1
+Batman Begins: 3
+Unforgiven: 2
+Bacheha-Ye Aseman: 3
+Howl's Moving Castle: 3
+The Wolf of Wall Street: 3
+Judgment at Nuremberg: 1
+The Great Escape: 0
+There Will Be Blood: 2
+Casino: 2
+The Treasure of the Sierra Madre: 2
+Pan's Labyrinth: 5
+A Beautiful Mind: 5
+The Secret in Their Eyes: 5
+Raging Bull: 2
+Dersu Uzala: 3
+Chinatown: 1
+My Neighbor Totoro: 1
+Lock, Stock and Two Smoking Barrels: 1
+Shutter Island: 2
+No Country for Old Men: 3
+The Gold Rush: 4
+Dial M for Murder: 2
+The Thing: 5
+The Seventh Seal: 4
+Three Billboards Outside Ebbing, Missouri: 3
+The Elephant Man: 0
+Klaus: 2
+The Sixth Sense: 4
+Dune: 5
+Wild Strawberries: 1
+The Third Man: 1
+The Truman Show: 0
+Jurassic Park: 5
+Memories of Murder: 2
+V for Vendetta: 0
+Blade Runner: 1
+Trainspotting: 0
+Inside Out: 3
+The Bridge on the River Kwai: 1
+Fargo: 2
+Warrior: 2
+Finding Nemo: 0
+Kill Bill: Vol. 1: 3
+Gone with the Wind: 3
+Tôkyô monogatari: 4
+On the Waterfront: 0
+My Father and My Son: 1
+Relatos Salvajes: 3
+Stalker: 5
+The Deer Hunter: 5
+Z: 3
+Prisoners: 4
+The Grand Budapest Hotel: 1
+Sherlock Jr.: 3
+The General: 5
+Gran Torino: 5
+Persona: 0
+Before Sunrise: 3
+Mary and Max: 0
+Catch Me If You Can: 1
+Mr. Smith Goes to Washington: 3
+In the Name of the Father: 5
+Barry Lyndon: 4
+Room: 0
+Gone Girl: 0
+Hacksaw Ridge: 2
+The Passion of Joan of Arc: 4
+Andhadhun: 3
+Ford v Ferrari: 0
+12 Years a Slave: 1
+To Be or Not to Be: 4
+The Big Lebowski: 1
+Autumn Sonata: 4
+Dead Poets Society: 1
+How to Train Your Dragon: 4
+Mad Max: Fury Road: 3
+Ben-Hur: 3
+Harry Potter and the Deathly Hallows: Part 2: 0
+Million Dollar Baby: 3
+The Wages of Fear: 4
+The Handmaiden: 5
+Stand by Me: 1
+Network: 4
+Logan: 5
+Gangs of Wasseypur: 0
+Cool Hand Luke: 5
+Hachi: A Dog's Tale: 0
+La Haine: 3
+The 400 Blows: 1
+The Shape of Voice: 5
+Platoon: 1
+Spotlight: 4
+Monsters, Inc.: 2
+Rebecca: 5
+Life of Brian: 0
+Hotel Rwanda: 2
+The Bandit: 0
+In the Mood for Love: 2
+Rush: 1
+Into the Wild: 1
+Rocky: 5
+Amores perros: 3
+Nausicaä of the Valley of the Wind: 1
+Andrei Rublev: 3
+It Happened One Night: 4
+Before Sunset: 0
+Fanny and Alexander: 5
+Neon Genesis Evangelion: The End of Evangelion: 0
+The Battle of Algiers: 1
+96: 4
+Nights of Cabiria: 3
+The Princess Bride: 0
+Paris, Texas: 2
+Three Colours: Red: 2
+
+
+
+User 27
+
+The Shawshank Redemption: 1
+The Godfather: 2
+The Godfather: Part II: 1
+The Dark Knight	: 4
+12 Angry Men: 5
+Schindler's List: 0
+The Lord of the Rings: The Return of the King: 0
+Pulp Fiction: 0
+The Good, the Bad and the Ugly: 1
+The Lord of the Rings: The Fellowship of the Ring: 5
+Fight Club: 1
+Forrest Gump: 1
+Inception: 1
+The Lord of the Rings: The Two Towers: 2
+Star Wars: Episode V - The Empire Strikes Back: 1
+The Matrix: 3
+Goodfellas: 1
+One Flew Over the Cuckoo's Nest: 0
+Seven Samurai: 4
+Seven: 0
+The Silence of the Lambs: 3
+City of God: 0
+Life Is Beautiful: 4
+It's a Wonderful Life: 1
+Saving Private Ryan: 3
+Star Wars: 4
+Interstellar: 1
+Spirited Away: 1
+The Green Mile: 4
+Parasite: 0
+Léon: The Professional: 2
+Seppuku: 2
+The Pianist: 3
+Terminator 2: Judgment Day: 3
+Back to the Future: 4
+The Usual Suspects: 5
+Psycho: 5
+The Lion King: 4
+Modern Times: 5
+American History X: 3
+Grave of the Fireflies: 0
+City Lights: 3
+Whiplash: 1
+Gladiator: 3
+The Departed: 1
+The Intouchables: 3
+The Prestige: 2
+Casablanca: 0
+Once Upon a Time in the West: 2
+Rear Window: 5
+Cinema Paradiso: 1
+Alien: 3
+Apocalypse Now: 0
+Memento: 0
+Raiders of the Lost Ark: 1
+The Great Dictator: 3
+Django Unchained: 3
+The Lives of Others: 1
+Paths of Glory: 4
+Sunset Boulevard: 4
+WALL·E: 4
+Avengers: Infinity War: 5
+Witness for the Prosecution: 3
+The Shining: 5
+Spider-Man: Into the Spider-Verse: 4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 2
+Princess Mononoke: 1
+Oldeuboi: 5
+Joker: 3
+Your Name.: 0
+Coco: 3
+The Dark Knight Rises: 4
+Aliens: 0
+Once Upon a Time in America: 3
+Avengers: Endgame: 4
+Capernaum: 5
+Das Boot: 2
+High and Low: 3
+3 Idiots: 5
+Toy Story: 5
+American Beauty: 5
+Amadeus: 1
+Braveheart: 3
+Inglourious Basterds: 5
+Hamilton: 3
+Good Will Hunting: 5
+Star Wars: Episode VI - Return of the Jedi: 1
+2001: A Space Odyssey: 1
+Reservoir Dogs: 0
+M: 3
+Like Stars on Earth: 2
+Come and See: 1
+Vertigo: 5
+Citizen Kane: 5
+The Hunt: 0
+Requiem for a Dream: 0
+Singin' in the Rain: 3
+North by Northwest: 3
+Eternal Sunshine of the Spotless Mind: 2
+Ikiru: 5
+Bicycle Thieves: 3
+Lawrence of Arabia: 0
+The Kid: 0
+Full Metal Jacket: 3
+Dangal: 4
+The Apartment: 4
+Incendies: 0
+The Father: 5
+Metropolis: 5
+Double Indemnity: 3
+A Clockwork Orange: 0
+Taxi Driver: 0
+Jodaeiye Nader Az Simin: 0
+The Sting: 0
+Pather Panchali: 3
+Scarface: 5
+Snatch: 2
+1917: 4
+Amélie: 4
+To Kill a Mockingbird: 2
+Toy Story 3: 1
+For a Few Dollars More: 4
+Up: 5
+Indiana Jones and the Last Crusade: 1
+Heat: 2
+L.A. Confidential: 2
+Jai Bhim: 4
+Yojimbo: 3
+Die Hard: 4
+Ran: 5
+Rashomon: 5
+Green Book: 1
+Downfall: 5
+Monty Python and the Holy Grail: 1
+All About Eve: 2
+Some Like It Hot: 2
+Batman Begins: 5
+Unforgiven: 1
+Bacheha-Ye Aseman: 2
+Howl's Moving Castle: 3
+The Wolf of Wall Street: 0
+Judgment at Nuremberg: 5
+The Great Escape: 2
+There Will Be Blood: 1
+Casino: 3
+The Treasure of the Sierra Madre: 1
+Pan's Labyrinth: 4
+A Beautiful Mind: 4
+The Secret in Their Eyes: 0
+Raging Bull: 5
+Dersu Uzala: 3
+Chinatown: 0
+My Neighbor Totoro: 3
+Lock, Stock and Two Smoking Barrels: 4
+Shutter Island: 1
+No Country for Old Men: 1
+The Gold Rush: 0
+Dial M for Murder: 1
+The Thing: 1
+The Seventh Seal: 0
+Three Billboards Outside Ebbing, Missouri: 5
+The Elephant Man: 4
+Klaus: 0
+The Sixth Sense: 2
+Dune: 5
+Wild Strawberries: 4
+The Third Man: 5
+The Truman Show: 4
+Jurassic Park: 3
+Memories of Murder: 1
+V for Vendetta: 5
+Blade Runner: 1
+Trainspotting: 5
+Inside Out: 4
+The Bridge on the River Kwai: 5
+Fargo: 4
+Warrior: 4
+Finding Nemo: 2
+Kill Bill: Vol. 1: 1
+Gone with the Wind: 4
+Tôkyô monogatari: 2
+On the Waterfront: 3
+My Father and My Son: 5
+Relatos Salvajes: 4
+Stalker: 0
+The Deer Hunter: 4
+Z: 2
+Prisoners: 0
+The Grand Budapest Hotel: 1
+Sherlock Jr.: 1
+The General: 2
+Gran Torino: 0
+Persona: 2
+Before Sunrise: 0
+Mary and Max: 1
+Catch Me If You Can: 0
+Mr. Smith Goes to Washington: 0
+In the Name of the Father: 2
+Barry Lyndon: 2
+Room: 3
+Gone Girl: 5
+Hacksaw Ridge: 1
+The Passion of Joan of Arc: 3
+Andhadhun: 4
+Ford v Ferrari: 3
+12 Years a Slave: 4
+To Be or Not to Be: 1
+The Big Lebowski: 4
+Autumn Sonata: 1
+Dead Poets Society: 4
+How to Train Your Dragon: 1
+Mad Max: Fury Road: 1
+Ben-Hur: 1
+Harry Potter and the Deathly Hallows: Part 2: 1
+Million Dollar Baby: 1
+The Wages of Fear: 4
+The Handmaiden: 1
+Stand by Me: 4
+Network: 4
+Logan: 0
+Gangs of Wasseypur: 0
+Cool Hand Luke: 5
+Hachi: A Dog's Tale: 4
+La Haine: 0
+The 400 Blows: 3
+The Shape of Voice: 3
+Platoon: 4
+Spotlight: 5
+Monsters, Inc.: 3
+Rebecca: 0
+Life of Brian: 5
+Hotel Rwanda: 4
+The Bandit: 1
+In the Mood for Love: 1
+Rush: 5
+Into the Wild: 4
+Rocky: 1
+Amores perros: 1
+Nausicaä of the Valley of the Wind: 1
+Andrei Rublev: 5
+It Happened One Night: 5
+Before Sunset: 2
+Fanny and Alexander: 0
+Neon Genesis Evangelion: The End of Evangelion: 1
+The Battle of Algiers: 3
+96: 3
+Nights of Cabiria: 5
+The Princess Bride: 4
+Paris, Texas: 0
+Three Colours: Red: 1
+
+
+
+User 28
+
+The Shawshank Redemption: 2
+The Godfather: 1
+The Godfather: Part II: 2
+The Dark Knight	: 5
+12 Angry Men: 2
+Schindler's List: 1
+The Lord of the Rings: The Return of the King: 5
+Pulp Fiction: 2
+The Good, the Bad and the Ugly: 5
+The Lord of the Rings: The Fellowship of the Ring: 5
+Fight Club: 0
+Forrest Gump: 2
+Inception: 0
+The Lord of the Rings: The Two Towers: 4
+Star Wars: Episode V - The Empire Strikes Back: 5
+The Matrix: 2
+Goodfellas: 4
+One Flew Over the Cuckoo's Nest: 4
+Seven Samurai: 3
+Seven: 1
+The Silence of the Lambs: 0
+City of God: 4
+Life Is Beautiful: 3
+It's a Wonderful Life: 3
+Saving Private Ryan: 3
+Star Wars: 4
+Interstellar: 3
+Spirited Away: 0
+The Green Mile: 5
+Parasite: 2
+Léon: The Professional: 5
+Seppuku: 3
+The Pianist: 5
+Terminator 2: Judgment Day: 5
+Back to the Future: 3
+The Usual Suspects: 4
+Psycho: 2
+The Lion King: 5
+Modern Times: 0
+American History X: 1
+Grave of the Fireflies: 0
+City Lights: 5
+Whiplash: 3
+Gladiator: 2
+The Departed: 4
+The Intouchables: 0
+The Prestige: 3
+Casablanca: 0
+Once Upon a Time in the West: 1
+Rear Window: 2
+Cinema Paradiso: 5
+Alien: 0
+Apocalypse Now: 4
+Memento: 3
+Raiders of the Lost Ark: 3
+The Great Dictator: 0
+Django Unchained: 4
+The Lives of Others: 2
+Paths of Glory: 0
+Sunset Boulevard: 0
+WALL·E: 5
+Avengers: Infinity War: 5
+Witness for the Prosecution: 0
+The Shining: 1
+Spider-Man: Into the Spider-Verse: 2
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 5
+Princess Mononoke: 0
+Oldeuboi: 4
+Joker: 2
+Your Name.: 5
+Coco: 4
+The Dark Knight Rises: 2
+Aliens: 2
+Once Upon a Time in America: 3
+Avengers: Endgame: 0
+Capernaum: 1
+Das Boot: 0
+High and Low: 1
+3 Idiots: 0
+Toy Story: 2
+American Beauty: 0
+Amadeus: 5
+Braveheart: 3
+Inglourious Basterds: 3
+Hamilton: 2
+Good Will Hunting: 0
+Star Wars: Episode VI - Return of the Jedi: 2
+2001: A Space Odyssey: 0
+Reservoir Dogs: 0
+M: 4
+Like Stars on Earth: 2
+Come and See: 5
+Vertigo: 2
+Citizen Kane: 4
+The Hunt: 5
+Requiem for a Dream: 0
+Singin' in the Rain: 1
+North by Northwest: 4
+Eternal Sunshine of the Spotless Mind: 0
+Ikiru: 5
+Bicycle Thieves: 0
+Lawrence of Arabia: 0
+The Kid: 5
+Full Metal Jacket: 3
+Dangal: 4
+The Apartment: 4
+Incendies: 3
+The Father: 5
+Metropolis: 4
+Double Indemnity: 1
+A Clockwork Orange: 4
+Taxi Driver: 3
+Jodaeiye Nader Az Simin: 1
+The Sting: 2
+Pather Panchali: 1
+Scarface: 0
+Snatch: 0
+1917: 1
+Amélie: 2
+To Kill a Mockingbird: 2
+Toy Story 3: 3
+For a Few Dollars More: 3
+Up: 3
+Indiana Jones and the Last Crusade: 4
+Heat: 0
+L.A. Confidential: 5
+Jai Bhim: 1
+Yojimbo: 5
+Die Hard: 0
+Ran: 5
+Rashomon: 4
+Green Book: 0
+Downfall: 2
+Monty Python and the Holy Grail: 1
+All About Eve: 1
+Some Like It Hot: 0
+Batman Begins: 4
+Unforgiven: 4
+Bacheha-Ye Aseman: 1
+Howl's Moving Castle: 5
+The Wolf of Wall Street: 2
+Judgment at Nuremberg: 4
+The Great Escape: 1
+There Will Be Blood: 3
+Casino: 1
+The Treasure of the Sierra Madre: 1
+Pan's Labyrinth: 1
+A Beautiful Mind: 3
+The Secret in Their Eyes: 5
+Raging Bull: 5
+Dersu Uzala: 0
+Chinatown: 2
+My Neighbor Totoro: 1
+Lock, Stock and Two Smoking Barrels: 2
+Shutter Island: 5
+No Country for Old Men: 2
+The Gold Rush: 5
+Dial M for Murder: 3
+The Thing: 0
+The Seventh Seal: 3
+Three Billboards Outside Ebbing, Missouri: 0
+The Elephant Man: 4
+Klaus: 4
+The Sixth Sense: 3
+Dune: 1
+Wild Strawberries: 5
+The Third Man: 0
+The Truman Show: 0
+Jurassic Park: 4
+Memories of Murder: 5
+V for Vendetta: 2
+Blade Runner: 5
+Trainspotting: 2
+Inside Out: 4
+The Bridge on the River Kwai: 5
+Fargo: 2
+Warrior: 1
+Finding Nemo: 1
+Kill Bill: Vol. 1: 5
+Gone with the Wind: 4
+Tôkyô monogatari: 1
+On the Waterfront: 2
+My Father and My Son: 3
+Relatos Salvajes: 3
+Stalker: 2
+The Deer Hunter: 4
+Z: 3
+Prisoners: 1
+The Grand Budapest Hotel: 1
+Sherlock Jr.: 3
+The General: 4
+Gran Torino: 3
+Persona: 1
+Before Sunrise: 3
+Mary and Max: 0
+Catch Me If You Can: 2
+Mr. Smith Goes to Washington: 2
+In the Name of the Father: 5
+Barry Lyndon: 2
+Room: 4
+Gone Girl: 3
+Hacksaw Ridge: 4
+The Passion of Joan of Arc: 3
+Andhadhun: 3
+Ford v Ferrari: 3
+12 Years a Slave: 1
+To Be or Not to Be: 2
+The Big Lebowski: 0
+Autumn Sonata: 4
+Dead Poets Society: 3
+How to Train Your Dragon: 4
+Mad Max: Fury Road: 5
+Ben-Hur: 2
+Harry Potter and the Deathly Hallows: Part 2: 5
+Million Dollar Baby: 2
+The Wages of Fear: 5
+The Handmaiden: 0
+Stand by Me: 2
+Network: 0
+Logan: 2
+Gangs of Wasseypur: 4
+Cool Hand Luke: 5
+Hachi: A Dog's Tale: 0
+La Haine: 1
+The 400 Blows: 3
+The Shape of Voice: 0
+Platoon: 4
+Spotlight: 3
+Monsters, Inc.: 0
+Rebecca: 0
+Life of Brian: 4
+Hotel Rwanda: 1
+The Bandit: 3
+In the Mood for Love: 4
+Rush: 3
+Into the Wild: 3
+Rocky: 3
+Amores perros: 5
+Nausicaä of the Valley of the Wind: 2
+Andrei Rublev: 5
+It Happened One Night: 0
+Before Sunset: 0
+Fanny and Alexander: 1
+Neon Genesis Evangelion: The End of Evangelion: 2
+The Battle of Algiers: 0
+96: 0
+Nights of Cabiria: 1
+The Princess Bride: 5
+Paris, Texas: 2
+Three Colours: Red: 3
+
+
+
+User 29
+
+The Shawshank Redemption: 1
+The Godfather: 4
+The Godfather: Part II: 4
+The Dark Knight	: 5
+12 Angry Men: 1
+Schindler's List: 0
+The Lord of the Rings: The Return of the King: 3
+Pulp Fiction: 4
+The Good, the Bad and the Ugly: 4
+The Lord of the Rings: The Fellowship of the Ring: 0
+Fight Club: 3
+Forrest Gump: 4
+Inception: 2
+The Lord of the Rings: The Two Towers: 3
+Star Wars: Episode V - The Empire Strikes Back: 4
+The Matrix: 0
+Goodfellas: 0
+One Flew Over the Cuckoo's Nest: 2
+Seven Samurai: 1
+Seven: 0
+The Silence of the Lambs: 1
+City of God: 0
+Life Is Beautiful: 2
+It's a Wonderful Life: 4
+Saving Private Ryan: 3
+Star Wars: 3
+Interstellar: 2
+Spirited Away: 4
+The Green Mile: 1
+Parasite: 5
+Léon: The Professional: 0
+Seppuku: 3
+The Pianist: 1
+Terminator 2: Judgment Day: 0
+Back to the Future: 1
+The Usual Suspects: 2
+Psycho: 5
+The Lion King: 5
+Modern Times: 1
+American History X: 2
+Grave of the Fireflies: 0
+City Lights: 2
+Whiplash: 1
+Gladiator: 2
+The Departed: 3
+The Intouchables: 5
+The Prestige: 3
+Casablanca: 0
+Once Upon a Time in the West: 1
+Rear Window: 1
+Cinema Paradiso: 3
+Alien: 2
+Apocalypse Now: 3
+Memento: 3
+Raiders of the Lost Ark: 0
+The Great Dictator: 1
+Django Unchained: 3
+The Lives of Others: 4
+Paths of Glory: 3
+Sunset Boulevard: 5
+WALL·E: 4
+Avengers: Infinity War: 3
+Witness for the Prosecution: 1
+The Shining: 5
+Spider-Man: Into the Spider-Verse: 5
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 3
+Princess Mononoke: 1
+Oldeuboi: 4
+Joker: 3
+Your Name.: 2
+Coco: 5
+The Dark Knight Rises: 0
+Aliens: 0
+Once Upon a Time in America: 2
+Avengers: Endgame: 3
+Capernaum: 5
+Das Boot: 5
+High and Low: 2
+3 Idiots: 4
+Toy Story: 0
+American Beauty: 5
+Amadeus: 4
+Braveheart: 0
+Inglourious Basterds: 1
+Hamilton: 1
+Good Will Hunting: 2
+Star Wars: Episode VI - Return of the Jedi: 5
+2001: A Space Odyssey: 0
+Reservoir Dogs: 1
+M: 2
+Like Stars on Earth: 3
+Come and See: 3
+Vertigo: 1
+Citizen Kane: 0
+The Hunt: 3
+Requiem for a Dream: 5
+Singin' in the Rain: 3
+North by Northwest: 2
+Eternal Sunshine of the Spotless Mind: 0
+Ikiru: 4
+Bicycle Thieves: 1
+Lawrence of Arabia: 2
+The Kid: 2
+Full Metal Jacket: 5
+Dangal: 3
+The Apartment: 4
+Incendies: 0
+The Father: 2
+Metropolis: 1
+Double Indemnity: 3
+A Clockwork Orange: 1
+Taxi Driver: 1
+Jodaeiye Nader Az Simin: 0
+The Sting: 5
+Pather Panchali: 5
+Scarface: 5
+Snatch: 4
+1917: 3
+Amélie: 0
+To Kill a Mockingbird: 2
+Toy Story 3: 4
+For a Few Dollars More: 4
+Up: 4
+Indiana Jones and the Last Crusade: 3
+Heat: 0
+L.A. Confidential: 0
+Jai Bhim: 3
+Yojimbo: 5
+Die Hard: 4
+Ran: 4
+Rashomon: 2
+Green Book: 3
+Downfall: 3
+Monty Python and the Holy Grail: 3
+All About Eve: 5
+Some Like It Hot: 4
+Batman Begins: 0
+Unforgiven: 3
+Bacheha-Ye Aseman: 2
+Howl's Moving Castle: 4
+The Wolf of Wall Street: 5
+Judgment at Nuremberg: 0
+The Great Escape: 2
+There Will Be Blood: 5
+Casino: 4
+The Treasure of the Sierra Madre: 2
+Pan's Labyrinth: 2
+A Beautiful Mind: 3
+The Secret in Their Eyes: 5
+Raging Bull: 0
+Dersu Uzala: 4
+Chinatown: 4
+My Neighbor Totoro: 2
+Lock, Stock and Two Smoking Barrels: 5
+Shutter Island: 1
+No Country for Old Men: 5
+The Gold Rush: 5
+Dial M for Murder: 1
+The Thing: 1
+The Seventh Seal: 4
+Three Billboards Outside Ebbing, Missouri: 3
+The Elephant Man: 3
+Klaus: 1
+The Sixth Sense: 2
+Dune: 0
+Wild Strawberries: 1
+The Third Man: 2
+The Truman Show: 2
+Jurassic Park: 0
+Memories of Murder: 5
+V for Vendetta: 0
+Blade Runner: 5
+Trainspotting: 1
+Inside Out: 5
+The Bridge on the River Kwai: 5
+Fargo: 2
+Warrior: 0
+Finding Nemo: 3
+Kill Bill: Vol. 1: 3
+Gone with the Wind: 3
+Tôkyô monogatari: 0
+On the Waterfront: 0
+My Father and My Son: 2
+Relatos Salvajes: 1
+Stalker: 5
+The Deer Hunter: 2
+Z: 2
+Prisoners: 0
+The Grand Budapest Hotel: 5
+Sherlock Jr.: 3
+The General: 2
+Gran Torino: 5
+Persona: 4
+Before Sunrise: 5
+Mary and Max: 0
+Catch Me If You Can: 3
+Mr. Smith Goes to Washington: 1
+In the Name of the Father: 5
+Barry Lyndon: 5
+Room: 5
+Gone Girl: 5
+Hacksaw Ridge: 1
+The Passion of Joan of Arc: 1
+Andhadhun: 4
+Ford v Ferrari: 4
+12 Years a Slave: 0
+To Be or Not to Be: 2
+The Big Lebowski: 4
+Autumn Sonata: 2
+Dead Poets Society: 3
+How to Train Your Dragon: 3
+Mad Max: Fury Road: 2
+Ben-Hur: 0
+Harry Potter and the Deathly Hallows: Part 2: 0
+Million Dollar Baby: 0
+The Wages of Fear: 0
+The Handmaiden: 5
+Stand by Me: 2
+Network: 5
+Logan: 0
+Gangs of Wasseypur: 4
+Cool Hand Luke: 1
+Hachi: A Dog's Tale: 4
+La Haine: 0
+The 400 Blows: 5
+The Shape of Voice: 3
+Platoon: 4
+Spotlight: 1
+Monsters, Inc.: 2
+Rebecca: 3
+Life of Brian: 0
+Hotel Rwanda: 4
+The Bandit: 2
+In the Mood for Love: 0
+Rush: 1
+Into the Wild: 4
+Rocky: 4
+Amores perros: 1
+Nausicaä of the Valley of the Wind: 0
+Andrei Rublev: 0
+It Happened One Night: 1
+Before Sunset: 4
+Fanny and Alexander: 2
+Neon Genesis Evangelion: The End of Evangelion: 5
+The Battle of Algiers: 5
+96: 1
+Nights of Cabiria: 1
+The Princess Bride: 2
+Paris, Texas: 5
+Three Colours: Red: 2
+
+
+
+User 30
+
+The Shawshank Redemption: 0
+The Godfather: 3
+The Godfather: Part II: 1
+The Dark Knight	: 5
+12 Angry Men: 4
+Schindler's List: 2
+The Lord of the Rings: The Return of the King: 0
+Pulp Fiction: 2
+The Good, the Bad and the Ugly: 1
+The Lord of the Rings: The Fellowship of the Ring: 5
+Fight Club: 2
+Forrest Gump: 5
+Inception: 2
+The Lord of the Rings: The Two Towers: 4
+Star Wars: Episode V - The Empire Strikes Back: 0
+The Matrix: 1
+Goodfellas: 2
+One Flew Over the Cuckoo's Nest: 0
+Seven Samurai: 4
+Seven: 4
+The Silence of the Lambs: 5
+City of God: 3
+Life Is Beautiful: 3
+It's a Wonderful Life: 5
+Saving Private Ryan: 5
+Star Wars: 0
+Interstellar: 2
+Spirited Away: 4
+The Green Mile: 5
+Parasite: 5
+Léon: The Professional: 1
+Seppuku: 1
+The Pianist: 5
+Terminator 2: Judgment Day: 5
+Back to the Future: 2
+The Usual Suspects: 2
+Psycho: 0
+The Lion King: 1
+Modern Times: 0
+American History X: 0
+Grave of the Fireflies: 2
+City Lights: 4
+Whiplash: 4
+Gladiator: 5
+The Departed: 0
+The Intouchables: 0
+The Prestige: 4
+Casablanca: 5
+Once Upon a Time in the West: 3
+Rear Window: 0
+Cinema Paradiso: 1
+Alien: 3
+Apocalypse Now: 1
+Memento: 4
+Raiders of the Lost Ark: 3
+The Great Dictator: 2
+Django Unchained: 2
+The Lives of Others: 4
+Paths of Glory: 1
+Sunset Boulevard: 0
+WALL·E: 2
+Avengers: Infinity War: 1
+Witness for the Prosecution: 1
+The Shining: 2
+Spider-Man: Into the Spider-Verse: 4
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb: 5
+Princess Mononoke: 2
+Oldeuboi: 1
+Joker: 0
+Your Name.: 3
+Coco: 0
+The Dark Knight Rises: 3
+Aliens: 0
+Once Upon a Time in America: 5
+Avengers: Endgame: 3
+Capernaum: 1
+Das Boot: 4
+High and Low: 4
+3 Idiots: 5
+Toy Story: 0
+American Beauty: 2
+Amadeus: 2
+Braveheart: 2
+Inglourious Basterds: 1
+Hamilton: 2
+Good Will Hunting: 1
+Star Wars: Episode VI - Return of the Jedi: 1
+2001: A Space Odyssey: 2
+Reservoir Dogs: 3
+M: 3
+Like Stars on Earth: 2
+Come and See: 0
+Vertigo: 5
+Citizen Kane: 1
+The Hunt: 4
+Requiem for a Dream: 1
+Singin' in the Rain: 2
+North by Northwest: 1
+Eternal Sunshine of the Spotless Mind: 2
+Ikiru: 2
+Bicycle Thieves: 3
+Lawrence of Arabia: 1
+The Kid: 5
+Full Metal Jacket: 0
+Dangal: 4
+The Apartment: 0
+Incendies: 4
+The Father: 0
+Metropolis: 4
+Double Indemnity: 5
+A Clockwork Orange: 1
+Taxi Driver: 0
+Jodaeiye Nader Az Simin: 5
+The Sting: 0
+Pather Panchali: 0
+Scarface: 2
+Snatch: 1
+1917: 3
+Amélie: 4
+To Kill a Mockingbird: 1
+Toy Story 3: 2
+For a Few Dollars More: 0
+Up: 1
+Indiana Jones and the Last Crusade: 2
+Heat: 5
+L.A. Confidential: 0
+Jai Bhim: 2
+Yojimbo: 0
+Die Hard: 2
+Ran: 3
+Rashomon: 4
+Green Book: 5
+Downfall: 2
+Monty Python and the Holy Grail: 2
+All About Eve: 0
+Some Like It Hot: 0
+Batman Begins: 0
+Unforgiven: 2
+Bacheha-Ye Aseman: 2
+Howl's Moving Castle: 5
+The Wolf of Wall Street: 4
+Judgment at Nuremberg: 3
+The Great Escape: 2
+There Will Be Blood: 0
+Casino: 5
+The Treasure of the Sierra Madre: 1
+Pan's Labyrinth: 0
+A Beautiful Mind: 1
+The Secret in Their Eyes: 4
+Raging Bull: 5
+Dersu Uzala: 4
+Chinatown: 2
+My Neighbor Totoro: 4
+Lock, Stock and Two Smoking Barrels: 1
+Shutter Island: 5
+No Country for Old Men: 2
+The Gold Rush: 0
+Dial M for Murder: 2
+The Thing: 4
+The Seventh Seal: 1
+Three Billboards Outside Ebbing, Missouri: 0
+The Elephant Man: 1
+Klaus: 5
+The Sixth Sense: 4
+Dune: 3
+Wild Strawberries: 4
+The Third Man: 0
+The Truman Show: 0
+Jurassic Park: 5
+Memories of Murder: 0
+V for Vendetta: 2
+Blade Runner: 1
+Trainspotting: 4
+Inside Out: 0
+The Bridge on the River Kwai: 2
+Fargo: 0
+Warrior: 0
+Finding Nemo: 5
+Kill Bill: Vol. 1: 2
+Gone with the Wind: 1
+Tôkyô monogatari: 4
+On the Waterfront: 5
+My Father and My Son: 2
+Relatos Salvajes: 4
+Stalker: 3
+The Deer Hunter: 3
+Z: 1
+Prisoners: 5
+The Grand Budapest Hotel: 0
+Sherlock Jr.: 2
+The General: 4
+Gran Torino: 2
+Persona: 0
+Before Sunrise: 5
+Mary and Max: 5
+Catch Me If You Can: 1
+Mr. Smith Goes to Washington: 0
+In the Name of the Father: 5
+Barry Lyndon: 2
+Room: 2
+Gone Girl: 0
+Hacksaw Ridge: 2
+The Passion of Joan of Arc: 2
+Andhadhun: 0
+Ford v Ferrari: 5
+12 Years a Slave: 2
+To Be or Not to Be: 2
+The Big Lebowski: 0
+Autumn Sonata: 0
+Dead Poets Society: 5
+How to Train Your Dragon: 4
+Mad Max: Fury Road: 3
+Ben-Hur: 2
+Harry Potter and the Deathly Hallows: Part 2: 1
+Million Dollar Baby: 4
+The Wages of Fear: 4
+The Handmaiden: 2
+Stand by Me: 3
+Network: 2
+Logan: 4
+Gangs of Wasseypur: 2
+Cool Hand Luke: 2
+Hachi: A Dog's Tale: 0
+La Haine: 0
+The 400 Blows: 3
+The Shape of Voice: 4
+Platoon: 3
+Spotlight: 4
+Monsters, Inc.: 4
+Rebecca: 5
+Life of Brian: 0
+Hotel Rwanda: 2
+The Bandit: 2
+In the Mood for Love: 3
+Rush: 4
+Into the Wild: 1
+Rocky: 2
+Amores perros: 2
+Nausicaä of the Valley of the Wind: 4
+Andrei Rublev: 4
+It Happened One Night: 1
+Before Sunset: 4
+Fanny and Alexander: 2
+Neon Genesis Evangelion: The End of Evangelion: 2
+The Battle of Algiers: 0
+96: 5
+Nights of Cabiria: 4
+The Princess Bride: 0
+Paris, Texas: 4
+Three Colours: Red: 5
+
+
+
